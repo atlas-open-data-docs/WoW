@@ -1,0 +1,13 @@
+build-stage:
+  stage: build
+  image: python:3.8-buster
+  before_script:
+    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    - brew install hugo
+  script:
+    - hugo
+  artifacts:
+    paths:
+    - public
+  only:
+    - master
