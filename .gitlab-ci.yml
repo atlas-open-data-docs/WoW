@@ -2,7 +2,8 @@ build-stage:
   stage: build
   image: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
   before_script:
-    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    - yum install -y ruby
+    - sudo -u nobody /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     - brew install hugo
   script:
     - hugo
