@@ -2,7 +2,6 @@ build-stage:
   stage: build
   image: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
   before_script:
-    - yum update
     - yum install hugo
   script:
     - hugo
