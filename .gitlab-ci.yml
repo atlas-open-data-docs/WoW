@@ -3,7 +3,7 @@ build-stage:
   image: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
   before_script:
     - yum install epel-release
-    - yum install snapd
+    - yum install snapd --skip-broken
     - systemctl enable --now snapd.socket
     - ln -s /var/lib/snapd/snap /snap
     - snap install hugo
