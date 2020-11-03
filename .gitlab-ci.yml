@@ -2,6 +2,8 @@ build-stage:
   stage: build
   image: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
   before_script:
+    - yum install epel-release
+    - yum install DNF
     - dnf install hugo
   script:
     - hugo
