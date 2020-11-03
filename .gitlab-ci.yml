@@ -1,9 +1,8 @@
 build-stage:
   stage: build
-  image: python:3.8-buster
+  image: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
   before_script:
-    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-    - brew install hugo
+    - dnf install hugo
   script:
     - hugo
   artifacts:
