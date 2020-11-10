@@ -1,4 +1,4 @@
-baseURL: https://atlas-opendata.web.cern.ch/atlas-opendata/new/
+baseURL: http://atlas-opendata.web.cern.ch/atlas-opendata/new/
 #baseURL: http://opendata.atlas.cern/new/
 #baseURL: https://atlas-opendata.web.cern.ch/atlas-opendata/new/
 languageCode: en-us
