@@ -4,7 +4,7 @@ build-stage:
   before_script:
     - echo "Start installations"
     - yum install -y sudo ruby
-    - sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     #- sudo -u nobody /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
     - brew install hugo
   script:
