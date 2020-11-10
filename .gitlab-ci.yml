@@ -1,16 +1,20 @@
-build-stage:
-  stage: build
-  image: gitlab-registry.cern.ch/ci-tools/ci-worker:cc7
-  before_script:
-    - echo "Start installations"
-    - yum install -y sudo ruby
-    - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-    #- sudo -u nobody /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-    - brew install hugo
+# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+image: registry.gitlab.com/pages/hugo:latest
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+test:
   script:
-    - hugo
+  - hugo
+  except:
+  - master
+
+pages:
+  script:
+  - hugo
   artifacts:
     paths:
     - public
   only:
-    - master
+  - master
