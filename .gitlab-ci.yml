@@ -6,6 +6,7 @@ build-stage:
     GIT_SUBMODULE_STRATEGY: recursive
   script:
     - hugo
+    - echo "done!!!!!"
   artifacts:
     paths:
     - public
