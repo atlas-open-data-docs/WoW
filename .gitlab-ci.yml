@@ -1,20 +1,32 @@
-# All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
-image: registry.gitlab.com/pages/hugo:latest
+build-stage:
+  stage: build
+  # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
+  image: registry.gitlab.com/pages/hugo:latest
+  variables:
+    GIT_SUBMODULE_STRATEGY: recursive
+  test:
+    script:
+    - hugo
+    except:
+    - master
+  pages:
+    script:
+    - hugo
+    artifacts:
+      paths:
+      - public
+    only:
+    - master
 
-variables:
-  GIT_SUBMODULE_STRATEGY: recursive
 
-test:
+deploy-stage:
+  stage: deploy
+  variables:
+    "EOS_PATH": "/eos/user/a/atlasout/www/new"
+  image: gitlab-registry.cern.ch/ci-tools/ci-web-deployer
   script:
-  - hugo
-  except:
-  - master
-
-pages:
-  script:
-  - hugo
-  artifacts:
-    paths:
-    - public
+    - deploy-eos
+  dependencies:
+    - build-stage
   only:
-  - master
+    - master
