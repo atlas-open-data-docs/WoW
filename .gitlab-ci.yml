@@ -6,6 +6,7 @@ build-stage:
     GIT_SUBMODULE_STRATEGY: recursive
   script:
     - hugo
+    - echo "done!!!!!"
   artifacts:
     paths:
     - public
@@ -16,6 +17,7 @@ build-stage:
 deploy-stage:
   stage: deploy
   variables:
+    #"EOS_PATH": "/eos/user/a/atlasout/www"
     "EOS_PATH": "/eos/user/a/atlasout/www/new"
   image: gitlab-registry.cern.ch/ci-tools/ci-web-deployer
   script:
