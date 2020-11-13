@@ -1,6 +1,5 @@
-baseURL: http://atlas-opendata.web.cern.ch/atlas-opendata/new/
 #baseURL: http://opendata.atlas.cern/new/
-#baseURL: https://atlas-opendata.web.cern.ch/atlas-opendata/new/
+baseURL: https://atlas-opendata.web.cern.ch/atlas-opendata/new/
 languageCode: en-us
 title: ATLAS Open Data
 theme: hugo-refresh
@@ -104,7 +103,7 @@ params:
     # it can be: "none", "menu", "footer" or "menu+footer"
     linkPosition: "menu+footer"
     # this options let you specify the text of the link to the homepage
-    # linkText: "Home"
+    linkText: "Home"
     # option to specify the title in the homepage
     title: ATLAS Open Data
     # option to specify the subtitle in the homepage

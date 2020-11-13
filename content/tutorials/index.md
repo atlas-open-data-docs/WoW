@@ -3,7 +3,7 @@ title: "Tutorials"
 date: 2020-06-03T21:51:13+01:00
 draft: false
 hideLastModified: true
-summaryImage: "images/system.jpg"
+summaryImage: "images/handmade_WAnalysis.png"
 keepImageRatio: true
 tags: ["ATLAS", "CERN", "Experiment"]
 summary: "A on-boarding tree to help you to start"
@@ -43,10 +43,7 @@ showInMenu: true
   </head>
 {{< /rawhtml >}}
 
-45trv5v45trv5v45v45tr v5v45trv5v45trv5v45trv5v45trv5v
-45trv5v45trv5v45trv5v45trv5v45trv5v45t rv5v45trv5v45trv5v45trv5v
-45trv5v45trv5v45trv5v45trv5v45 trv5v45trv5v45trv5v45trv5v45trv5v
-45trv5v45trv5v45trv5v45trv5v45trv5v45trv 5v45trv5v45trv 5v45trv5v
+<b>The following app below is designed to help you to find the resource that better fit your objective or curiosity!</b>
 
 {{< image
 src="images/start-tree.png"
@@ -158,7 +155,7 @@ alt="Tree" >}}
     // ************** Generate the tree diagram	 *****************
     var margin = {top: 0, right: 200, bottom: 200, left: 200},
     width  = 1600 - margin.right - margin.left,
-    height = 1200  - margin.top   - margin.bottom;
+    height = 1200 - margin.top   - margin.bottom;
 
     var i = 0,
     duration = 750,
@@ -216,7 +213,7 @@ alt="Tree" >}}
 
       nodeEnter
       .append("a")
-      .attr("xlink:href", function (d) { return "http://opendata.atlas.cern/tutorials/" + d.id; + "/index.html" })
+      .attr("xlink:href", function (d) { return "../" + d.id; + "/index.html" })
       .append("rect")
       .attr("class", "clickable")
       .attr("y", -8)

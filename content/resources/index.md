@@ -1,13 +1,13 @@
 ---
-title: "8 TeV"
+title: "Resources"
 date: 2020-06-04T21:51:13+01:00
 draft: false
 hideLastModified: true
-summaryImage: "images/handmade_event_display.png"
+summaryImage: "images/handmade_downloads.png"
 keepImageRatio: true
 tags: ["release", "8 TeV", "Experiment"]
 summary: "This is a custom summary for my article"
 showInMenu: true
 ---
 
-hola
+Resources
