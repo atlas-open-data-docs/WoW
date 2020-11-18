@@ -75,7 +75,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Ubuntu"
+    fontFamily: "Open Sans" # "Ubuntu"
 
   # sidebar options
   sidebar:
@@ -83,12 +83,12 @@ params:
     # the starting folder is configure in "assetDir" of this file
     logo: "/images/opendata.svg"
     # option to specify the font of the sidebar
-    fontFamily: "Ubuntu" # "Open Sans"
+    fontFamily: "Open Sans" # "Ubuntu"
 
   # navbar options
   navbar:
     # option to specify the logo of the sidebar
-    fontFamily: "Ubuntu"
+    fontFamily: "Open Sans" # "Ubuntu"
 
   # 404 page options
   pagNotFound:
@@ -152,7 +152,7 @@ params:
     #   link: atlasexperiment
     #   title: ATLAS Instagram
     # option to specify the copyright in the footer
-    copyright: Website by ATLAS @CERN - 2020
+    copyright: Website by ATLAS @CERN - using https://themes.gohugo.io
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -201,4 +201,4 @@ languages:
         # github:
         #   link: username
         #   title: Github
-        copyright: ATLAS @CERN - 2020
+        copyright: ATLAS @CERN - using https://themes.gohugo.io
