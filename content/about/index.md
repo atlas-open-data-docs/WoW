@@ -12,7 +12,7 @@ showInMenu: true
 
 ![path](images/detector_background.png)
 
-# **The ATLAS Open Data 13 TeV Documentation**
+# **The ATLAS Open Data 13 TeV release**
 
 The aim of the 13 TeV ATLAS Open Data is to **provide data and tools** to high school, undergraduate and graduate students, as well as teachers and lecturers, to help educate and train them in analysis techniques used in experimental particle physics. Sharing data collected by the ATLAS experiment aims to generate excitement and enthusiasm for fundamental research, inspiring physicists of the future.
 
