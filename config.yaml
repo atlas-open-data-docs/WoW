@@ -75,7 +75,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Open Sans" # "Ubuntu"
+    fontFamily: "Ubuntu" # "Open Sans"
 
   # sidebar options
   sidebar:
