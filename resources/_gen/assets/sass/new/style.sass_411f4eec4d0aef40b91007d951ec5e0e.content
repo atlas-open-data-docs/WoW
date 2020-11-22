@@ -7105,7 +7105,7 @@ Hero styles
   padding-top: 6rem;
   padding-bottom: 6rem; }
   .hero-body .title, .hero-body .subtitle {
-    font-family: "Open Sans", serif; }
+    font-family: "Ubuntu", serif; }
   .hero-body .title.is-bold {
     font-weight: 700; }
   .hero-body .subtitle.is-muted {

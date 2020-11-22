@@ -9,6 +9,9 @@ tags: ["ATLAS", "CERN", "Experiment"]
 summary: "This is a custom summary for my article"
 showInMenu: true
 ---
+{{< rawhtml >}}
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+{{< /rawhtml >}}
 
 ![path](images/detector_background.png)
 
@@ -44,3 +47,15 @@ The following documentation provides **introductory material and detailed inform
 + [Data visualisation](visualization/index.md): introduction to the 13 TeV Open Data visualisation using web-based online histograms.
 
 + [Glossary](atlas/GLOSSARY.md): a glossary of a few ATLAS and high-energy physics terms.
+
+---
+{{< rawhtml >}}
+<CENTER>
+<div class="mermaid">
+graph LR
+Start --> Need{"Do I need diagrams"}
+Need -- No --> Off["Set params.mermaid.enable = false"]
+Need -- Yes --> HaveFun["Great!  Enjoy!"]
+</div>
+</CENTER>
+{{< /rawhtml >}}
