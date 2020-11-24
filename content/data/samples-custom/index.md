@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_software.png"
 keepImageRatio: true
-tags: ["release", "13 TeV", "Experiment"]
+tags: ["release", "13 TeV", "jets"]
 summary: "This is a custom summary for my article"
 showInMenu: false
 ---
