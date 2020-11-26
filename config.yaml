@@ -17,8 +17,7 @@ theme: hugo-refresh
 DefaultContentLanguage: en
 
 ## Option to disable additional language in your site.
-# disableLanguages: ["ru"]
-
+disableLanguages: ["ru"]
 disableKinds: ["ru","RSS"]
 
 sitemap:
@@ -64,7 +63,7 @@ params:
   summary:
     # option to specify the default image in the summary list
     # the starting folder is configure in "assetDir" of this file
-    defaultImage : "/images/default_summary.jpg"
+    defaultImage : "/images/ATLAS-logo.gif"
 
   # loading options
   loading:
