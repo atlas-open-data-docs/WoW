@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2020-11-03T21:51:13+01:00
+date: 2020-11-23T21:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_community.png"
