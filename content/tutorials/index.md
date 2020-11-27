@@ -1,6 +1,6 @@
 ---
-title: "Tour"
-date: 2020-10-23T04:51:13+01:00
+title: "Tutorials"
+date: 2020-06-03T21:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
