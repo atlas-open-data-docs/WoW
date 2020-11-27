@@ -2195,7 +2195,7 @@ a.box:active {
   .image.is-9by16 .has-ratio, .image.is-1by2 img,
   .image.is-1by2 .has-ratio, .image.is-1by3 img,
   .image.is-1by3 .has-ratio {
-    height: 100%;
+    height: auto;
     width: 100%; }
   .image.is-square, .image.is-1by1 {
     padding-top: 100%; }
@@ -3327,7 +3327,7 @@ a.tag:hover {
     border-color: #cfcfcf; }
 
 .file-input {
-  height: 100%;
+  height: auto;
   left: 0;
   opacity: 0;
   outline: none;
@@ -6912,7 +6912,7 @@ label.panel-block {
   overflow: hidden; }
   .hero-video video {
     left: 50%;
-    min-height: 100%;
+    min-height: auto;
     min-width: 100%;
     position: absolute;
     top: 50%;
@@ -7547,7 +7547,7 @@ Sidebar Styles
   .menu-icon-wrapper .menu-icon-trigger {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: auto;
     cursor: pointer;
     pointer-events: auto;
     background: none;
@@ -7558,7 +7558,7 @@ Sidebar Styles
 .sidebar {
   background: #0b80c3;
   width: 280px;
-  height: 100%;
+  height: auto;
   position: fixed;
   top: 0;
   left: 0;
