@@ -16,7 +16,7 @@ showInMenu: true
 
 <CENTER>
 
-<iframe name="analyzer" style="overflow:hidden;height: 1200px; width:100%"  src="../release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
+<iframe name="analyzer" style="overflow:hidden;height: 1200px; width:100%"  src="../../release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
 
 </CENTER>
 
@@ -32,7 +32,7 @@ showInMenu: true
 
 <CENTER>
 
-<iframe name="atlasframe" style="overflow:hidden;height: 750px;width:100%" src="../visualisations/JsRoot460/?nobrowser&amp;file=../atlas_detector/atlas.root&amp;item=atlas;1&amp;opt=clipxyz" frameborder="0" allowfullscreen=""></iframe>
+<iframe name="atlasframe" style="overflow:hidden;height: 750px;width:100%" src="../../visualisations/JsRoot460/?nobrowser&amp;file=../atlas_detector/atlas.root&amp;item=atlas;1&amp;opt=clipxyz" frameborder="0" allowfullscreen=""></iframe>
 
 </CENTER>
 
