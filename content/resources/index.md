@@ -7,7 +7,7 @@ summaryImage: "images/handmade_downloads.png"
 keepImageRatio: true
 tags: ["release", "8 TeV", "Experiment"]
 summary: "This is a custom summary for my article"
-showInMenu: true
+showInMenu: false
 ---
 {{< rawhtml >}}
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>

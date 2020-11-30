@@ -13,6 +13,17 @@ showInMenu: true
 ## A Histogram Analyser
 
 {{< rawhtml >}}
+div, iframe {
+    width: 100px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: #777;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
 
 <CENTER>
 

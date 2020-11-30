@@ -7,7 +7,7 @@ summaryImage: "images/handmade_WAnalysis.png"
 keepImageRatio: true
 tags: ["ATLAS", "CERN", "Experiment"]
 summary: "A on-boarding tree to help you to start"
-showInMenu: true
+showInMenu: flase
 ---
 {{< rawhtml >}}
 <h>
