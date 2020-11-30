@@ -13,18 +13,6 @@ showInMenu: true
 ## A Histogram Analyser
 
 {{< rawhtml >}}
-div, iframe {
-    width: 100px;
-    height: 50px;
-    margin: 0 auto;
-    background-color: #777;
-}
-
-iframe {
-    display: block;
-    border-style:none;
-}
-
 <CENTER>
 
 <iframe name="analyzer" style="overflow:hidden;height: 1200px; width:100%"  src="https://atlas-opendata.web.cern.ch/release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
