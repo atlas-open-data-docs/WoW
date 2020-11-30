@@ -12,14 +12,6 @@ showInMenu: true
 
 ## A Histogram Analyser
 
-{{< rawhtml >}}
-<CENTER>
-
-<iframe name="analyzer" style="overflow:hidden;height: 1200px; width:100%"  src="https://atlas-opendata.web.cern.ch/release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
-
-</CENTER>
-
-{{< /rawhtml >}}
 
 ---
 
@@ -31,7 +23,7 @@ showInMenu: true
 
 <CENTER>
 
-<iframe name="atlasframe" style="overflow:hidden;height: 750px;width:100%" src="https://atlas-opendata.web.cern.ch/"/visualisations/JsRoot460/?nobrowser&amp;file=../atlas_detector/atlas.root&amp;item=atlas;1&amp;opt=clipxyz" frameborder="0" allowfullscreen=""></iframe>
+<iframe name="atlasframe" style="overflow:hidden;height: 750px;width:100%" src="https://atlas-opendata.web.cern.ch/visualisations/JsRoot590/?nobrowser&amp;file=../atlas_detector/atlas.root&amp;item=atlas;1&amp;opt=clipxyz" frameborder="0" allowfullscreen=""></iframe>
 
 </CENTER>
 
