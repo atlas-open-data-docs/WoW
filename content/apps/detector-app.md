@@ -10,20 +10,6 @@ summary: "The entry page for the Apps: Online and Electron"
 showInMenu: true
 ---
 
-## A Histogram Analyser
-
-{{< rawhtml >}}
-
-<CENTER>
-
-<iframe name="analyzer" style="overflow:hidden;height: 1200px; width:100%"  src="https://atlas-opendata.web.cern.ch/release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
-
-</CENTER>
-
-{{< /rawhtml >}}
-
----
-
 ## ATLAS detector
 
 
@@ -37,3 +23,5 @@ showInMenu: true
 </CENTER>
 
 {{< /rawhtml >}}
+
+---

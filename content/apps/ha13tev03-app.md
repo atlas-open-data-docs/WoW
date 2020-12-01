@@ -23,17 +23,3 @@ showInMenu: true
 {{< /rawhtml >}}
 
 ---
-
-## ATLAS detector
-
-
-{{< rawhtml >}}
-
-
-<CENTER>
-
-<iframe name="atlasframe" style="overflow:hidden;height: 750px;width:100%" src="https://atlas-opendata.web.cern.ch/visualisations/JsRoot460/?nobrowser&amp;file=../atlas_detector/atlas.root&amp;item=atlas;1&amp;opt=clipxyz" frameborder="0" allowfullscreen=""></iframe>
-
-</CENTER>
-
-{{< /rawhtml >}}
