@@ -10,30 +10,11 @@ summary: "The entry page for the Apps: Online and Electron"
 showInMenu: true
 ---
 
-## A Histogram Analyser
+# Apps
 
-{{< rawhtml >}}
-
-<CENTER>
-
-<iframe name="analyzer" style="overflow:hidden;height: 1200px; width:100%"  src="https://atlas-opendata.web.cern.ch/release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
-
-</CENTER>
-
-{{< /rawhtml >}}
+| <h2><b>Histogram Analysers</b></h2> | <h2><b>The ATLAS detector</b></h2> | <h2><b>Notebooks</b></h2> |
+| :---:        |          :---: | :---:        |
+| [![8TeV](../../DataAndTools/pictures/handmade_WAnalysis.png)](ha13tev03-app.html) | [![13TeV](../../DataAndTools/pictures/handmade_externals_friends.png)](detector-app.html) | [![custom](../../DataAndTools/pictures/handmade_ZAnalysis_trans.png)](notebooks.html) |
+| Text        | Text        | Text        |
 
 ---
-
-## ATLAS detector
-
-
-{{< rawhtml >}}
-
-
-<CENTER>
-
-<iframe name="atlasframe" style="overflow:hidden;height: 750px;width:100%" src="https://atlas-opendata.web.cern.ch/visualisations/JsRoot460/?nobrowser&amp;file=../atlas_detector/atlas.root&amp;item=atlas;1&amp;opt=clipxyz" frameborder="0" allowfullscreen=""></iframe>
-
-</CENTER>
-
-{{< /rawhtml >}}
