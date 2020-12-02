@@ -2,15 +2,15 @@
 
 This project contains the ATLAS Open Data public website for education.
 
-It is hosted at CERN and it uses:
-* Principal domian: http://opendata.atlas.cern/new/
-* Secondary/Backup domian: https://atlas-opendata.web.cern.ch/new/
- * The "```/new/```" will be remove once the site is approved.
+It is hosted at CERN, and it uses:
+* Principal domain: http://opendata.atlas.cern/new/
+* Secondary/Backup domain: https://atlas-opendata.web.cern.ch/new/
+ * The "```/new/```" will be removed once the site is approved.
 
 ---
 
 ## Who can contribute?
-**Any ATLAS member is welcome and encourage to participate** in the review and development of the content of the ATLAS Open Data website.
+**Any ATLAS member is welcome and encouraged to participate** in the review and development of the content of the ATLAS Open Data website.
 
 **You can help** in several ways:
 * Reporting any issue, from a typo to a broken web app or misleading content.
@@ -21,20 +21,20 @@ It is hosted at CERN and it uses:
 ** We can evaluate together the viability and fit into the project.
 
 **We will appreciate if you let us know in advance of any update or idea, opening a ticket in our Jira project https://its.cern.ch/jira/browse/MYATLAS**
-* The project is monitor for a small team, improving the chances of a prompt answer. And to avoid any conflict with planned interventions/updates.
+* The project is monitoring for a small team, improving the chances of a prompt answer. And to avoid any conflict with planned interventions/updates.
 
 ---
 
 ## How to contribute?
 The site is integrated to the GitLab CI/CD, so, the simplest way to edit the site is editing the content directly in the GitLab Web UI.
-* The website pages uses Markdown, making very easy to contribute.
+* The website pages use Markdown, making very easy to contribute.
  * Just like this README.**md** :)
  * It also has HTML, JavaScript and custom CSS to enhance the UX.
 * The **content of the website is located in the folder called** ```content```.
 * All the other folders are needed by [Hugo](https://gohugo.io/) to rendering and build the site. * Please, **do not modify files outside the folder** ```content```.
 
 #### See this example
-* **A)** You can start from the [GitLab project](https://gitlab.cern.ch/atlas-outreach-data-tools/aod-website-hugo-framework/). Don't forget to login to CERN GitLab first.
+* **A)** You can start from the [GitLab project](https://gitlab.cern.ch/atlas-outreach-data-tools/aod-website-hugo-framework/). Don't forget to log in to CERN GitLab first.
 
 ![](pics/hugo-edit-example-01.png)
 
