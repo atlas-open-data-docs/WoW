@@ -3,8 +3,9 @@
 This project contains the ATLAS Open Data public website for education.
 
 It is hosted at CERN and it uses:
-* Principal domian: http://opendata.atlas.cern
-* Secondary/Backup domian: https://atlas-opendata.web.cern.ch
+* Principal domian: http://opendata.atlas.cern/new/
+* Secondary/Backup domian: https://atlas-opendata.web.cern.ch/new/
+ * The "```/new/```" will be remove once the site is approved.
 
 ---
 
@@ -13,7 +14,8 @@ It is hosted at CERN and it uses:
 
 **You can help** in several ways:
 * Reporting any issue, from a typo to a broken web app or misleading content.
-* Giving us feedback on the content (physics, software, figures,...), the layout our UI/UX in your local project.
+* Giving us feedback on the content (physics, software, figures,...), the layout our UI & UX.
+* Any feedback that is related to your local project course or educational project.
 * Letting us any lack of performance of the tools hosted or promoted in this site, and of course, the site itself.
 * Let us know your ideas. You are also welcome to help to implement it.
 ** We can evaluate together the viability and fit into the project.
@@ -33,7 +35,7 @@ The site is integrated to the GitLab CI/CD, so, the simplest way to edit the sit
 
 #### See this example
 * **A)** You can start from the [GitLab project](https://gitlab.cern.ch/atlas-outreach-data-tools/aod-website-hugo-framework/). Don't forget to login to CERN GitLab first.
-![step ](pics//hugo-edit-example-01.png)
+![](pics//hugo-edit-example-01.png)
 
 * **B)** Go to the folder ```content``` (it is the only folder you should touch)
 ![step 2](pics//hugo-edit-example-02.png)
