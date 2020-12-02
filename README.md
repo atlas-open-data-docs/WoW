@@ -33,19 +33,19 @@ The site is integrated to the GitLab CI/CD, so, the simplest way to edit the sit
 
 #### See this example
 * **A)** You can start from the [GitLab project](https://gitlab.cern.ch/atlas-outreach-data-tools/aod-website-hugo-framework/). Don't forget to login to CERN GitLab first.
-![step ](http://universidad.ch/ATLAS/outreach/pictures/hugo-docs/hugo-edit-example-01.png)
+![step ](pics//hugo-edit-example-01.png)
 
 * **B)** Go to the folder ```content``` (it is the only folder you should touch)
-![step 2](http://universidad.ch/ATLAS/outreach/pictures/hugo-docs/hugo-edit-example-02.png)
+![step 2](pics//hugo-edit-example-02.png)
 
 * **C)** Let's modify the **About** page, so, open the folder called ```about```
-![step 3](http://universidad.ch/ATLAS/outreach/pictures/hugo-docs/hugo-edit-example-03.png)
+![step 3](pics//hugo-edit-example-03.png)
 
 * **D)** And from there, the file ```index.md```
-![step 4](http://universidad.ch/ATLAS/outreach/pictures/hugo-docs/hugo-edit-example-04.png)
+![step 4](pics//hugo-edit-example-04.png)
 
 * **E)** Click the **Edit** button and you will get the web editor ready for direct edition
-![step 5](http://universidad.ch/ATLAS/outreach/pictures/hugo-docs/hugo-edit-example-05.png)
+![step 5](pics//hugo-edit-example-05.png)
  * Notice that you can preview your changes, but keep in mind that GitLab only renders Markdown, other elements like HTML will be shown as plain text
 
 
