@@ -1,4 +1,4 @@
-# ATLAS Open Data site using Hugo Framework
+# ATLAS Open Data site using [Hugo](https://gohugo.io/) Framework
 
 This project contains the ATLAS Open Data public website for education.
 
@@ -31,7 +31,7 @@ The site is integrated to the GitLab CI/CD, so, the simplest way to edit the sit
  * Just like this README.**md** :)
  * It also has HTML, JavaScript and custom CSS to enhance the UX.
 * The **content of the website is located in the folder called** ```content```.
-* All the other folders are needed for Hugo to rendering and build the site. * Please, **do not modify files outside the folder** ```content```.
+* All the other folders are needed by [Hugo](https://gohugo.io/) to rendering and build the site. * Please, **do not modify files outside the folder** ```content```.
 
 #### See this example
 * **A)** You can start from the [GitLab project](https://gitlab.cern.ch/atlas-outreach-data-tools/aod-website-hugo-framework/). Don't forget to login to CERN GitLab first.
@@ -62,7 +62,7 @@ The site is integrated to the GitLab CI/CD, so, the simplest way to edit the sit
 
 * **F)** Add a meaningful commit comment. Updates to the site content will be visible after a maximum of 10 min.
 
-* **G)** if you want to get Hugo locally, please, follow the [Hugo Documentation](https://gohugo.io/categories/getting-started) (it is **VERY** well done!).
+* **G)** if you want to get [Hugo](https://gohugo.io/) locally, please, follow the [Hugo Documentation](https://gohugo.io/categories/getting-started) (it is **VERY** well done!).
 ---
 
 ## Contacts
