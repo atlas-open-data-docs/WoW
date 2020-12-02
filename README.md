@@ -57,10 +57,10 @@ The site is integrated to the GitLab CI/CD, so, the simplest way to edit the sit
 * **E)** Click the **Edit** button and you will get the web editor ready for direct edition
 
 ![step 5](pics/hugo-edit-example-05.png)
- * Notice that you can preview your changes, but keep in mind that GitLab only renders Markdown, other elements like HTML will be shown as plain text
+**Notice that** you can preview your changes, but keep in mind that GitLab only renders Markdown, other elements like HTML will be shown as plain text
 
 
-* F) Add a meaningful commit comment. Updates to the site content will be visible after a maximum of 10 min.
+* **F)** Add a meaningful commit comment. Updates to the site content will be visible after a maximum of 10 min.
 
 * **G)** if you want to get Hugo locally, please, follow the [Hugo Documentation](https://gohugo.io/categories/getting-started) (it is **VERY** well done!).
 ---
