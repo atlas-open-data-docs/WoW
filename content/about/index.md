@@ -17,15 +17,45 @@ showInMenu: true
 
 # **The ATLAS Open Data educational project**
 
-The aim of the ATLAS Open Data is to **provide data and tools** to high school, undergraduate and graduate students, as well as teachers and lecturers, to help educate and train them in analysis techniques used in experimental particle physics. Sharing data collected by the ATLAS experiment aims to generate excitement and enthusiasm for fundamental research, inspiring physicists of the future.
+[ATLAS Open Data](http://opendata.atlas.cern)
 
-The following documentation provides **introductory material and detailed information** for a wide audience about the ATLAS experiment, the released ATLAS Open Datasets and their visualisation, the analysis frameworks and Jupyter notebooks, as well as the virtual machine usage instructions.
+**The ATLAS Collaboration's current approach on the release of datasets is intended for Education, Training and Outreach activities around the World**.
+In order to fulfil that objective, the **[ATLAS Open Data project](http://opendata.atlas.cern) was created**.
+
+[ATLAS Open Data](http://opendata.atlas.cern) project aims to provide data and tools to high-school, masters and undergraduate students, as well as teachers and lecturers, to help educate them in physics analysis techniques used in experimental particle physics. Sharing data collected by the [ATLAS](https://atlas.cern) experiment aims to generate excitement and enthusiasm for fundamental research, inspiring physicists of the future.
+
+This site provides **introductory material and detailed information** for a wide audience about the ATLAS Open Datasets and their visualisation, the analysis frameworks and Jupyter notebooks, as well as the virtual machine usage instructions.
 
 ---
 
 ## General information
 
 + The ATLAS Open Data is hosted in the [ATLAS Open Data website](http://opendata.atlas.cern), as well as in the [CERN Open Data website](http://opendata.cern.ch/) and are attributed separate DOI's that allow their citation.
+
 + The main ATLAS-approved document meant to be a guide on the content, properties, capabilities and limitations of the released datasets is: [ATL-OREACH-PUB-2020-001](https://cds.cern.ch/record/2707171), please cite accordingly.
 
 ---
+
+The target audience is physics undergraduate and masters students, but may also include advanced high-school students or indeed anyone with some basic understanding of particle physics and coding experience. A comprehensive **educational platform was developed featuring a new 8 TeV dataset and a set of educational tools at a more advanced level. The objectives of this initiative are to provide**:
+
+* 8 TeV proton–proton data collected by ATLAS plus associated simulated data.
+
+* 13 TeV proton–proton data collected by ATLAS plus associated simulated data.
+
+* Tools and software of varying technical difficulty to analyse the data.
+
+* An educational platform providing easy access to the data, software and tools with documentation in the form of step-by-step instructions for users.
+
+---
+
+## <a name="atlas-disclaimer">Disclaimer</a>
+
+* **The [ATLAS Open Data](http://opendata.atlas.cern) are released under the [Creative Commons CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/)**.
+Neither ATLAS nor CERN endorses any works, scientific or otherwise, produced using these data, even if available on, or linked from, this nor the ATLAS portal.
+* All data sets will have a unique [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) that you are requested to cite in any applications or publications.
+
+* Despite being processed, the high-level primary datasets remain complex, and selection criteria need to be applied in order to analyse them, requiring some understanding of particle physics and detector functioning. The large majority of the data cannot be viewed in simple data tables for spreadsheet-based analyses.
+
+* No further development is foreseen for either the data released or the software version needed to analyse them.
+    * The analysis methods and software have evolved since the released data were recorded.
+    * More advanced techniques are used with recent data, but the software is not compatible out-of-the-box with older data samples.
