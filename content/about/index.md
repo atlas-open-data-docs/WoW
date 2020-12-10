@@ -41,7 +41,9 @@ Please cite accordingly.
 
 ---
 
-The target audience is physics undergraduate and masters students, but may also include advanced high-school students or indeed anyone with some basic understanding of particle physics and coding experience. A comprehensive **educational platform was developed featuring a new 8 TeV dataset and a set of educational tools at a more advanced level. The objectives of this initiative are to provide**:
+The target audience is physics undergraduate and masters students, but may also include advanced high-school students or indeed anyone with some basic understanding of particle physics and coding experience.
+
+A comprehensive **educational platform was developed featuring a new 8 TeV dataset and a set of educational tools at a more advanced level. The objectives of this initiative are to provide**:
 
 * 8 TeV proton–proton data collected by ATLAS plus associated simulated data.
 
@@ -61,6 +63,8 @@ Neither ATLAS nor CERN endorses any works, scientific or otherwise, produced usi
 
 * Despite being processed, the high-level primary datasets remain complex, and selection criteria need to be applied in order to analyse them, requiring some understanding of particle physics and detector functioning. The large majority of the data cannot be viewed in simple data tables for spreadsheet-based analyses.
 
+<!--
 * No further development is foreseen for either the data released or the software version needed to analyse them.
     * The analysis methods and software have evolved since the released data were recorded.
     * More advanced techniques are used with recent data, but the software is not compatible out-of-the-box with older data samples.
+-->
