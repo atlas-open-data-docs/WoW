@@ -9,8 +9,23 @@ tags: ["release", "Apps", "JavaScript"]
 summary: "The entry page for the Apps: Online and Electron"
 showInMenu: true
 ---
+{{< rawhtml >}}
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
-# Apps
+<CENTER>
+
+<img src="http://atlas.cern/sites/atlas-public.web.cern.ch/files/opendata-8tev.gif" alt="histogram-gif">
+
+<!-- [histogram-gif](http://atlas.cern/sites/atlas-public.web.cern.ch/files/opendata-8tev.gif)
+-->
+
+</CENTER>
+
+<br></br>
+
+{{< /rawhtml >}}
+
+&nbsp;
 
 | <h2><b>Histogram Analysers</b></h2> | <h2><b>The ATLAS detector</b></h2> | <h2><b>Notebooks</b></h2> |
 | :---:        |          :---: | :---:        |
