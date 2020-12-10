@@ -15,12 +15,13 @@ showInMenu: true
 
 ![path](images/detector_background.png)
 
-# **The ATLAS Open Data educational project**
+# **The [ATLAS Open Data](http://opendata.atlas.cern)** Educational project
 
-[ATLAS Open Data](http://opendata.atlas.cern)
+&nbsp;
 
-**The ATLAS Collaboration's current approach on the release of datasets is intended for Education, Training and Outreach activities around the World**.
+**The [ATLAS Collaboration](http://atlas.cern/resources/opendata)'s current approach on the release of datasets is intended for Education, Training and Outreach activities around the World**.
 In order to fulfil that objective, the **[ATLAS Open Data project](http://opendata.atlas.cern) was created**.
+&nbsp;
 
 [ATLAS Open Data](http://opendata.atlas.cern) project aims to provide data and tools to high-school, masters and undergraduate students, as well as teachers and lecturers, to help educate them in physics analysis techniques used in experimental particle physics. Sharing data collected by the [ATLAS](https://atlas.cern) experiment aims to generate excitement and enthusiasm for fundamental research, inspiring physicists of the future.
 
@@ -32,7 +33,11 @@ This site provides **introductory material and detailed information** for a wide
 
 + The ATLAS Open Data is hosted in the [ATLAS Open Data website](http://opendata.atlas.cern), as well as in the [CERN Open Data website](http://opendata.cern.ch/) and are attributed separate DOI's that allow their citation.
 
-+ The main ATLAS-approved document meant to be a guide on the content, properties, capabilities and limitations of the released datasets is: [ATL-OREACH-PUB-2020-001](https://cds.cern.ch/record/2707171), please cite accordingly.
++ The main ATLAS-approved documents meant to be a guide on the content, properties, capabilities and limitations of the two released datasets:
+* The [ATL-OREACH-PUB-2020-001](https://cds.cern.ch/record/2707171) for the 13 TeV samples
+* The [ATL-OREACH-PUB-2016-001](https://cds.cern.ch/record/2203649) and [ATL-OREACH-PUB-2018-001](https://cds.cern.ch/record/2624572) for the 8 TeV samples.
+
+Please cite accordingly.
 
 ---
 
