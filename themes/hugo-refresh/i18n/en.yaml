@@ -3,7 +3,7 @@
 - id: mainMenu
   translation: "Menu"
 - id: allTags
-  translation: "All Tags"
+  translation: "Resources"
 - id: tags
   translation: "Tags"
 - id: lastModified
