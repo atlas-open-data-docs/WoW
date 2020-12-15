@@ -4,7 +4,7 @@ date: 2020-11-06T21:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_downloads.png"
-keepImageRatio: true
+keepImageRatio: false
 tags: ["release", "8 TeV", "Experiment"]
 summary: "This is a custom summary for my article"
 showInMenu: false

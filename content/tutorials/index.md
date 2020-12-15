@@ -4,7 +4,7 @@ date: 2020-10-23T04:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_WAnalysis.png"
-keepImageRatio: true
+keepImageRatio: false
 tags: ["ATLAS", "CERN", "Experiment"]
 summary: "A on-boarding tree to help you to start"
 showInMenu: true
