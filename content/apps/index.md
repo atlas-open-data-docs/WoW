@@ -14,7 +14,7 @@ showInMenu: true
 
 <CENTER>
 
-<img src="http://atlas.cern/sites/atlas-public.web.cern.ch/files/opendata-8tev.gif" alt="histogram-gif">
+<img src="images/opendata-8tev.gif" alt="histogram-gif">
 
 <!--
 [histogram-gif](http://atlas.cern/sites/atlas-public.web.cern.ch/files/opendata-8tev.gif)
