@@ -151,7 +151,7 @@ params:
     #   link: atlasexperiment
     #   title: ATLAS Instagram
     # option to specify the copyright in the footer
-    copyright: Created by ATLAS @CERN - ONLY for Education - using themes.gohugo.io
+    copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
 
 ###################################################################
 ################## multilanguage support options ##################

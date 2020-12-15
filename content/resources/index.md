@@ -9,10 +9,6 @@ tags: ["release", "8 TeV", "Experiment"]
 summary: "This is a custom summary for my article"
 showInMenu: false
 ---
-{{< rawhtml >}}
-<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
-{{< /rawhtml >}}
-
 
 ![path](images/13Tev-ATLAS-Open-data-nologo_optimised.gif)
 
@@ -35,13 +31,3 @@ showInMenu: false
 + [Glossary](atlas/GLOSSARY.md): a glossary of a few ATLAS and high-energy physics terms.
 
 ---
-{{< rawhtml >}}
-<CENTER>
-<div class="mermaid">
-graph LR
-Start --> Need{"Do I need diagrams"}
-Need -- No --> Off["Set params.mermaid.enable = false"]
-Need -- Yes --> HaveFun["Great!  Enjoy!"]
-</div>
-</CENTER>
-{{< /rawhtml >}}
