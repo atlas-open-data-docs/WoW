@@ -1,12 +1,12 @@
 ---
-title: "Apps"
+title: "Software"
 date: 2020-11-23T04:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["release", "Apps", "JavaScript"]
-summary: "All Apps: Online and Electron"
+summary: "All Soft Tools"
 showInMenu: true
 ---
 {{< rawhtml >}}

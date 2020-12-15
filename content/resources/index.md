@@ -14,20 +14,30 @@ showInMenu: false
 
 ## Information hosted in this site
 
-+ [ATLAS experiment](atlas/experiment.md): learn about ATLAS: the largest multi-purpose particle detector located at CERN.
++ [ATLAS experiment](http://opendata.atlas.cern/release/2020/documentation/atlas/experiment.html): learn about ATLAS: the largest multi-purpose particle detector located at CERN.
 
-+ [13 TeV Open Datasets](datasets/intro.md): find detailed information about the released 13 TeV proton-proton collision data and simulation samples.
++ [13 TeV Open Datasets](http://opendata.atlas.cern/release/2020/documentation/datasets/intro.html): find detailed information about the released 13 TeV proton-proton collision data and simulation samples.
 
-+ [Physics analysis examples](physics/intro.md): illustration of the examples of physics analysis inspired by and following procedures taken in papers published by the ATLAS Collaboration.
++ [Physics analysis examples](http://opendata.atlas.cern/release/2020/documentation/physics/intro.html): illustration of the examples of physics analysis inspired by and following procedures taken in papers published by the ATLAS Collaboration.
 
-+ [Analysis frameworks](frameworks/intro.md): discussion of the available analysis frameworks and plotting codes.
++ [Analysis frameworks](http://opendata.atlas.cern/release/2020/documentation/frameworks/intro.html): discussion of the available analysis frameworks and plotting codes.
 
-+ [Online ROOTbooks](notebooks/analysis-examples.md): description of the data analysis to be performed directly in a web-browser by integrating the ROOT framework with Jupyter notebooks.
++ [Online ROOTbooks](http://opendata.atlas.cern/release/2020/documentation/notebooks/analysis-examples.html): description of the data analysis to be performed directly in a web-browser by integrating the ROOT framework with Jupyter notebooks.
 
-+ [Virtual machine](vm/index.md): description of the virtual machine, which contains all the information needed to carry out educational analysis of the released datasets.
++ [Virtual machine](http://opendata.atlas.cern/release/2020/documentation/vm/index.html): description of the virtual machine, which contains all the information needed to carry out educational analysis of the released datasets.
 
-+ [Data visualisation](visualization/index.md): introduction to the 13 TeV Open Data visualisation using web-based online histograms.
++ [Data visualisation](http://opendata.atlas.cern/release/2020/documentation/visualization/index.html): introduction to the 13 TeV Open Data visualisation using web-based online histograms.
 
-+ [Glossary](atlas/GLOSSARY.md): a glossary of a few ATLAS and high-energy physics terms.
++ [Glossary](http://opendata.atlas.cern/release/2020/documentation/atlas/GLOSSARY.html): a glossary of a few ATLAS and high-energy physics terms.
 
 ---
+
+&nbsp;
+
+## <a name="atlas-disclaimer">Disclaimer</a>
+This dataset is provided by the ATLAS Collaboration only for educational purposes and is not suited for scientific publications.
+* The [ATLAS Open Data](http://opendata.atlas.cern) are released under the [Creative Commons CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/).
+* Neither ATLAS nor CERN endorses any works produced using these data, which is intended only for educational use.
+* All data sets will have a unique [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) that you are requested to cite in any (non-scientific) applications or publications.
+* Despite being processed, the high-level primary datasets remain complex, and selection criteria need to be applied in order to analyse them, requiring some understanding of particle physics and detector functioning.
+* The large majority of the data cannot be viewed in simple data tables for spreadsheet-based analyses.

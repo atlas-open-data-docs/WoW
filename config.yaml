@@ -125,11 +125,11 @@ params:
     # option to specify your contact email in the footer
     email:
       link: atlas.outreach.data.tools@cern.ch
-      title: Contact
+      title: Contact Us
     # option to specify your linkedin profile in the footer
     #linkedin:
-    #  link: https://atlas.cern/resources/opendata
-    #  title: ATLAS public site
+    #  link: https://its.cern.ch/jira/browse/MYATLAS
+    #  title: Report a bug or idea
     # option to specify your facebook account in the footer;
     # **uncomment** the lines below to show in footer
     # facebook:
@@ -139,7 +139,7 @@ params:
     # **uncomment** the below lines to show in footer
     github:
       link: atlas-outreach-data-tools
-      title: Github
+      title: Our Github
     # option to specify your twitter username in the footer;
     # **uncomment** the below lines to show in footer
     # twitter:
