@@ -9,12 +9,21 @@ tags: ["release", "8 TeV", "Experiment","datasets"]
 summary: "This is a custom summary for my article"
 showInMenu: false
 ---
+{{< rawhtml >}}
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+
+<CENTER>
+<img src="images/incognito-jets.png" width="76%" alt="incognito-jets">
+</CENTER>
+
+{{< /rawhtml >}}
 
 # **... and their associated projects**
 
+
+---
+
 The [ATLAS Open Data](http://opendata.atlas.cern) ...
-
-
 
 ---
 
