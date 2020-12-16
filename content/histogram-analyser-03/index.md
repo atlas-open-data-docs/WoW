@@ -23,7 +23,7 @@ It also includes minor backgrounds, labelled as 'Other' in purple. Minor backgro
 {{< rawhtml >}}
 
 <p align="center">
-<iframe name="analyzer" style="overflow:hidden;height: 950px; width:100%"  src="https://atlas-opendata.web.cern.ch/release/2020/documentation/visualization/CrossFilter/" frameborder="0" allowfullscreen></iframe>
+<iframe name="analyzer" style="overflow:hidden;height: 950px; width:100%"  src="https://atlas-opendata.web.cern.ch/release/2020/documentation/visualization/CrossFilter/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
 </p>
 
 {{< /rawhtml >}}
