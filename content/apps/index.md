@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
-tags: ["release", "Apps", "JavaScript"]
+tags: ["release", "Apps", "JavaScript", "notebooks", "Jupyter"]
 summary: "All Apps: Online and Electron"
 showInMenu: true
 ---
@@ -32,10 +32,10 @@ So, pick one below and let’s start! Ah, some of them also have videos to help 
 
 &nbsp;
 
-| <h2><b>Histogram Analysers</b></h2> | <h2><b>The ATLAS detector</b></h2> | <h2><b>Notebooks</b></h2> |
+| <h2><b>Histogram Analysers</b></h2> | <h2><b>The ATLAS detector</b></h2> | <h2><b>Jupyter Notebooks</b></h2> |
 | :---:        |          :---: | :---:        |
-| [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) | [![13TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_externals_friends.png)](../detector-app/) | [![custom](http://opendata.atlas.cern/DataAndTools/pictures/handmade_ZAnalysis_trans.png)](../histogram-analyser-03/) |
-| Perform real HEP analysis with your mouse        | A look inside & around the ATLAS detector        | Let's run some real code on your browser        |
+| [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) | [![13TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_event_display.png)](../detector-app/) | [![custom](http://opendata.atlas.cern/DataAndTools/pictures/handmade_ROOTbrowser.png)](../histogram-analyser-03/) |
+| Perform real HEP analysis with your mouse | A look inside & around the ATLAS detector | Let's run some real code on your browser |
 
 ---
 
