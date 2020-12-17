@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
-tags: ["release", "Apps", "JavaScript"]
+tags: ["Apps", "JavaScript"]
 summary: "The entry page for the Apps: Online and Electron"
 showInMenu: true
 ---

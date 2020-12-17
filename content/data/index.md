@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
-tags: ["release", "8 TeV", "13 TeV", "datasets"]
+tags: ["8 TeV", "13 TeV", "datasets"]
 summary: "The first page to drive the users to the data samples and resources"
 showInMenu: true
 ---

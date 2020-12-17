@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
-tags: ["release", "Apps", "JavaScript", "notebooks", "Jupyter"]
+tags: ["Apps", "JavaScript", "notebooks", "Jupyter"]
 summary: "All Apps: Online and Electron"
 showInMenu: true
 ---

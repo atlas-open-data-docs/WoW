@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
-tags: ["release", "8 TeV", "datasets", "ROOT files"]
+tags: ["8 TeV", "datasets", "ROOT files"]
 summary: "This is a custom summary for my article"
 showInMenu: false
 ---
