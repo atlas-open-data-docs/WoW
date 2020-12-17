@@ -18,7 +18,7 @@ DefaultContentLanguage: en
 
 ## Option to disable additional language in your site.
 disableLanguages: ["ru"]
-disableKinds: ["ru","RSS"]
+disableKinds: ["sitemap","RSS"]
 
 sitemap:
   changefreq: monthly
@@ -88,6 +88,8 @@ params:
   navbar:
     # option to specify the logo of the sidebar
     fontFamily: "Open Sans" # "Ubuntu"
+    # option to show the little logos on the side of the navbar items
+    showIcons: false
 
   # 404 page options
   pagNotFound:
@@ -160,8 +162,11 @@ languages:
   en:
     languageName:       English
     weight:             1
-  ru:
-    languageName:       Russian
+#  ru:
+#    languageName:       Russian
+#    weight:             3
+  fr:
+    languageName:       French
     weight:             2
     # When Specifying different parameters for a different language
     # you need to specify all the mandatory sub-parameters as well.
@@ -171,7 +176,7 @@ languages:
     params:
       homepage:
         title: ATLAS Open Data
-        subtitle: Персональный сайт и блог
+        subtitle: ATLAS Open Data
         image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
         imageWidth: 600px
 
@@ -183,8 +188,8 @@ languages:
       footer:
         logo: "/images/opendata.svg"
         email:
-          link: имя.фамилия@домен.com
-          title: Эл. адрес
+          link: atlasфcern.com
+          title: Contact
         # linkedin:
         #   link: your_linkedin_profile
         #   title: LinkedIn
@@ -200,4 +205,4 @@ languages:
         # github:
         #   link: username
         #   title: Github
-        copyright: ATLAS @CERN - using https://themes.gohugo.io
+        copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
