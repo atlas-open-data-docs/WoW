@@ -15,7 +15,7 @@ showInMenu: true
 
 <CENTER>
 
-<img src="images/figure-data-release.png" width="60%" alt="histogram-gif">
+<img src="images/figure-data-release.png" width="60%" alt="data-release">
 
 </CENTER>
 
@@ -31,7 +31,6 @@ showInMenu: true
 | Learn more about the 2016 datasets        | Explore the 10x more data in 2020 datasets        | Dedicated samples for advance usage        |
 ---
 
-
 &nbsp;
 
 # Evolution of the ATLAS Open Data
@@ -39,9 +38,24 @@ showInMenu: true
 
 The evolution of the ATLAS Open Data and the tuple structure from the [8 TeV release](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=8TeV&collision_type=pp) in 2016 to the [13 TeV release](./files.md) are depicted below:
 
+---
+
+## More Data
+After a [review of the usage of the 8 TeV dataset](https://cds.cern.ch/record/2624572) around the world (2018), ATLAS decided to make public **10 times** more data with centre-of-mass energy at 13 TeV (2020).
+
+Multiple interactions show that educators and students want to design and perform more complex tasks and physics. To match the request, ATLAS also increase the number and type of simulated data, so-called signals and backgrounds that allow to study *common* Standard Model and also Beyond Standard Model
+
 ![](http://opendata.atlas.cern/release/2020/documentation/datasets/pictures/fig_13a.png)
 
+&nbsp;
+
+## More Information
+But, *more data* is no the only improvement: more **information** is also part of the updates. ATLAS Open Data designs a richer dataset adding new particles (*photons*), objects (e.g. *Large-R jets*) and variables that allow to replicate searches for New Physics, systematic variations and the re-discovery of the Higgs boson in other decays modes
+
+###
 ![](http://opendata.atlas.cern/release/2020/documentation/datasets/pictures/fig_13c.png)
+
+&nbsp;
 
 ---
 

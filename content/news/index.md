@@ -10,4 +10,13 @@ summary: "This is a custom summary for my article"
 showInMenu: true
 ---
 
-hola
+{{< rawhtml >}}
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+
+<CENTER>
+
+<img src="images/atlas-outreach-start.png" width="80%" alt="atlas-outreach-start">
+
+</CENTER>
+
+{{< /rawhtml >}}
