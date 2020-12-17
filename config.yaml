@@ -17,8 +17,8 @@ theme: hugo-refresh
 DefaultContentLanguage: en
 
 ## Option to disable additional language in your site.
-disableLanguages: ["ru"]
-disableKinds: ["sitemap","RSS"]
+#disableLanguages: ["ru"]
+#disableKinds: ["sitemap","RSS"]
 
 sitemap:
   changefreq: monthly
@@ -162,9 +162,6 @@ languages:
   en:
     languageName:       English
     weight:             1
-#  ru:
-#    languageName:       Russian
-#    weight:             3
   fr:
     languageName:       French
     weight:             2
@@ -176,7 +173,7 @@ languages:
     params:
       homepage:
         title: ATLAS Open Data
-        subtitle: ATLAS Open Data
+        subtitle: Français
         image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
         imageWidth: 600px
 
@@ -188,7 +185,82 @@ languages:
       footer:
         logo: "/images/opendata.svg"
         email:
-          link: atlasфcern.com
+          link: https://atlas.cern
+          title: Contact
+        # linkedin:
+        #   link: your_linkedin_profile
+        #   title: LinkedIn
+        # facebook:
+        #   link: your.username
+        #   title: Facebook
+        # twitter:
+        #   link: username
+        #   title: Twitter
+        # instagram:
+        #   link: username
+        #   title: Instagram
+        # github:
+        #   link: username
+        #   title: Github
+        copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
+################################################################################
+  es:
+    languageName:       Spanish
+    weight:             3
+    params:
+      homepage:
+        title: ATLAS Open Data
+        subtitle: Español
+        image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
+        imageWidth: 600px
+
+      # Some sub-parameters of the "footer" parameter
+      # can be omitted because the code allows for them to be
+      # missed but they will treated as they do not exist,
+      # i.e., the parameters of the default language
+      # won't be inherited.
+      footer:
+        logo: "/images/opendata.svg"
+        email:
+          link: https://atlas.cern
+          title: Contact
+        # linkedin:
+        #   link: your_linkedin_profile
+        #   title: LinkedIn
+        # facebook:
+        #   link: your.username
+        #   title: Facebook
+        # twitter:
+        #   link: username
+        #   title: Twitter
+        # instagram:
+        #   link: username
+        #   title: Instagram
+        # github:
+        #   link: username
+        #   title: Github
+        copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
+
+################################################################################
+  it:
+    languageName:       Italian
+    weight:             4
+    params:
+      homepage:
+        title: ATLAS Open Data
+        subtitle: Italiano
+        image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
+        imageWidth: 600px
+
+      # Some sub-parameters of the "footer" parameter
+      # can be omitted because the code allows for them to be
+      # missed but they will treated as they do not exist,
+      # i.e., the parameters of the default language
+      # won't be inherited.
+      footer:
+        logo: "/images/opendata.svg"
+        email:
+          link: https://atlas.cern
           title: Contact
         # linkedin:
         #   link: your_linkedin_profile
