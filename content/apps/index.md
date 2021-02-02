@@ -26,7 +26,7 @@ showInMenu: true
 
 {{< /rawhtml >}}
 
-[ATLAS Open Data](http://opendata.atlas.cern) aims to deliver some web and desktop applications so that users can explore High Energy Physics (HEP) real and simulated data on their browser or computer. Explore a simulation of the ATLAS detector. Go more in-depth on the code: use the [Jupyter](https://jupyter.org/) notebooks examples to run, modify and explore real analysis code without any complicated setup nor installation.
+[ATLAS Open Data](http://opendata.atlas.cern) aims to deliver some web and desktop applications so that users can explore High Energy Physics (HEP) real and simulated data on their browser or computer. Explore a simulation of the ATLAS detector. Go more in-depth on the code: use the [Jupyter](https://jupyter.org/) notebooks examples to teach, run, modify and explore real analysis code without any complicated setup nor installation.
 
 So, pick one below and let’s start! Ah, some of them also have videos to help you (and challenge you) to do better than the experts on finding the Higgs boson.
 
