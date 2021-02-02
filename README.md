@@ -3,9 +3,8 @@
 This project contains the ATLAS Open Data public website for education.
 
 It is hosted at CERN, and it uses:
-* Principal domain: http://opendata.atlas.cern/new/
-* Secondary/Backup domain: https://atlas-opendata.web.cern.ch/new/
- * The "```/new/```" will be removed once the site is approved.
+* Principal domain: http://opendata.atlas.cern/
+* Secondary/Backup domain: https://atlas-opendata.web.cern.ch/
 
 ---
 
