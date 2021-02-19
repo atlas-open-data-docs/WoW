@@ -50,7 +50,7 @@ src="images/start-tree.png"
 alt="Tree" >}}
 {{< rawhtml >}}
 <CENTER>
-<h1>Scroll down to the Start button and dive into the resources!</h1>
+<h1>Scroll down to the Start button and dive into the resources</h1>
 </CENTER>
 {{< /rawhtml >}}
 
