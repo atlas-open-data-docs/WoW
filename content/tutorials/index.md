@@ -5,7 +5,7 @@ draft: false
 hideLastModified: true
 summaryImage: "images/handmade_WAnalysis.png"
 keepImageRatio: false
-tags: ["ATLAS", "CERN", "Experiment"]
+tags: ["ATLAS", "CERN", "Experiment", "tutoral", "playground"]
 summary: "A on-boarding tree to help you to start"
 showInMenu: false
 ---
