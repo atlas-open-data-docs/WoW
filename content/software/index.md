@@ -28,7 +28,7 @@ showInMenu: true
 
 | <h2><b>Jupyter Notebooks</b></h2> | <h2><b>C++/Python frameworks</b></h2> | <h2><b>Virtual Machine(s)</b></h2> |
 | :---:        |          :---: | :---:        |
-| [![Jupyter](http://opendata.atlas.cern/DataAndTools/pictures/handmade_visualisation.png)](../histogram-analyser-02/) | [![frameworks](http://opendata.atlas.cern/DataAndTools/pictures/handmade_software.png)](../detector-app/) | [![VMs](http://opendata.atlas.cern/DataAndTools/pictures/handmade_vm.png)](../histogram-analyser-03/) |
+| [![Jupyter](http://opendata.atlas.cern/DataAndTools/pictures/handmade_visualisation.png)](http://opendata.atlas.cern/release/2020/documentation/notebooks/intro.html) | [![frameworks](http://opendata.atlas.cern/DataAndTools/pictures/handmade_software.png)](http://opendata.atlas.cern/release/2020/documentation/frameworks/intro.html) | [![VMs](http://opendata.atlas.cern/DataAndTools/pictures/handmade_vm.png)](http://opendata.atlas.cern/release/2020/documentation/vm/index.html) |
 | Let's run some real code and visualisations on your browser | Perform real HEP analysis as the ATLAS Physicists | Slow Internet? run the analyses with minimal installation |
 
 ---
