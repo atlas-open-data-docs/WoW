@@ -12,22 +12,27 @@ showInMenu: false
 
 # **... ATLAS Open Data samples**
 
-The 8 TeV [ATLAS Open Data](http://opendata.atlas.cern) dataset is comprised of real data recorded with the ATLAS detector in 2012 and matching simulated data. [It was launched in 2016](https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform) together with an analysis framweork and 7 different examples in Python.
+The 8 TeV [ATLAS Open Data](http://opendata.atlas.cern) dataset is comprised of real data recorded with the ATLAS detector in 2012 and matching simulated data. [It was launched in 2016](https://atlas.cern/updates/atlas-news/explore-lhc-data-new-atlas-educational-platform) together with an analysis framework and 7 different examples in Python.
 
 Both real and simulated data is subjected to a loose event preselection to reduce processing time by reducing the overall number of events that have to be analysed.
 
 These simulated datasets correspond to the data collected by the ATLAS experiment in 2012.
 &nbsp;
 
-# Follow the [Legacy 8 TeV Documentation](http://opendata.atlas.cern/books/current/openatlasdatatools/_book/)
+# Follow the [Legacy 8 TeV Documentation](http://opendata.atlas.cern/books/current/openatlasdatatools/_book/) and [Download the 8 TeV Samples](http://opendata.cern.ch/record/3850/files/atlas-outreach-data-tools-framework-1.1.tar.gz)
 
 &nbsp;
+
+<CENTER>
 
 ![path](images/8tev-tree.png)
 
+</CENTER>
+
 &nbsp;
 
 # Follow the [Legacy 8 TeV Documentation](http://opendata.atlas.cern/books/current/openatlasdatatools/_book/)
+## and [Download the 8 TeV Samples](http://opendata.cern.ch/record/3850/files/atlas-outreach-data-tools-framework-1.1.tar.gz)
 
 &nbsp;
 
