@@ -19,7 +19,7 @@ Both real and simulated data is subjected to a loose event preselection to reduc
 These simulated datasets correspond to the data collected by the ATLAS experiment in 2012.
 &nbsp;
 
-# Follow the [Legacy 8 TeV Documentation](http://opendata.atlas.cern/books/current/openatlasdatatools/_book/) and [Download the 8 TeV Samples](http://opendata.cern.ch/record/3850/files/atlas-outreach-data-tools-framework-1.1.tar.gz)
+# Follow the [Legacy 8 TeV Documentation](http://opendata.atlas.cern/books/current/openatlasdatatools/_book/) and [Download the 8 TeV Samples](http://opendata.atlas.cern/release/samples/complete_set_of_ATLAS_open_data_samples_July_2016.zip)
 
 &nbsp;
 
@@ -32,7 +32,7 @@ These simulated datasets correspond to the data collected by the ATLAS experimen
 &nbsp;
 
 # Follow the [Legacy 8 TeV Documentation](http://opendata.atlas.cern/books/current/openatlasdatatools/_book/)
-## and [Download the 8 TeV Samples](http://opendata.cern.ch/record/3850/files/atlas-outreach-data-tools-framework-1.1.tar.gz)
+## and [Download the 8 TeV Samples](http://opendata.atlas.cern/release/samples/complete_set_of_ATLAS_open_data_samples_July_2016.zip)
 
 &nbsp;
 
