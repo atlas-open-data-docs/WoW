@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "datasets", "ROOT files"]
-summary: "This is a custom summary for my article"
+summary: "The 8 TeV datasets from 2016"
 showInMenu: false
 ---
 

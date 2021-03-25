@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/handmade_community.png"
 keepImageRatio: false
 tags: ["ATLAS", "CERN", "Experiment"]
-summary: "This is a custom summary for my article"
+summary: "Aims of this Open Access project"
 showInMenu: true
 ---
 {{< rawhtml >}}

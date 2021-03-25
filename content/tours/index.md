@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "Experiment"]
-summary: "This is a custom summary for my article"
+summary: "A guided look to all the resources and docs"
 showInMenu: false
 ---
 

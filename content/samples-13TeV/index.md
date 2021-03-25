@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/handmade_software.png"
 keepImageRatio: false
 tags: ["13 TeV", "datasets", "ROOT files"]
-summary: "This is a custom summary for my article"
+summary: "The 13 TeV datasets from 2020"
 showInMenu: false
 ---
 

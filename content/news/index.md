@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "Experiment"]
-summary: "This is a custom summary for my article"
+summary: "Updates from the ATLAS Open Data community"
 showInMenu: true
 ---
 

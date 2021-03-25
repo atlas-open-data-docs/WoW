@@ -6,7 +6,7 @@ hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "Experiment","datasets"]
-summary: "This is a custom summary for my article"
+summary: "Others datasets & collections"
 showInMenu: false
 ---
 {{< rawhtml >}}
