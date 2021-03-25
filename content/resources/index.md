@@ -22,7 +22,7 @@ showInMenu: false
 
 + [Analysis frameworks](http://opendata.atlas.cern/release/2020/documentation/frameworks/intro.html): discussion of the available analysis frameworks and plotting codes.
 
-+ [Online ROOTbooks](http://opendata.atlas.cern/release/2020/documentation/notebooks/analysis-examples.html): description of the data analysis to be performed directly in a web-browser by integrating the ROOT framework with Jupyter notebooks.
++ [Online Jupyter notebooks](http://opendata.atlas.cern/release/2020/documentation/notebooks/analysis-examples.html): description of the data analysis to be performed directly in a web-browser by integrating the ROOT framework with Jupyter notebooks.
 
 + [Virtual machine](http://opendata.atlas.cern/release/2020/documentation/vm/index.html): description of the virtual machine, which contains all the information needed to carry out educational analysis of the released datasets.
 
