@@ -36,7 +36,7 @@ showInMenu: true
 # Evolution of the ATLAS Open Data
 ### from the 8 TeV release (2016) to the 13 TeV release (2020)
 
-The evolution of the ATLAS Open Data and the tuple structure from the [8 TeV release](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=8TeV&collision_type=pp) in 2016 to the [13 TeV release](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=13TeV&collision_type=pp) are depicted below:
+The evolution of the ATLAS Open Data and the tuple structure from the [8 TeV release](https://cds.cern.ch/record/2203649/files/ATL-OREACH-PUB-2016-001.pdf)in 2016 ([samples and DOI @CERN Open Data](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=8TeV&collision_type=pp)) to the [13 TeV release](https://cds.cern.ch/record/2707171/files/ANA-OTRC-2019-01-PUB-updated.pdf) ([samples and DOI @CERN Open Data](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=13TeV&collision_type=pp))are depicted below:
 
 ---
 
