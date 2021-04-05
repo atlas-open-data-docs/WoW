@@ -9,12 +9,6 @@ tags: ["ATLAS", "CERN", "Experiment"]
 summary: "Aims of this Open Access project"
 showInMenu: true
 ---
-{{< rawhtml >}}
-<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
-{{< /rawhtml >}}
-
-![path](images/detector_background.png)
-
 # **The [ATLAS Open Data](http://opendata.atlas.cern)** Educational project
 
 &nbsp;
@@ -22,6 +16,12 @@ showInMenu: true
 **The [ATLAS Collaboration](http://atlas.cern/resources/opendata)'s current approach on the release of datasets is intended for Education, Training and Outreach activities around the World**.
 In order to fulfil that objective, the **[ATLAS Open Data project](http://opendata.atlas.cern) was created**.
 &nbsp;
+
+{{< rawhtml >}}
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+{{< /rawhtml >}}
+
+![path](images/detector_background.png)
 
 [ATLAS Open Data](http://opendata.atlas.cern) project aims to provide data and tools to high-school, masters and undergraduate students, as well as teachers and lecturers, to help educate them in physics analysis techniques used in experimental particle physics. Sharing data collected by the [ATLAS](https://atlas.cern) experiment aims to generate excitement and enthusiasm for fundamental research, inspiring physicists of the future.
 
