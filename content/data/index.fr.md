@@ -7,7 +7,7 @@ summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "13 TeV", "datasets"]
 summary: "The first page to drive the users to the data samples and resources"
-showInMenu: false
+showInMenu: true
 ---
 
 {{< rawhtml >}}
