@@ -13,7 +13,6 @@ showInMenu: true
 
 [ATLAS Open Data](http://opendata.atlas.cern) aims to deliver some web and desktop applications so that users can explore High Energy Physics (HEP) real and simulated data on their browser or computer. Explore a simulation of the ATLAS detector. Go more in-depth on the code: use the [Jupyter](https://jupyter.org/) notebooks examples to teach, run, modify and explore real analysis code without any complicated setup nor installation.
 
-Hola
 
 {{< rawhtml >}}
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
