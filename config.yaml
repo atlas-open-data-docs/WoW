@@ -1,5 +1,5 @@
 #baseURL: http://opendata.atlas.cern/
-baseURL: https://atlas-open-data-docs.github.io/compiled-site/ 
+baseURL: https://atlas-open-data-docs.github.io/WoW/ 
 languageCode: en-us
 title: ATLAS Open Data
 theme: hugo-refresh
