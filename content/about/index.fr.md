@@ -9,7 +9,7 @@ tags: ["ATLAS", "CERN", "Experiment"]
 summary: "Objectifs de ce projet"
 showInMenu: true
 ---
-# ** [L'ATLAS Open Data](http://opendata.atlas.cern)** Projet éducatif - WoW version
+# **[L'ATLAS Open Data](http://opendata.atlas.cern)** Projet éducatif - WoW version
 
 &nbsp;
 
