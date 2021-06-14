@@ -1,6 +1,5 @@
-baseURL: http://opendata.atlas.cern/
-#baseURL: http://opendata.atlas.cern/new/
-#baseURL: https://atlas-opendata.web.cern.ch/atlas-opendata/
+#baseURL: http://opendata.atlas.cern/
+baseURL: https://atlas-open-data-docs.github.io/compiled-site/ 
 languageCode: en-us
 title: ATLAS Open Data
 theme: hugo-refresh
