@@ -52,7 +52,7 @@ Donc, choisissez un et commençons! Ah, certains d'entre eux ont aussi des vidé
 
 <br>
 
-### application électron  (soon to come)
+### Application électron  (soon to come)
 Vérifier [cette présentation](http://universidad.ch/ATLAS/outreach/presentations/March_28_2018/_book/intro.html) sur la façon dont cette idée a évolué.
 
 </br>
