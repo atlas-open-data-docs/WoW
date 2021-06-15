@@ -65,6 +65,93 @@ showInMenu: false
 
 ## Details on the dataset contents
 
+### Dataset contents, high level
+* This is the high-level overview of the contents
+  * A detailed overview of each aspect is on the following slides
+* General event-level information (NPV, etc)
+* Tracks, with standard jet selections applied
+* Clusters, with standard jet selections applied
+* Truth particles, with standard jet selections applied
+* Various types of reconstructed jets
+  * All reconstructed jets can be rebuilt from the dataset
+  * They are included to help the user get started and for validation
+  
+### Dataset contents, event-level info
+* EventNumber [unsigned long long]
+* RunNumber [unsigned long long]
+  * Not very useful for MC, but useful in case data is added later
+* EventWeight [float]
+  * Complex quantity, described later, but it is the only weight needed
+* mu average [float]
+* mu actual [float]
+  * The same as mu average in MC, but for data we may want both
+* NPV [unsigned int]
+  * Typical definition used for jet calibration: require two tracks
+* Note that some common variables are NOT included
+  * No mcChannelNumber as we merged several samples together here
+  * No individual weights as it’s all stuck together into EventWeight
+  * No pileup weight - not needed for MC only
+
+### Dataset contents, tracks
+* Jet reco in ATLAS applies some standard selections to tracks
+  * pT > 500 MeV, good quality, etc
+* These are also applied to the tracks in this dataset
+* Vertex matching done using standard track-to-vertex association tools
+* Tracks pt [vector<float>]
+* Tracks eta [vector<float>]
+* Tracks phi [vector<float>]
+* Tracks m [vector<float>]
+  * I checked, it’s always fixed to the pion mass as expected
+  * ROOT compresses by factor of 2 compared to pt/eta/phi
+  * Supports using the same commands regardless of the object type
+* Tracks vtx [vector<int>]
+  * User has to loop over tracks and identify “vertices” using these indices
+  * Decided to do this to save space rather than storing vertices
+  * int not unsigned as tracks not associated to a vertex have index -1
+
+### Dataset contents, clusters
+* Jet reco in ATLAS applies a cluster energy > 0 cut
+  * This is applied to the clusters written out here
+  * They are all written out at LCW scale (mitigates lack of jet calibration)
+* Clusters pt [vector<float>]
+* Clusters eta [vector<float>]
+* Clusters phi [vector<float>]
+* Clusters m [vector<float>]
+  * I checked, and it’s always zero as expected
+  * ROOT compresses by factor of ∼90 compared to pt/eta/phi
+  * Supports using the same commands regardless of the object type
+ 
+### Dataset contents, truth particles
+* Jet reco in ATLAS applies a filter on truth particles
+  * Only stable particles (cτ > 10 mm), excluding muons and neutrinos
+  * This is applied using standard ATLAS tools here as well
+* Particles pt [vector<float>]
+* Particles eta [vector<float>]
+* Particles phi [vector<float>]
+* Particles m [vector<float>]
+* Particles pdgID [vector<int>]
+  * Allows for studies of pions vs kaons vs etc
+  * Not strictly needed, but useful and could support other studies
+ 
+### Dataset contents, reconstructed jets
+* Jets are stored with moderate pT cuts to save space
+  * They can be rebuilt down to arbitrarily low pT with the input objects
+  * Saved without any calibration: students can perfectly rebuild them
+* RecoJets R4 {pt,eta,phi,m,jvf}: [vector<float>]x5
+  * Built from topoclusters, stored for pT > 15 GeV
+* TrackJets R4 {pt,eta,phi,m}: [vector<float>]x4
+  * Built from tracks from the leading PV, stored for pT > 10 GeV
+* RecoJets R10 {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
+  * Built from topoclusters, stored for pT > 150 GeV
+* RecoJets R10 Trimmed {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
+  * Stored for pT > 150 GeV on the ungroomed jet (keep index parallelism)
+* TruthJets R4 {pt,eta,phi,m}: [vector<float>]x4
+  * Built from truth particles, stored for pT > 5 GeV
+* TruthJets R10 {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
+  * Built from truth particles, stored for pT > 100 GeV
+* TruthJets R10 Trimmed {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
+  * Stored for pT > 100 GeV on the ungroomed jet (keep index parallelism)
+
 ---
 
 The [ATLAS Open Data](http://opendata.atlas.cern) ...
