@@ -20,6 +20,50 @@ showInMenu: false
 
 # **... and their associated projects**
 
+---
+
+# **A Public Dataset For Teaching Jet Reconstruction**
+
+### Motivation
+* Public datasets generally focus on “high-level” objects
+  * Jets, electrons, muons, etc
+  * This makes perfect sense for general use for most education
+* However, this isn’t sufficient for teaching about reconstruction
+  * How and why do we use certain reconstruction techniques?
+  * What are the trade-offs of using different types of detectors?
+  * How does pileup impact object reconstruction?
+* We propose a new dataset which can be used to teach jet reconstruction
+  * Most important contents: topoclusters and tracks (per-vertex)
+  * Sample: Pythia8 dijets, ∼100k events/slice =⇒ O(1M) events
+  * Merge slices to one sample, flat in pT
+
+### Examples of studies supported by such a dataset
+* Small-R pileup studies:
+  * How does jet multiplicity depend on pileup?
+  * How can tracks be used to suppress pileup jets?
+  * Why don’t we build jets from tracks instead of clusters?
+* Large-R substructure studies:
+  * How does the jet algorithm impact the event interpretation?
+  * How does the jet algorithm impact the jet mass?
+  * How does the jet algorithm impact pileup stability?
+* Many other interesting educational studies are possible
+  * Such a dataset would have a large variety of pedagogical uses!
+  * Lots of possible extentions if this is well received
+
+### Dataset overview
+* The dataset is now ready
+  * Ten files of 102.9k events each (total 1.029M events), total 21 GB
+  * Each file is 343 bins with 300 events each, and is 2.1 GB
+  * Also this is only MC, no data (more on this later)
+* You are welcome to check out the dataset
+  * One of the ten files is [here](https://cernbox.cern.ch/index.php/s/ieHsllIjTtJIHTo) (password is “JetReco”)
+  * A pair of exercises are also available [here](https://cernbox.cern.ch/index.php/s/0ws6P5MkNVzZInL) (password is “JetReco”)
+* Following slides contain:
+  * Details on the dataset contents
+  * Examples of what can be done with these files (from the exercises)
+  * A discussion on choices made and possible follow-ups
+
+## Details on the dataset contents
 
 ---
 
