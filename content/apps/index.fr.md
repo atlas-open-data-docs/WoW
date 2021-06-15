@@ -34,7 +34,7 @@ Donc, choisissez un et commençons! Ah, certains d'entre eux ont aussi des vidé
 | <h1><b>Le détecteur ATLAS</b></h1> | <h1><b>Analyseur d'histogramme : données simulées uniquement</b></h1> |
 |        :---:        |        :---:       |
 | [![13TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_event_display.png)](../detector-app/) | [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) |
-| A look inside & around the ATLAS detector | Perform real HEP analysis with your mouse |
+| Un regard à l'intérieur et autour du détecteur ATLAS | Effectuez une véritable analyse physique des hautes énergies avec votre souris |
 
 
 | <h1><b>Analyseur d'histogramme : données réelles et simulées</b></h1> | <h1><b>Carnets Jupyter</b></h1> |
