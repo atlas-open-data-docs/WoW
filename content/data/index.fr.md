@@ -10,6 +10,9 @@ summary: "The first page to drive the users to the data samples and resources"
 showInMenu: true
 ---
 
+[ATLAS Open Data](http://opendata.atlas.cern) Le CERN vise à fournir des applications Web et de bureau afin que les utilisateurs puissent explorer des données réelles et simulées de physique des hautes énergies (HEP) sur leur navigateur ou leur ordinateur.Suivez les liens vers la documentation dédiée et explorez les secrets des plus petits blocs connus qui composent l'univers.
+
+
 {{< rawhtml >}}
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
@@ -21,36 +24,35 @@ showInMenu: true
 
 {{< /rawhtml >}}
 
-### Select the data you want to access and explore its specific resources
+### Sélectionnez les données auxquelles vous souhaitez accéder et explorez ses ressources spécifiques
 
 &nbsp;
 
 | <h2><b>The 8 TeV samples</b></h2> | <h2><b>The 13 TeV samples</b></h2> | <h2><b>Custom samples</b></h2> |
 | :---:        |          :---: | :---:        |
 | [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../samples-8tev/) | [![13TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_externals_friends.png)](../samples-13tev/) | [![custom](http://opendata.atlas.cern/DataAndTools/pictures/handmade_ZAnalysis_trans.png)](../samples-custom/) |
-| Learn more about the 2016 datasets        | Explore the 10x more data in 2020 datasets        | Dedicated samples for advance usage        |
+| En savoir plus sur les jeux de données 2016        | Explorez 10 fois plus de données dans les jeux de données 2020        | Explorez 10 fois plus de données dans les jeux de données 2020        |
 ---
 
 &nbsp;
 
-# Evolution of the ATLAS Open Data
-### from the 8 TeV release (2016) to the 13 TeV release (2020)
+# Évolution de l'Open Data d'ATLAS
+### du lâcher 8 TeV (2016) au lâcher 13 TeV (2020)
 
-The evolution of the ATLAS Open Data and the tuple structure from the [8 TeV release](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=8TeV&collision_type=pp) in 2016 to the [13 TeV release](./files.md) are depicted below:
+L'évolution de l'Open Data d'ATLAS et de la structure tuple à partir de la [sortie 8 TeV ](http://opendata.cern.ch/search?page=1&size=20&experiment=ATLAS&collision_energy=8TeV&collision_type=pp) en 2016 à la [sortie 13 TeV ](./files.md) sont représentés en-dessous:
 
 ---
 
 ## More Data
-After a [review of the usage of the 8 TeV dataset](https://cds.cern.ch/record/2624572) around the world (2018), ATLAS decided to make public **10 times** more data with centre-of-mass energy at 13 TeV (2020).
+Après un [examen de l'utilisation du jeu de données 8 TeV](https://cds.cern.ch/record/2624572) autour du monde (2018), ATLAS a décidé de rendre public **10 fois** plus de données avec l'énergie du centre de masse à 13 TeV (2020).
 
-Multiple interactions show that educators and students want to design and perform more complex tasks and physics. To match the request, ATLAS also increase the number and type of simulated data, so-called signals and backgrounds that allow to study *common* Standard Model and also Beyond Standard Model
-
+Les multiples interactions montrent que les éducateurs et les étudiants veulent concevoir et effectuer des tâches et de la physique plus complexes. Pour répondre à la demande, ATLAS augmente également le nombre et le type de données simulées, appelées signaux et arrière-plans, qui permettent d'étudier le modèle standard *commun* et également au-delà du modèle standard.
 ![](http://opendata.atlas.cern/release/2020/documentation/datasets/pictures/fig_13a.png)
 
 &nbsp;
 
-## More Information
-But, *more data* is no the only improvement: more **information** is also part of the updates. ATLAS Open Data designs a richer dataset adding new particles (*photons*), objects (e.g. *Large-R jets*) and variables that allow to replicate searches for New Physics, systematic variations and the re-discovery of the Higgs boson in other decays modes
+## Plus d'information
+Mais, *plus de données* n'est pas la seule amélioration : plus **d'informations** font également partie des mises à jour. ATLAS Open Data conçoit un ensemble de données plus riche en ajoutant de nouvelles particules (*photons*), des objets (par exemple *Large-R jets*) et des variables qui permettent de répliquer les recherches de Nouvelle Physique, les variations systématiques et la redécouverte du boson de Higgs dans d'autres modes de désintégration
 
 ###
 ![](http://opendata.atlas.cern/release/2020/documentation/datasets/pictures/fig_13c.png)
@@ -59,12 +61,11 @@ But, *more data* is no the only improvement: more **information** is also part o
 
 ---
 
-## <a name="atlas-disclaimer">Disclaimer</a>
-This dataset is provided by the ATLAS Collaboration only for educational purposes and is not suited for scientific publications.
-* The [ATLAS Open Data](http://opendata.atlas.cern) are released under the [Creative Commons CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/).
-* Neither ATLAS nor CERN endorses any works produced using these data, which is intended only for educational use.
-* All data sets will have a unique [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) that you are requested to cite in any (non-scientific) applications or publications.
-* Despite being processed, the high-level primary datasets remain complex, and selection criteria need to be applied in order to analyse them, requiring some understanding of particle physics and detector functioning.
-* The large majority of the data cannot be viewed in simple data tables for spreadsheet-based analyses.
+## <a name="atlas-disclaimer">Clause de non-responsabilité</a>
+
+* [L'ATLAS Open Data](http://opendata.atlas.cern) ont publiés sous [Creative Commons CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/).
+Ni ATLAS ni le CERN n'approuvent les travaux produits à l'aide de ces données, même si elles sont disponibles sur ou liées à partir de ce portail.
+* Tous les ensembles de données auront un [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) unique que vous êtes invité à citer dans toute application ou documentation produite.
+* Malgré leur traitement, les ensembles de données primaires de haut niveau restent complexes et des critères de sélection doivent être appliqués afin de les analyser, ce qui nécessite une certaine compréhension de la physique des particules et du fonctionnement des détecteurs. La grande majorité des données ne peuvent pas être visualisées dans de simples tableaux de données pour des analyses basées sur des feuilles de calcul.
 
 ---
