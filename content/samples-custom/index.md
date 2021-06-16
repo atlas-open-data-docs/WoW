@@ -7,7 +7,7 @@ summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "Experiment","datasets"]
 summary: "Others datasets & collections"
-showInMenu: true
+showInMenu: false
 ---
 {{< rawhtml >}}
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
@@ -55,6 +55,7 @@ showInMenu: true
   * A discussion on choices made and possible follow-ups
 
 ## Details on the dataset contents
+---
 
 ### Dataset contents, high level
 * This is the high-level overview of the contents
@@ -142,6 +143,9 @@ showInMenu: true
   * Built from truth particles, stored for pT > 100 GeV
 * TruthJets R10 Trimmed {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
   * Stored for pT > 100 GeV on the ungroomed jet (keep index parallelism)
+ 
+ For more information click [here](http://opendata.cern.ch/record/15010)
+
 
  ---
  
