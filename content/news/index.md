@@ -24,9 +24,6 @@ showInMenu: true
 # Building community in virtual events
 ###### 20th April 2021 | By ATLAS Early Career Scientists Board
 
-<LEFT>
-<img scr="images/ATLAS VIRTUAL.jpg" width="30%" alt="Atlas Virtual Meeting">   
-</LEFT>
 
 <table>
   
