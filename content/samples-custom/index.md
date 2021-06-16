@@ -1,5 +1,5 @@
 ---
-title: "Custom datasets ..."
+title: "A Public Dataset For Teaching Jet Reconstruction"
 date: 2020-06-10T21:51:13+01:00
 draft: false
 hideLastModified: true
@@ -12,17 +12,8 @@ showInMenu: false
 {{< rawhtml >}}
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
-<CENTER>
-<img src="images/incognito-jets.png" width="76%" alt="incognito-jets">
-</CENTER>
 
 {{< /rawhtml >}}
-
-# **... and their associated projects**
-
----
-
-# **A Public Dataset For Teaching Jet Reconstruction**
 
 ### Motivation
 * Public datasets generally focus on “high-level” objects
@@ -152,18 +143,8 @@ showInMenu: false
 * TruthJets R10 Trimmed {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
   * Stored for pT > 100 GeV on the ungroomed jet (keep index parallelism)
 
----
-
-The [ATLAS Open Data](http://opendata.atlas.cern) ...
-
----
-
-## Are you looking for the [13 TeV](../samples-13tev/) samples?
-or maybe
-## the [8 TeV](../samples-8tev/) samples?
-
----
-
+ ---
+ 
 ## <a name="atlas-disclaimer">Disclaimer</a>
 This dataset is provided by the ATLAS Collaboration only for educational purposes and is not suited for scientific publications.
 * The [ATLAS Open Data](http://opendata.atlas.cern) are released under the [Creative Commons CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/).
