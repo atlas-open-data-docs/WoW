@@ -7,7 +7,7 @@ summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "Experiment","datasets"]
 summary: "Others datasets & collections"
-showInMenu: false
+showInMenu: true
 ---
 {{< rawhtml >}}
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
