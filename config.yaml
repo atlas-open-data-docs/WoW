@@ -172,6 +172,10 @@ languages:
     # See example below:
     params:
       homepage:
+        linkPosition: "menu+footer"
+        # this options let you specify the text of the link to the homepage
+        linkText: "Maison"
+        #
         title: ATLAS Open Data
         subtitle: Français
         image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
