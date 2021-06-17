@@ -1,17 +1,17 @@
 ---
-title: "Tour"
+title: "Visites"
 date: 2020-06-03T21:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_event_display.png"
 keepImageRatio: false
 tags: ["8 TeV", "Experiment"]
-summary: "A guided look to all the resources and docs"
+summary: "Un regard guidé sur toutes les ressources et docs"
 showInMenu: false
 ---
 
-# SiteMap
-This page is intended to have a simple sitemap to guide users in an static way (no links)
+# Plan du site
+Cette page est destinée à avoir un plan du site simple pour guider les utilisateurs de manière statique (pas de liens)
 
 --
 
