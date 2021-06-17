@@ -42,120 +42,120 @@ showInMenu: false
   * Un tel jeu de données aurait une grande variété d'utilisations pédagogiques !
   * Beaucoup d'extensions possibles si cela est bien reçu
 
-### Dataset overview
-* The dataset is now ready
-  * Ten files of 102.9k events each (total 1.029M events), total 21 GB
-  * Each file is 343 bins with 300 events each, and is 2.1 GB
-  * Also this is only MC, no data (more on this later)
-* You are welcome to check out the dataset
-  * One of the ten files is [here](https://cernbox.cern.ch/index.php/s/ieHsllIjTtJIHTo) (password is “JetReco”)
-  * A pair of exercises are also available [here](https://cernbox.cern.ch/index.php/s/0ws6P5MkNVzZInL) (password is “JetReco”)
-* Following slides contain:
-  * Details on the dataset contents
-  * Examples of what can be done with these files (from the exercises)
-  * A discussion on choices made and possible follow-ups
+### Présentation de l'ensemble de données
+* Le jeu de données est maintenant prêt
+  * Dix fichiers de 102.9k événements chacun (total 1.029M événements), total 21 GB
+  * Chaque fichier contient 343 bacs avec 300 événements chacun et fait 2,1 GB
+  * De plus, il ne s'agit que de MC, aucune donnée(plus à ce sujet plus tard)
+* Vous êtes invités à consulter l'ensemble de données
+  * L'un des dix fichiers est [ici](https://cernbox.cern.ch/index.php/s/ieHsllIjTtJIHTo) (le mot de passe est “JetReco”)
+  *Une paire d'exercices est également disponible [ici](https://cernbox.cern.ch/index.php/s/0ws6P5MkNVzZInL) (le mot de passe est “JetReco”)
+* Les diapositives suivantes contiennent:
+  * Détails sur le contenu du jeu de données
+  * Exemples de ce qui peut être fait avec ces fichiers (à partir des exercices)
+  * Une discussion sur les choix effectués et les suites possibles
 
-## Details on the dataset contents
+## Détails sur le contenu du jeu de données
 ---
 
-### Dataset contents, high level
-* This is the high-level overview of the contents
-  * A detailed overview of each aspect is on the following slides
-* General event-level information (NPV, etc)
-* Tracks, with standard jet selections applied
-* Clusters, with standard jet selections applied
-* Truth particles, with standard jet selections applied
-* Various types of reconstructed jets
-  * All reconstructed jets can be rebuilt from the dataset
-  * They are included to help the user get started and for validation
+### Contenu de l'ensemble de données, niveau élevé
+* Ceci est l'aperçu de haut niveau du contenu
+  * Un aperçu détaillé de chaque aspect se trouve sur les diapositives suivantes
+* Informations générales au niveau de l'événement (VAN, etc.)
+* Pistes, avec des sélections de jets standard appliquées
+* Clusters, avec des sélections de jets standard appliquées
+* Particules de vérité, avec des sélections de jets standard appliquées
+* Différents types de jets reconstruits
+  * Tous les jets reconstruits peuvent être reconstruits à partir de l'ensemble de données
+  * Ils sont inclus pour aider l'utilisateur à démarrer et pour la validation
   
-### Dataset contents, event-level info
-* EventNumber [unsigned long long]
-* RunNumber [unsigned long long]
-  * Not very useful for MC, but useful in case data is added later
+### Contenu de l'ensemble de données, informations au niveau de l'événement
+* Numéro d'événement [non signé long long]
+* RunNumber [non signé long long]
+  * Pas très utile pour MC, mais utile au cas où des données seraient ajoutées plus tard
 * EventWeight [float]
-  * Complex quantity, described later, but it is the only weight needed
-* mu average [float]
-* mu actual [float]
-  * The same as mu average in MC, but for data we may want both
-* NPV [unsigned int]
-  * Typical definition used for jet calibration: require two tracks
-* Note that some common variables are NOT included
-  * No mcChannelNumber as we merged several samples together here
-  * No individual weights as it’s all stuck together into EventWeight
-  * No pileup weight - not needed for MC only
+  * Quantité complexe, décrite plus loin, mais c'est le seul poids nécessaire
+* mu moyen [flotteur]
+* mu réel [flotteur]
+  * Identique à la moyenne de mu dans MC, mais pour les données, nous pouvons vouloir les deux
+* VAN [entier non signé]
+  * Définition typique utilisée pour l'étalonnage du jet : nécessite deux pistes
+* Notez que certaines variables communes ne sont PAS incluses
+  * Pas de mcChannelNumber car nous avons fusionné plusieurs échantillons ici
+  * Pas de poids individuel car tout est collé dans EventWeight
+  * Pas de poids d'empilement - pas nécessaire pour MC uniquement
 
-### Dataset contents, tracks
-* Jet reco in ATLAS applies some standard selections to tracks
-  * pT > 500 MeV, good quality, etc
-* These are also applied to the tracks in this dataset
-* Vertex matching done using standard track-to-vertex association tools
-* Tracks pt [vector<float>]
-* Tracks eta [vector<float>]
-* Tracks phi [vector<float>]
-* Tracks m [vector<float>]
-  * I checked, it’s always fixed to the pion mass as expected
-  * ROOT compresses by factor of 2 compared to pt/eta/phi
-  * Supports using the same commands regardless of the object type
-* Tracks vtx [vector<int>]
-  * User has to loop over tracks and identify “vertices” using these indices
-  * Decided to do this to save space rather than storing vertices
-  * int not unsigned as tracks not associated to a vertex have index -1
-
-### Dataset contents, clusters
-* Jet reco in ATLAS applies a cluster energy > 0 cut
-  * This is applied to the clusters written out here
-  * They are all written out at LCW scale (mitigates lack of jet calibration)
-* Clusters pt [vector<float>]
-* Clusters eta [vector<float>]
-* Clusters phi [vector<float>]
-* Clusters m [vector<float>]
-  * I checked, and it’s always zero as expected
-  * ROOT compresses by factor of ∼90 compared to pt/eta/phi
-  * Supports using the same commands regardless of the object type
+### Contenu du jeu de données, pistes
+* Jet reco dans ATLAS applique certaines sélections standard aux pistes
+  * pT > 500 MeV, bonne qualité, etc.
+* Ceux-ci sont également appliqués aux pistes de cet ensemble de données
+* Correspondance de sommet effectuée à l'aide d'outils d'association piste à sommet standard
+* Pistes pt [vecteur<float>]
+* Pistes eta [vector<float>]
+* pistes phi [vector<float>]
+* pistes m [vector<float>]
+  * J'ai vérifié, c'est toujours fixé à la masse du pion comme prévu
+  * ROOT compresse d'un facteur 2 par rapport à pt/eta/phi
+  * Prend en charge l'utilisation des mêmes commandes quel que soit le type d'objet
+* pistes vtx [vector<int>]
+  * L'utilisateur doit parcourir les pistes et identifier les « sommets » à l'aide de ces indices
+  * A décidé de le faire pour économiser de l'espace plutôt que de stocker des sommets
+  * int non non signé car les pistes non associées à un sommet ont un index -1
  
-### Dataset contents, truth particles
-* Jet reco in ATLAS applies a filter on truth particles
-  * Only stable particles (cτ > 10 mm), excluding muons and neutrinos
-  * This is applied using standard ATLAS tools here as well
-* Particles pt [vector<float>]
-* Particles eta [vector<float>]
-* Particles phi [vector<float>]
-* Particles m [vector<float>]
-* Particles pdgID [vector<int>]
-  * Allows for studies of pions vs kaons vs etc
-  * Not strictly needed, but useful and could support other studies
+### Contenu de l'ensemble de données, clusters
+* Jet reco dans ATLAS applique une énergie de cluster > 0 cut
+  * Ceci est appliqué aux clusters écrits ici
+  * Ils sont tous écrits à l'échelle LCW (atténue le manque d'étalonnage du jet)
+* Groupes pt [vector<float>]
+* Groupes eta [vector<float>]
+* Groupes phi [vector<float>]
+* Groupes m [vector<float>]
+  * J'ai vérifié, et c'est toujours zéro comme prévu
+  * ROOT compresse d'un facteur ∼90 par rapport à pt/eta/phi
+  * Prend en charge l'utilisation des mêmes commandes quel que soit le type d'objet
  
-### Dataset contents, reconstructed jets
-* Jets are stored with moderate pT cuts to save space
-  * They can be rebuilt down to arbitrarily low pT with the input objects
-  * Saved without any calibration: students can perfectly rebuild them
+### Contenu de l'ensemble de données, particules de vérité
+* Jet reco dans ATLAS applique un filtre sur les particules de vérité
+  * Seules les particules stables (cτ > 10 mm), à l'exclusion des muons et des neutrinos
+  * Ceci est également appliqué à l'aide des outils ATLAS standard.
+* Particules pt [vector<float>]
+* Particules eta [vector<float>]
+* Particules phi [vector<float>]
+* Particules m [vector<float>]
+* Particules pdgID [vector<int>]
+  * Permet des études de pions vs kaons vs etc.
+  * Pas strictement nécessaire, mais utile et pourrait soutenir d'autres études
+ 
+### Contenu du jeu de données, jets reconstruits
+* Les jets sont stockés avec des coupes pT modérées pour économiser de l'espace
+  * Ils peuvent être reconstruits jusqu'à un pT arbitrairement bas avec les objets d'entrée
+  * Enregistré sans aucun calibrage : les étudiants peuvent parfaitement les reconstruire
 * RecoJets R4 {pt,eta,phi,m,jvf}: [vector<float>]x5
-  * Built from topoclusters, stored for pT > 15 GeV
+  * Construit à partir de topoclusters, stocké pour pT > 15 GeV
 * TrackJets R4 {pt,eta,phi,m}: [vector<float>]x4
-  * Built from tracks from the leading PV, stored for pT > 10 GeV
+  * Construit à partir des pistes du PV principal, stocké pour pT > 10 GeV
 * RecoJets R10 {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
-  * Built from topoclusters, stored for pT > 150 GeV
+  * Construit à partir de topoclusters, stocké pour pT > 150 GeV
 * RecoJets R10 Trimmed {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
-  * Stored for pT > 150 GeV on the ungroomed jet (keep index parallelism)
+  * Stocké pour pT > 150 GeV sur le jet non damé (garder le parallélisme des indices)
 * TruthJets R4 {pt,eta,phi,m}: [vector<float>]x4
-  * Built from truth particles, stored for pT > 5 GeV
+  * Construit à partir de particules de vérité, stockées pour pT > 5 GeV
 * TruthJets R10 {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
-  * Built from truth particles, stored for pT > 100 GeV
+  * Construit à partir de particules de vérité, stockées pour pT > 100 GeV
 * TruthJets R10 Trimmed {pt,eta,phi,m,D2beta1,tau32wta}: [vector<float>]x6
-  * Stored for pT > 100 GeV on the ungroomed jet (keep index parallelism)
+  * Stocké pour pT > 100 GeV sur le jet non damé (garder le parallélisme des indices)
  
- For more information click [here](http://opendata.cern.ch/record/15010)
+Pour plus d'informations cliquez [ici](http://opendata.cern.ch/record/15010)
 
 
  ---
  
-## <a name="atlas-disclaimer">Disclaimer</a>
-This dataset is provided by the ATLAS Collaboration only for educational purposes and is not suited for scientific publications.
-* The [ATLAS Open Data](http://opendata.atlas.cern) are released under the [Creative Commons CC0 waiver](http://creativecommons.org/publicdomain/zero/1.0/).
-* Neither ATLAS nor CERN endorses any works produced using these data, which is intended only for educational use.
-* All data sets will have a unique [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) that you are requested to cite in any (non-scientific) applications or publications.
-* Despite being processed, the high-level primary datasets remain complex, and selection criteria need to be applied in order to analyse them, requiring some understanding of particle physics and detector functioning.
-* The large majority of the data cannot be viewed in simple data tables for spreadsheet-based analyses.
+## <a name="atlas-disclaimer">Avertissement</a>
+Cet ensemble de données est fourni par la collaboration ATLAS uniquement à des fins éducatives et ne convient pas aux publications scientifiques.
+* Le [ATLAS Open Data](http://opendata.atlas.cern) sont libérés sous le [Renonciation Creative Commons CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+* Ni ATLAS ni le CERN n'approuvent les travaux réalisés à partir de ces données, qui sont uniquement destinées à un usage pédagogique.
+* Tous les ensembles de données auront un[DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) que vous êtes invité à citer dans toute application ou publication (non scientifique).
+* Malgré leur traitement, les ensembles de données primaires de haut niveau restent complexes et des critères de sélection doivent être appliqués afin de les analyser, ce qui nécessite une certaine compréhension de la physique des particules et du fonctionnement des détecteurs.
+* La grande majorité des données ne peuvent pas être visualisées dans de simples tableaux de données pour des analyses basées sur des feuilles de calc
 
 ---
