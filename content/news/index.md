@@ -24,6 +24,7 @@ showInMenu: true
 # Building community in virtual events
 ###### 20th April 2021 | By ATLAS Early Career Scientists Board
 
+{{< rawhtml >}}
 <table BORDER="0">
    <td width="30%">
      <img scr="images/ATLAS_VIRTUAL.jpg" width="30%" alt="Atlas Virtual Meeting">
@@ -32,6 +33,6 @@ showInMenu: true
    <p>Since 2017, the ATLAS Early Career Scientist Board (ECSB) and Analysis Software Tutorial organisers have been teaming up to run a week-long introductory event for new ATLAS members. Induction Day welcomes new members to the collaboration by giving them an overview of the plethora of activities that take place within the ATLAS Collaboration. This is followed by the Analysis Software Tutorial – a five-day event that brings together new members to learn the necessary tools to start a physics analysis in ATLAS. Read the full article <a href="https://atlas.cern/updates/blog/building-community" target="_blank">here</a></p>
             </td>
   </table>
-
+{{< /rawhtml >}}
                                                                                                       
 
