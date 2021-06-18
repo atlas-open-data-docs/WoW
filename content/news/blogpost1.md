@@ -1,3 +1,15 @@
+---
+title: "A Week At Cern"
+date: 2020-11-23T04:51:13+01:00
+draft: false
+hideLastModified: true
+summaryImage: "online_meeting.png"
+keepImageRatio: false
+tags: ["Blog", "News"]
+summary: "Our one week internship at CERN"
+showInMenu: false
+---
+
 ## A Week at Cern
 
 ###### June 18th | By Maddox Feldbaum
@@ -15,3 +27,5 @@ Wednesday was the day where we began to run into issues within our code. As our 
 As the week closes and we begin to move back to our normal lives, both of us still hope to be allowed to stay in contact with the people that helped us at CERN and be allowed to continue to contribute to the project. We’ve taken a lot away from this project, some of it in the form of knowledge pertaining to coding and HEP, but more importantly knowledge about how the workplace and how our lives will change after we graduate. Forming connections and learning things that are simply impossible to learn by just sitting in a classroom are the true benefits of projects like this. Instead of just sitting down and listening we act and learn by example and through our own mistakes. 
 
 The Atlas Open Data project has given us an opportunity that I wouldn’t have even thought possible last year and has provided an opportunity not only to expand my knowledge but for me to grow into a different person. A person who is significantly more prepared for the unsheltered life outside of school and will be forever grateful for the work and knowledge I’ve gained here. So in conclusion we would like to express our thanks to all the people at CERN who have taught us so much and we hope to be able to come back and keep on building up the project.
+
+
