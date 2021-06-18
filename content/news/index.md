@@ -18,8 +18,10 @@ showInMenu: true
 <img src="images/atlas-outreach-start.png" width="80%" alt="atlas-outreach-start">
 
 </CENTER>
-
 {{< /rawhtml >}}
+
+
+{{< rawhtml >}}
 | <h1><b>A Week At Cern</b></h1> | <h1><b>                   </b></h1> |
 |        :---:        |        :---:       |
 | [![Online Meeting](https://www.coe.int/documents/10463064/14588325/CDMSI-BU+online+meeting.png/591960d2-366e-3654-96eb-3a812023a229)](../news/blogpost1.md/) | [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) |
@@ -29,3 +31,5 @@ showInMenu: true
 |        :---:        |        :---:       |
 | [![13TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_event_display.png)](../detector-app/) | [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) |
 | A look inside & around the ATLAS detector | Perform real HEP analysis with your mouse |
+
+{{< /rawhtml >}}
