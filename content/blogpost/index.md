@@ -3,7 +3,7 @@ title: "A Week At Cern"
 date: 2020-11-23T04:51:13+01:00
 draft: false
 hideLastModified: true
-summaryImage: "online_meeting.png"
+summaryImage: "images/incognito-jets.png"
 keepImageRatio: false
 tags: ["Blog", "News"]
 summary: "Our one week internship at CERN"
