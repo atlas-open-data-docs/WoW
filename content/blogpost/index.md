@@ -10,8 +10,6 @@ summary: "Our one week internship at CERN"
 showInMenu: false
 ---
 
-## A Week at Cern
-
 ###### June 18th | By Maddox Feldbaum
 
 In the current worldwide situation, every company, organization and team has had to adapt to the new limitations set up by Covid-19. The Atlas Open Data team was no exception. While the team usually brings in (majority) university students to the CERN based in Geneva, where they create histograms and help to build up the Atlas Open Data website by improving and adding more and more content. This year, of course, bringing people into CERN was difficult, so the initiative was shifted online. While at first, this seems like an issue for me, and my fellow high school student Brieuc Doucy served as an incredible opportunity to explore the scientific community and develop our skills.
