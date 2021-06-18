@@ -21,13 +21,13 @@ showInMenu: true
 {{< /rawhtml >}}
 
 
-| <h1><b>A Week At Cern</b></h1> | <h1><b>                   </b></h1> |
+| <h1><b>A Week At Cern</b></h1> | <h1><b>(Space for future blog)</b></h1> |
 |        :---:        |        :---:       |
 | [![Online Meeting](http://opendata.atlas.cern/DataAndTools/pictures/handmade_web_analysis.png)](../blogpost/) | [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) |
 | Our Experience at Cern |             |
 
-| <h1><b>The ATLAS detector</b></h1> | <h1><b>Histogram Analyser: Simulated Data only</b></h1> |
+| <h1><b>(Space for future blog)</b></h1> | <h1><b>(Space for future blog)</b></h1> |
 |        :---:        |        :---:       |
 | [![13TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_event_display.png)](../detector-app/) | [![8TeV](http://opendata.atlas.cern/DataAndTools/pictures/handmade_WAnalysis.png)](../histogram-analyser-02/) |
-| A look inside & around the ATLAS detector | Perform real HEP analysis with your mouse |
+|  |  |
 
