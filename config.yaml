@@ -174,7 +174,7 @@ languages:
       homepage:
         linkPosition: "menu+footer"
         # this options let you specify the text of the link to the homepage
-        linkText: "Maison"
+        linkText: "Accueil"
         #
         title: ATLAS Open Data
         subtitle: Français
@@ -213,6 +213,9 @@ languages:
     weight:             3
     params:
       homepage:
+        linkPosition: "menu+footer"
+        # this options let you specify the text of the link to the homepage
+        linkText: "Inicio"
         title: ATLAS Open Data
         subtitle: Español
         image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
@@ -251,6 +254,9 @@ languages:
     weight:             4
     params:
       homepage:
+        linkPosition: "menu+footer"
+        # this options let you specify the text of the link to the homepage
+        linkText: "Home"
         title: ATLAS Open Data
         subtitle: Italiano
         image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
