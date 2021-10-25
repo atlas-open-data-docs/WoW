@@ -17,7 +17,6 @@ Just select the cloud provider that tickles your fancy (i.e. of which you actual
 &nbsp;
 
 | <h1><b>AWS instance</b></h1> | <h1><b>OpenStack@CERN instance</b></h1> | <h1><b>Google Cloud instance</b></h1> |
-|        :---:        |        :---:       |        :---:       |
 | [![AWS](./images/Amazon-Web-Services-AWS-Logo.png)](https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/aws_automated_jh_deployment/-/blob/master/README.md) | [![openstack](./images/OpenStack-Logo-Vertical.png)](https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/automated_jh_deployment/-/blob/master/README.md) | [![google](./images/Google-Cloud-Emblem_work_in_progress.png)]() |
 
 
