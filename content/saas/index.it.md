@@ -26,7 +26,7 @@ Ecco di seguito un breve sommario delle caratteristiche principali dello strumen
 * **Intercambiabilità dei notebook**: JH non sarà vincolato dalla scelta di un notebook specifico. ALTAS Open Data fornisce un [notebook standard](#single-user-solutions), ma se vuoi utilizzare un'altra immagine Docker su un registry, puoi includere quella nell'infrastruttura senza alcuno sforzo. Questo permette sia di avere un alto livello di personalizzazione, che di sfruttare JH per applicazioni che non siano necessariamente le analisi di Open Data.
 * **Persistenza dei dati**: il tuo lavoro non verrà eliminato al termine della sessione. Non ci saranno timeout del server che causeranno la perdita dei progressi nel notebook. I dati, i plot e i risultati sono salvati ed accessibili in qualsiasi momento.
 * **Volumi esterni/condivisi**: se si deve analizzare un dataset di grandi dimensioni, è fondamentale poter condividere le risorse, evitando così di obbligare gli utenti singoli a scaricare una grande mole di dati.
-* **Vellcità**: questo strumento è _veloce_. Il tempo necessario per configurare da zero l'infrastruttura si aggira intorno alla decina di minuti (e questa è una operazione che viene eseguita una volta soltanto). Una volta che JH è operativo, gli utenti possono aprire i propri notebook nel giro di _qualche secondo_.
+* **Velocità**: questo strumento è _veloce_. Il tempo necessario per configurare da zero l'infrastruttura si aggira intorno alla decina di minuti (e questa è una operazione che viene eseguita una volta soltanto). Una volta che JH è operativo, gli utenti possono aprire i propri notebook nel giro di _qualche secondo_.
 
 ## Workflow
 
