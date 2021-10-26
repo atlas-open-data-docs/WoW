@@ -36,10 +36,10 @@ Docker provides the **modular** layout of the infrastructure, enabling most of t
 
 ## Single user solutions
 
-### Notebooks
+### Jupyter Notebooks
 [Jupyter notebooks](https://jupyter.org/) are the core of the analysis effort of ATLAS Open Data. </br>
 Here we present a notebook built on top of the latest [scipy](https://hub.docker.com/r/jupyter/scipy-notebook) version, in which we embed the installation of the [ROOT](https://root.cern/) framework used at CERN, available in both python and C++ kernels. Other versions of the notebook are in development, in order to gradually increase the analysis potential of this tool.</br>
-You can run the notebook both **standalone or in combination** with the JH infrastructure descripted below. Try it out on your pc by simply running the following docker command:
+You can run the notebook both **standalone or in combination** with the JH infrastructure descripted above. Try it out on your pc by simply running the following docker command:
 ```
 docker run -it --rm -p8888:8888 atlasopendata/root_notebook:latest
 ```
