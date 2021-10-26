@@ -12,7 +12,7 @@ showInMenu: true
 
 Benvenuto nella pagina dedicata al "Automated Infrastructure Deployment Tool"!
 Ti sei mai chiesto come poter ottenere un ambiente di analisi funzionante e multi-utente da poter utilizzare con i tuoi studenti?</br>
-Questa pagina ti guiderà passo dopo passo nella configurazione di una infrastruttura JupyterHub](https://jupyter.org/hub) (JH) ospitata su una istanza cloud. Verrà inoltre presentato il notebook utilizzabile sia autonomamente, che in combinazione con JH.
+Questa pagina ti guiderà passo dopo passo nella configurazione di una infrastruttura [JupyterHub](https://jupyter.org/hub) (JH) ospitata su una istanza cloud. Verrà inoltre presentato il notebook utilizzabile sia autonomamente, che in combinazione con JH.
 
 Ti presentiamo uno strumento avanzato che permette a **chiunque** di istanzare il proprio JH. </br>
 Perchè a chiunque? Perchè non sono richiesti prerequisiti di alto livello, infatti è sufficiente avere una _conoscenza di base_ del termianle linux, e l'accesso ad un _cloud provider_ su cui generare l'infrastruttura.
