@@ -30,7 +30,7 @@ Ecco di seguito un breve sommario delle caratteristiche principali dello strumen
 
 ## Workflow
 
-L'istanziazione si appoggia a **due** servizi fondamentali: [Docker](https://www.docker.com/) e [Terraform](https://www.terraform.io/). </br>
+I pilastri portanti dell'intero processo di istanziazione sono **due** servizi fondamentali: [Docker](https://www.docker.com/) e [Terraform](https://www.terraform.io/). </br>
 Docker provvede alla **modularità** dell'infrastruttura, abilitando la maggior parte delle caratteristiche riportate sopra. Infatti, l'agilità e la flessibilità dell'intero sistema sono dovute alla containerizzazione dell'infrastruttura. D'altra parte, Terraform assicura l'**automatizzazione** del processo di deployment di JH. Un diagramma esplicativo del processo di istanziazione è riportato sotto.
 
 ![](./images/workflow.png)
