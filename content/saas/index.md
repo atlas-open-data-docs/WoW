@@ -35,7 +35,9 @@ Docker provides the **modular** layout of the infrastructure, enabling most of t
 ![](./images/workflow.png)
 
 ## Single user solutions
-* [Jupyter notebooks](https://jupyter.org/) are the core of the analysis effort of ATLAS Open Data. </br>
+
+### Notebooks
+[Jupyter notebooks](https://jupyter.org/) are the core of the analysis effort of ATLAS Open Data. </br>
 Here we present a notebook built on top of the latest [scipy](https://hub.docker.com/r/jupyter/scipy-notebook) version, in which we embed the installation of the [ROOT](https://root.cern/) framework used at CERN, available in both python and C++ kernels. Other versions of the notebook are in development, in order to gradually increase the analysis potential of this tool.</br>
 You can run the notebook both **standalone or in combination** with the JH infrastructure descripted below. Try it out on your pc by simply running the following docker command:
 ```
@@ -50,7 +52,9 @@ To access the notebook, open this file in a browser:
         http://4c61742ed77c:8888/?token=34b7f124f6783e047e796fea8061c3fca708a062a902c2f9
      or http://127.0.0.1:8888/?token=34b7f124f6783e047e796fea8061c3fca708a062a902c2f9
 ```
-* ATLAS Open Data also provides a [virtual machine](http://opendata.atlas.cern/release/2020/documentation/vm/index.html), which allows you to test the 13 TeV ATLAS Open Data on your own host machine.
+
+### Virtual Machine(s)
+ATLAS Open Data also provides a [virtual machine](http://opendata.atlas.cern/release/2020/documentation/vm/index.html), which allows you to test the 13 TeV ATLAS Open Data on your own host machine.
 
 Take a closer look to our resources:
 
