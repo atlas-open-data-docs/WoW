@@ -20,13 +20,13 @@ Perchè a chiunque? Perchè non sono richiesti prerequisiti di alto livello, inf
 
 ## Caratteristiche
 
-Ecco di seguito un breve sommario delle caratteristiche principali dello strumetoç </br>
+Ecco di seguito un breve sommario delle caratteristiche principali dello strumento </br>
 (se non ti interessa la teoria, vai direttamente alla [dashboard](#deployment-dashboard) e comincia la configurazione!)
 
-* **Notebooks flexibility**: JH non sarà vincolato dalla scelta di un notebook specifico. ALTAS Open Data fornisce un [notebook standard](#single-user-solutions), ma se vuoi utilizzare un'altra immagine Docker su un registry, puoi includere quella nell'infrastruttura senza alcuno sforzo. Questo permette sia di avere un alto livello di personalizzazione, che di sfruttare JH per applicazioni che non siano necessariamente le analisi di Open Data.
-* **Persistency of data**: il tuo lavoro non verrà eliminato al termine della sessione. Non ci saranno timeout del server che causeranno la perdita dei progressi nel notebook. I dati, i plot e i risultati sono salvati ed accessibili in qualsiasi momento.
-* **External/shared volumes**: se si deve analizzare un dataset di grandi dimensioni, è fondamentale poter condividere le risorse, evitando così di obbligare gli utenti singoli a scaricare una grande mole di dati.
-* **Speed**: questo strumento è _veloce_ç. Il tempo necessario per configurare da zero l'infrastruttura si aggira intorno alla decina di minuti (e questa è una operazione che viene eseguita una volta soltanto). Una volta che JH è operativo, gli utenti possono aprire i propri notebook nel giro di _qualche secondo_.
+* **Intercambiabilità dei notebook**: JH non sarà vincolato dalla scelta di un notebook specifico. ALTAS Open Data fornisce un [notebook standard](#single-user-solutions), ma se vuoi utilizzare un'altra immagine Docker su un registry, puoi includere quella nell'infrastruttura senza alcuno sforzo. Questo permette sia di avere un alto livello di personalizzazione, che di sfruttare JH per applicazioni che non siano necessariamente le analisi di Open Data.
+* **Persistenza dei dati**: il tuo lavoro non verrà eliminato al termine della sessione. Non ci saranno timeout del server che causeranno la perdita dei progressi nel notebook. I dati, i plot e i risultati sono salvati ed accessibili in qualsiasi momento.
+* **Volumi esterni/condivisi**: se si deve analizzare un dataset di grandi dimensioni, è fondamentale poter condividere le risorse, evitando così di obbligare gli utenti singoli a scaricare una grande mole di dati.
+* **Vellcità**: questo strumento è _veloce_. Il tempo necessario per configurare da zero l'infrastruttura si aggira intorno alla decina di minuti (e questa è una operazione che viene eseguita una volta soltanto). Una volta che JH è operativo, gli utenti possono aprire i propri notebook nel giro di _qualche secondo_.
 
 ## Workflow
 
