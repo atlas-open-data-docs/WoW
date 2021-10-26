@@ -54,9 +54,9 @@ To access the notebook, open this file in a browser:
 
 Take a closer look to our resources:
 
-| <h1><b>Jupyter Notebooks</b></h1> | <h1><b>Virtual Machine</b></h1> | <h1><b>Google Cloud instance</b></h1> |
-|        :---:        |        :---:       |        :---:       |
-| [![JN](./images/jn.png)](https://hub.docker.com/r/atlasopendata/root_notebook) | [![VM](./images/vm.png)](http://opendata.atlas.cern/release/2020/documentation/vm/index.html) | [![google](./images/Google-Cloud-Emblem_work_in_progress.png)]()|
+| <h1><b>Jupyter Notebooks</b></h1> | <h1><b>Virtual Machine</b></h1> |
+|        :---:        |        :---:       |
+| [![JN](./images/jn.png)](https://hub.docker.com/r/atlasopendata/root_notebook) | [![VM](./images/vm.png)](http://opendata.atlas.cern/release/2020/documentation/vm/index.html) |
 
 &nbsp;
 
