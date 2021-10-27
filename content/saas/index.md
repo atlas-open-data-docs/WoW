@@ -34,7 +34,7 @@ Docker provides the **modular** layout of the infrastructure, enabling most of t
 
 
 <p align="center">
-  <img src="./images/workflow.png" />
+  ![](./images/workflow.png)
 </p>
 
 ## Single user solutions
