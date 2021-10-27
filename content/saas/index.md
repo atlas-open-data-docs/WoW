@@ -32,7 +32,10 @@ Now, let's dive into the fundamental features of the tool: </br>
 The deployment process relies on **two** fundamental services: [Docker](https://www.docker.com/) and [Terraform](https://www.terraform.io/). </br>
 Docker provides the **modular** layout of the infrastructure, enabling most of the above-mentioned features; together with agility and flexibility, thanks to the containerization, Docker also provides lightness to the whole environment. On the other hand, Terraform ensures the **automation** of the JH deployment. Below it is shown a flowchart of the deployment process.
 
-![](./images/workflow.png)
+
+<p align="center">
+  <img src="./images/workflow.png" />
+</p>
 
 ## Single user solutions
 
