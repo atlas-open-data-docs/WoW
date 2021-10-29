@@ -64,7 +64,7 @@ Take a closer look to our resources:
 
 | <h1><b>Container repository</b></h1> | <h1><b>Virtual Machine</b></h1> |
 |        :---:        |        :---:       |
-| [![JN](./images/jn.png)](https://hub.docker.com/r/atlasopendata/root_notebook) | [![VM](./images/vm.png)](http://opendata.atlas.cern/release/2020/documentation/vm/index.html) |
+| {{< rawhtml >}} <a href="https://hub.docker.com/r/atlasopendata/root_notebook"><img src="./images/jn.png" style="width:450px;height:450px;"></a>{{< /rawhtml >}} |     {{< rawhtml >}} <a href="http://opendata.atlas.cern/release/2020/documentation/vm/index.html"><img src="./images/vm.png" style="width:450px;height:450px;"></a>{{< /rawhtml >}} |
 
 &nbsp;
 
@@ -74,6 +74,6 @@ Just select the cloud provider that tickles your fancy (i.e. of which you actual
 
 | <h1><b>AWS instance</b></h1> | <h1><b>OpenStack@CERN instance</b></h1> | <h1><b>Google Cloud instance</b></h1> |
 |        :---:        |        :---:       |        :---:       |
-| {{< rawhtml >}} <a href="https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/aws_automated_jh_deployment/-/blob/master/README.md"><img src="./images/Amazon-Web-Services-AWS-Logo.png" style="width:150px;height:150px;"></a>{{< /rawhtml >}} | {{< rawhtml >}} <a href="https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/automated_jh_deployment/-/blob/master/README.md"><img src="./images/OpenStack-Logo-Vertical.png" style="width:150px;height:150px;"></a>{{< /rawhtml >}} | {{< rawhtml >}} <a href=""><img src="./images/Google-Cloud-Emblem_work_in_progress.png" style="width:150px;height:150px;"></a>{{< /rawhtml >}}|
+| {{< rawhtml >}} <a href="https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/aws_automated_jh_deployment/-/blob/master/README.md"><img src="./images/Amazon-Web-Services-AWS-Logo.png" style="width:300px;height:300px;"></a>{{< /rawhtml >}} | {{< rawhtml >}} <a href="https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/automated_jh_deployment/-/blob/master/README.md"><img src="./images/OpenStack-Logo-Vertical.png" style="width:300px;height:300px;"></a>{{< /rawhtml >}} | {{< rawhtml >}} <a href=""><img src="./images/Google-Cloud-Emblem_work_in_progress.png" style="width:300px;height:300px;"></a>{{< /rawhtml >}}|
 
 
