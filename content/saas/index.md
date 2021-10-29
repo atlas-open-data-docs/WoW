@@ -64,7 +64,7 @@ Take a closer look to our resources:
 
 | <h1><b>Container repository</b></h1> | <h1><b>Virtual Machine</b></h1> |
 |        :---:        |        :---:       |
-| {{< rawhtml >}} <a href="https://hub.docker.com/r/atlasopendata/root_notebook"><img src="./images/jn.png" style="width:450px;height:450px;"></a>{{< /rawhtml >}} |     {{< rawhtml >}} <a href="http://opendata.atlas.cern/release/2020/documentation/vm/index.html"><img src="./images/vm.png" style="width:450px;height:450px;"></a>{{< /rawhtml >}} |
+| {{< rawhtml >}} <a href="https://hub.docker.com/r/atlasopendata/root_notebook"><img src="./images/jn.png" style="width:450px;height:400px;"></a>{{< /rawhtml >}} |     {{< rawhtml >}} <a href="http://opendata.atlas.cern/release/2020/documentation/vm/index.html"><img src="./images/vm.png" style="width:450px;height:400px;"></a>{{< /rawhtml >}} |
 
 &nbsp;
 
