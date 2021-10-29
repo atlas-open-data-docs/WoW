@@ -74,6 +74,6 @@ Just select the cloud provider that tickles your fancy (i.e. of which you actual
 
 | <h1><b>AWS instance</b></h1> | <h1><b>OpenStack@CERN instance</b></h1> | <h1><b>Google Cloud instance</b></h1> |
 |        :---:        |        :---:       |        :---:       |
-| [![AWS](./images/Amazon-Web-Services-AWS-Logo.png)](https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/aws_automated_jh_deployment/-/blob/master/README.md) | [![openstack](./images/OpenStack-Logo-Vertical.png)](https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/automated_jh_deployment/-/blob/master/README.md) | [![google](./images/Google-Cloud-Emblem_work_in_progress.png)]()|
+| {{< rawhtml >}} <a href="https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/aws_automated_jh_deployment/-/blob/master/README.md"><img src="./images/Amazon-Web-Services-AWS-Logo.png" style="width:150px;height:150px;"></a>{{< /rawhtml >}} | {{< rawhtml >}} <a href="https://gitlab.cern.ch/atlas-open-data-iac-qt-2021/automated_jh_deployment/-/blob/master/README.md"><img src="./images/OpenStack-Logo-Vertical.png" style="width:150px;height:150px;"></a>{{< /rawhtml >}} | {{< rawhtml >}} <a href=""><img src="./images/Google-Cloud-Emblem_work_in_progress.png" style="width:150px;height:150px;"></a>{{< /rawhtml >}}|
 
 
