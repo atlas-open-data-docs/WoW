@@ -1,6 +1,6 @@
 ---
 title: "Información"
-date: 2021-10-20T21:51:13+01:00
+date: 2021-01-01T01:51:13+01:00
 draft: false
 hideLastModified: true
 summaryImage: "images/handmade_community.png"
