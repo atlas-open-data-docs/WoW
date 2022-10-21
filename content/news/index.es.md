@@ -9,13 +9,15 @@ tags: ["8 TeV", "Experiment"]
 summary: "Noticias de las semana"
 showInMenu: true
 ---
+### test de edición de página
+[LAA-HECAP Website](https://www.ictp-saifr.org/laa-hecap/)
 
 {{< rawhtml >}}
-<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+<script async src="https://www.ictp-saifr.org/wp-content/uploads/2021/12/banner2-2@172x.jpg"></script>
 
 <CENTER>
 
-<img src="images/atlas-outreach-start.png" width="80%" alt="atlas-outreach-start">
+<img src="https://www.ictp-saifr.org/wp-content/uploads/2021/12/banner2-2@172x.jpg" width="80%" alt="atlas-outreach-start">
 
 </CENTER>
 {{< /rawhtml >}}
