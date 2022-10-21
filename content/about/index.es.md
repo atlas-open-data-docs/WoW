@@ -14,3 +14,8 @@ showInMenu: true
 &nbsp;
 
 El enfoque actual de la Colaboración ATLAS para publicar conjuntos de datos está destinado a actividades de educación, capacitación y divulgación en todo el mundo. Para lograr este objetivo, se formó el proyecto ATLAS Open Data.
+ 
+ 
+ ## Esta es una imagen
+ 
+ ![logo del ICTP](https://moodle.ictp.it/moodle/pluginfile.php/1/core_admin/logocompact/300x300/1647420775/logo-compact.png)
