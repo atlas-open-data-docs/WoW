@@ -111,7 +111,7 @@ params:
     # this options let you specify the text of the link to the homepage
     linkText: "Home"
     # option to specify the title in the homepage
-    title: ATLAS Open Data TEST
+    title: ATLAS Open Data
     # option to specify the subtitle in the homepage
     subtitle: An Educational project in High Energy Physics
     # option to specify image in the homepage
