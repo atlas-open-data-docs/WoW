@@ -104,12 +104,12 @@ params:
     imageWidth: 600px
 
   # homepage options
-  homepage:
+  #homepage:
     # this options let you specify if you want a link to the homepage
     # it can be: "none", "menu", "footer" or "menu+footer"
-    linkPosition: "menu+footer"
+    #linkPosition: "menu+footer"
     # this options let you specify the text of the link to the homepage
-    linkText: "Home"
+    #linkText: "Home"
     ## option to specify the title in the homepage
     #title: ATLAS Open Data
     ## option to specify the subtitle in the homepage
