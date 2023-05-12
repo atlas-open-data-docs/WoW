@@ -15,7 +15,7 @@ In order to fulfil that objective, the **[ATLAS Open Data project](http://openda
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 {{< /rawhtml >}}
 
-![path]("images/ATLAS-logo.gif")
+![path]("ATLAS-logo.gif")
 
 [ATLAS Open Data](http://opendata.atlas.cern) project aims to provide data and tools to high-school, masters and undergraduate students, as well as teachers and lecturers, to help educate them in physics analysis techniques used in experimental particle physics. Sharing data collected by the [ATLAS](https://atlas.cern) experiment aims to generate excitement and enthusiasm for fundamental research, inspiring physicists of the future.
 
