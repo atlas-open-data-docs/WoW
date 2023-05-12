@@ -104,20 +104,20 @@ params:
     imageWidth: 600px
 
   # homepage options
-  #homepage:
-    ## this options let you specify if you want a link to the homepage
-    ## it can be: "none", "menu", "footer" or "menu+footer"
-    #linkPosition: "menu+footer"
-    ## this options let you specify the text of the link to the homepage
-    #linkText: "Home"
-    ## option to specify the title in the homepage
-    #title: ATLAS Open Data TEST
-    ## option to specify the subtitle in the homepage
-    #subtitle: An Educational project in High Energy Physics
-    ## option to specify image in the homepage
-    #image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
-    ## option to specify the width of the image in the homepage
-    #imageWidth: 200%
+  homepage:
+    # this options let you specify if you want a link to the homepage
+    # it can be: "none", "menu", "footer" or "menu+footer"
+    linkPosition: "menu+footer"
+    # this options let you specify the text of the link to the homepage
+    linkText: "Home"
+    # option to specify the title in the homepage
+    title: ATLAS Open Data TEST
+    # option to specify the subtitle in the homepage
+    subtitle: An Educational project in High Energy Physics
+    # option to specify image in the homepage
+    image: "images/ATLAS-logo.gif" #ATLASOD.gif # worker.svg
+    # option to specify the width of the image in the homepage
+    imageWidth: 200%
 
   # footer options
   footer:
