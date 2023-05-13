@@ -74,7 +74,7 @@ params:
   # main pages options
   mainPage:
     # option to specify the main font of the theme
-    fontFamily: "Ubuntu" # "Open Sans"
+    fontFamily: "Open Sans" 
 
   # sidebar options
   sidebar:
@@ -89,7 +89,7 @@ params:
     # option to specify the logo of the sidebar
     fontFamily: "Open Sans" # "Ubuntu"
     # option to show the little logos on the side of the navbar items
-    showIcons: false
+    showIcons: true
 
   # 404 page options
   pagNotFound:
@@ -97,9 +97,9 @@ params:
     # the starting folder is configure in "assetDir" of this file
     image: "images/ATLAS-logo_404.gif"
     # option to specify the title of the 404 page
-    title: 404 Page Not Found :(
+    title: 404 Page Not Found 
     # option to specify the subtitle of the 404 page
-    subtitle: This is not the page you were looking for...
+    subtitle: Sorry! That link did not work. The page it pointed might have been moved or is temporarily unavailable.
     # option to specify the width of the image in the 404 page
     imageWidth: 600px
 
@@ -127,18 +127,16 @@ params:
     # option to specify your contact email in the footer
     email:
       link: atlas.outreach.data.tools@cern.ch
-      title: Contact Us
+      title: Get in touch
     # option to specify your linkedin profile in the footer
     #linkedin:
     #  link: https://its.cern.ch/jira/browse/MYATLAS
     #  title: Report a bug or idea
     # option to specify your facebook account in the footer;
-    # **uncomment** the lines below to show in footer
-    # facebook:
-    #   link: your.username
-    #   title: Facebook
+    facebook:
+       link: ATLASexperiment
+       title: Facebook
     # option to specify your github account in the footer;
-    # **uncomment** the below lines to show in footer
     github:
       link: atlas-outreach-data-tools
       title: Our Github
@@ -148,12 +146,12 @@ params:
     #    link: username
     #    title: Twitter
     # option to specify your instagram username in the footer;
-    # **uncomment** the below lines to show in footer
-    # instagram:
-    #   link: atlasexperiment
-    #   title: ATLAS Instagram
+    instagram:
+       link: atlasexperiment
+       title: Instagram
     # option to specify the copyright in the footer
-    copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
+    copyright: ATLAS Experiment © 2023 CERN
+    # using themes.gohugo.io
 
 ###################################################################
 ################## multilanguage support options ##################
@@ -194,19 +192,19 @@ languages:
         # linkedin:
         #   link: your_linkedin_profile
         #   title: LinkedIn
-        # facebook:
-        #   link: your.username
-        #   title: Facebook
+        facebook:
+          link: ATLASexperiment
+          title: Facebook
         # twitter:
         #   link: username
         #   title: Twitter
-        # instagram:
-        #   link: username
-        #   title: Instagram
-        # github:
-        #   link: username
-        #   title: Github
-        copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
+        instagram:
+          link: atlasexperiment
+          title: Instagram
+        github:
+          link: atlas-outreach-data-tools
+          title: Our Github
+        copyright: ATLAS Experiment © 2023 CERN
 ################################################################################
   es:
     languageName:       Spanish
@@ -234,19 +232,19 @@ languages:
         # linkedin:
         #   link: your_linkedin_profile
         #   title: LinkedIn
-        # facebook:
-        #   link: your.username
-        #   title: Facebook
+        facebook:
+          link: ATLASexperiment
+          title: Facebook
         # twitter:
         #   link: username
         #   title: Twitter
-        # instagram:
-        #   link: username
-        #   title: Instagram
-        # github:
-        #   link: username
-        #   title: Github
-        copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
+        instagram:
+          link: atlasexperiment
+          title: Instagram
+        github:
+          link: atlas-outreach-data-tools
+          title: Our Github
+        copyright: ATLAS Experiment © 2023 CERN
 
 ################################################################################
   it:
@@ -275,16 +273,16 @@ languages:
         # linkedin:
         #   link: your_linkedin_profile
         #   title: LinkedIn
-        # facebook:
-        #   link: your.username
-        #   title: Facebook
+        facebook:
+          link: ATLASexperiment
+          title: Facebook
         # twitter:
         #   link: username
         #   title: Twitter
-        # instagram:
-        #   link: username
-        #   title: Instagram
-        # github:
-        #   link: username
-        #   title: Github
-        copyright: ATLAS@CERN - for Education Only - using themes.gohugo.io
+        instagram:
+          link: atlasexperiment
+          title: Instagram
+        github:
+          link: atlas-outreach-data-tools
+          title: Our Github
+        copyright: ATLAS Experiment © 2023 CERN
