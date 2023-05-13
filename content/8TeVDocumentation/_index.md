@@ -4,12 +4,18 @@ title: "Hugo and GitLab Pages"
 description: "A Hugo site built with GitLab Pages"
 ---
 
-This website is powered by [GitLab Pages](https://about.gitlab.com/features/pages/)
-and [Hugo](https://gohugo.io), and can be built in under 1 minute.
-Literally. It uses the [`ananke` theme](https://github.com/theNewDynamic/gohugo-theme-ananke)
-which supports content on your front page.
-Edit `/content/en/_index.md` to change what appears here. Delete `/content/en/_index.md`
-if you don't want any content here.
+# ATLAS open data
 
-Head over to the [GitLab project](https://gitlab.com/pages/hugo) to get started.
+Welcome to ATLAS at the LHC.
+We have prepared some data for you.  Come and take a look.
+It is ready for you to use, just for curiosity, as a teaching tool or to dive in and write your own analysis code.
 
+This section is aimed at University students and post graduate researchers.  Software skills may help, but are not essential.  A good amount of motivation is the main requirement to follow the various steps.
+
+If you are a high school student, or just interested in data and software, feel free to take a look.  You may just find some of the physics terms not very clearly explained.
+
+
+![](pictures/openDataScreenShot.png)
+
+Use the arrows below to navigate through this booklet.
+Or click on the hamburger icon (4 horizontal lines) above to access the chapters directly.
