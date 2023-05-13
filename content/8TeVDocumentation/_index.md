@@ -1,6 +1,6 @@
 ---
 title: "Hugo and GitLab Pages"
-
+chapter = true
 description: "A Hugo site built with GitLab Pages"
 ---
 
