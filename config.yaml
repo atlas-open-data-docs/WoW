@@ -89,7 +89,7 @@ params:
     # option to specify the logo of the sidebar
     fontFamily: "Open Sans" # "Ubuntu"
     # option to show the little logos on the side of the navbar items
-    showIcons: true
+    showIcons: false
 
   # 404 page options
   pagNotFound:
