@@ -7,4 +7,4 @@ description: "A Hugo site built with GitLab Pages"
 
 ## Section 1
 
-<<[sections/test.md]
+@@include[test.md](sections/test.md)
