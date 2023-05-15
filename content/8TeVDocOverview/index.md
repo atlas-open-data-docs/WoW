@@ -20,4 +20,17 @@ If you are a high school student, or just interested in data and software, feel 
 Use the arrows below to navigate through this booklet.
 Or click on the hamburger icon (4 horizontal lines) above to access the chapters directly.
 
-[About]({{< ref "/8TevDocAnalyses" >}} "About Us")
+[ATLAS events]({{< ref "/8TevDocEvents" >}} "ATLAS events")
+[Data and simulated data]({{< ref "/8TevDocData" >}} "Data and simulated data")
+[Histogram animation]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation")
+[Analyses]({{< ref "/8TevDocAnalyses" >}} "Analyses")
+[Set up your environment]({{< ref "/8TevDocSetupEnv" >}} "Set up your environment")
+[Take a closer look to the data]({{< ref "/8TevDocCloserLookData" >}} "Take a closer look to the data")
+[Take a closer look]({{< ref "/8TevDocCloserLook" >}} "Take a closer look")
+[Plots explained]({{< ref "/8TevDocPlots" >}} "Plots explained")
+[More plots]({{< ref "/8TevDocMorePlots" >}} "More plots")
+[Create a new plot]({{< ref "/8TevDocNewPlot" >}} "Create a new plot")
+[Event selection]({{< ref "/8TevDocEventSel" >}} "Event selection")
+[Variable names]({{< ref "/8TevDocVarNames" >}} "Variable names")
+[Glossary]({{< ref "/8TevDocGlossary" >}} "Glossary")
+[Dataset details]({{< ref "/8TevDocDataDetails" >}} "Dataset details")
