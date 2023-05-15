@@ -17,4 +17,9 @@ This section is aimed at University students and post graduate researchers.  Sof
 
 If you are a high school student, or just interested in data and software, feel free to take a look.  You may just find some of the physics terms not very clearly explained.
 
-[Part 1](analyses.md)
+<!-- [Part 1](analyses.md) -->
+<!-- {{ (.Resources.GetMatch "analyses.md").Content }} -->
+
+{{< rawhtml >}}
+(.Resources.GetMatch "analyses.md").Content
+{{< /rawhtml >}}
