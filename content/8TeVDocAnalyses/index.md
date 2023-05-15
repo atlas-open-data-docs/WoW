@@ -27,7 +27,7 @@ Many analyses selecting leptons suffer from \(Z\) boson plus jets as a contribut
 
 It is important to measure well known Standard Model particles, to confirm that we understand properly the detector and software. We are then ready to search for new physics.
 
-![](pictures/EventDisplays/ZmumuPlusCaption.png)
+![](/8TeVDocImages/pictures/EventDisplays/ZmumuPlusCaption.png)
 
 ## \(WZ\) Analysis
 
