@@ -1,3 +1,13 @@
+---
+title: "8TeV Doc"
+date: 2020-11-23T04:51:13+01:00
+draft: false
+hideLastModified: true
+keepImageRatio: false
+summary: "Recipes for infrastructure deployment"
+showInMenu: false
+---
+
 # Analyses 
 
 We have prepared seven analyses for you. Ranging from measuring Standard Model particles including a Higgs analysis and a search for a Beyond the Standard Model particle.  Let's take a look at these processes.
