@@ -9,6 +9,7 @@ summary: "Recipes for infrastructure deployment"
 showInMenu: true
 ---
 
+[Part 1](analyses.md)
 
 Welcome to the Automated Infrastructure Deployment Tool!
 Did you ever wonder how to obtain a working, multi-user analysis environment for your students or your group?</br>
