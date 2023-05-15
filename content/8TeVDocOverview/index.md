@@ -19,5 +19,3 @@ If you are a high school student, or just interested in data and software, feel 
 
 Use the arrows below to navigate through this booklet.
 Or click on the hamburger icon (4 horizontal lines) above to access the chapters directly.
-
-[TEST] ( {{< relref "8TevDocAnalyses" >}})
