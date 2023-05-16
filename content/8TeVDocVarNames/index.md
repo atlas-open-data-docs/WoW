@@ -39,11 +39,11 @@ Here are the definitions of the variable names as used in the analysis code and 
 | Lep\_e | lep\_E | vector&lt;.float&gt; | energy of the lepton |
 | Lep\_z0 | lep\_z0 | vector&lt;.float&gt; | z-coordinate of the track associated to the lepton wrt. the primary vertex |
 | Lep\_charge | lep\_charge | vector&lt;.float&gt; | charge of the lepton |
-| Lep\_pdgid | lep\_type | vector&lt;.int&gt; | number signifying the lepton type \(e, mu, tau\) of the lepton |
+| Lep\_pdgid | lep\_type | vector&lt;.int&gt; | number signifying the lepton type $$e, mu, tau$$ of the lepton |
 | Lep\_flag | lep\_flag | vector&lt;.int&gt; | bitmask implementing object cuts |
-| Lep\_ptcone30 | lep\_ptcone30 | vector&lt;.float&gt; | scalar sum of track pTs in a cone of R=0.3 around lepton, not including lepton \(p_T\) itself |
+| Lep\_ptcone30 | lep\_ptcone30 | vector&lt;.float&gt; | scalar sum of track pTs in a cone of R=0.3 around lepton, not including lepton $$p_T$$ itself |
 | Lep\_etcone20 | lep\_etcone20 | vector&lt;.float&gt; | scalar sum of track ETs in a cone of R=0.2 around lepton, not including lepton ET itself |
-| Lep\_d0 | lep\_trackd0pvunbiased | vector&lt;.float&gt; | d0 of the track associated to the lepton at the point of closest approach \(p.o.a.\) |
+| Lep\_d0 | lep\_trackd0pvunbiased | vector&lt;.float&gt; | d0 of the track associated to the lepton at the point of closest approach $$p.o.a.$$ |
 | Lep\_d0sig | lep\_tracksigd0pvunbiased | vector&lt;.float&gt; | d0 signifcance of the track associated to the lepton at the p.o.a. |
 | Met\_et | met\_et | float | Transverse energy of the missing momentum vector |
 | Met\_phi | met\_phi | float | Azimuthal angle of the missing momentum vector |
@@ -82,7 +82,7 @@ So the snappily named tuple variable lep\_trackd0pvunbiased can be accessed as j
 
 Four-momentum is a [four-vector](https://en.wikipedia.org/wiki/Four-vector) in [spacetime](https://en.wikipedia.org/wiki/Spacetime).  It is useful in relativistic calculations because it is a Lorentz vector. This means that it is easy to keep track of how it transforms under [Lorentz transformations](https://en.wikipedia.org/wiki/Lorentz_transformation).
 
-[TLorentzVector](http://root.cern.ch/root/html/TLorentzVector.html) is a general four-vector class in [ROOT](https://root.cern.ch/), which can be used either for the description of position and time \(x,y,z,t\) or momentum and energy \(px,py,pz,E\).
+[TLorentzVector](http://root.cern.ch/root/html/TLorentzVector.html) is a general four-vector class in [ROOT](https://root.cern.ch/), which can be used either for the description of position and time $$x,y,z,t$$ or momentum and energy $$px,py,pz,E$$.
 
 In [TupleReader.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/TupleReader.py) it is defined
 
