@@ -9,7 +9,7 @@ showInMenu: false
 
 # Data and simulated data
 <CENTER>
-<img src="images/EventDisplays/2012_highPileup.png" width="275" />
+<img src="./images/EventDisplays/2012_highPileup.png" width="275" />
 </CENTER>
 
 ## Data 
