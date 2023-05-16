@@ -154,3 +154,5 @@ In theoretical physics, [Feynman diagrams](https://en.wikipedia.org/wiki/Feynman
 
 Have a go at drawing / finding the Feynman diagram for each of the above seven analyses.
 
+# Navigation
+Go to the next [section]({{< ref "/8TevDocSetupEnv" >}} "Set up your environment") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

@@ -56,3 +56,6 @@ Real data and simulated data do not always agree.  This can be due to various re
 * the physics has not been exactly modeled by the theory.
 
 If the data and simulated data does not agree, it is important that physicists understand why.
+
+# Navigation
+Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

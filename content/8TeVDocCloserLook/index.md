@@ -175,3 +175,5 @@ The order of the depictions is determined in line 2 of the code example above.
 
 Here we can see an agreement plot above and ratio plot below for lepton \(p_T\).
 
+# Navigation
+Go to the next [section]({{< ref "/8TevDocPlots" >}} "Plots explained") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

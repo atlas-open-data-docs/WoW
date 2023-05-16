@@ -92,3 +92,5 @@ In various analyses it is used e.g.[ HWWAnalysis.py](https://github.com/atlas-ou
 
 ![](images/CodeSnippet/mll.png)
 
+# Navigation
+Go to the next [section]({{< ref "/8TevDocGlossary" >}} "Glossary") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

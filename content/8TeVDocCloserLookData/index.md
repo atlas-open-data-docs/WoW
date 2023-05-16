@@ -202,13 +202,5 @@ python RunScript.py -a WAnalysis
 python PlotResults.py Configurations/PlotConf_WAnalysis.py
 ```
 
-
-
-
-
-
-
-
-
-
-
+# Navigation
+Go to the next [section]({{< ref "/8TevDocCloserLook" >}} "Take a closer look") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

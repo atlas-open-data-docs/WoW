@@ -158,6 +158,5 @@ One electron volt is equal to ~1.6 x 10^-19 joules. MeV (10^6) and TeV (10^12) a
 
 Antimatter: A particle and its antiparticle have the same mass as one another, but opposite electric charge and other quantum numbers. A collision between any particle and its antiparticle partner leads to their mutual annihilation, giving rise to various proportions of photons, neutrinos, and sometimes less massive particle–antiparticle pairs.
 
-
-
-
+# Navigation
+Go to the next [section]({{< ref "/8TevDocDataDetails" >}} "Dataset details") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").
