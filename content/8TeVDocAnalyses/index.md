@@ -27,7 +27,7 @@ Many analyses selecting leptons suffer from \(Z\) boson plus jets as a contribut
 
 It is important to measure well known Standard Model particles, to confirm that we understand properly the detector and software. We are then ready to search for new physics.
 
-![](/8TeVDocImages/pictures/EventDisplays/ZmumuPlusCaption.png)
+![](images/EventDisplays/ZmumuPlusCaption.png)
 
 ## \(WZ\) Analysis
 
@@ -61,7 +61,7 @@ The Higgs boson decays into two \(W\) bosons which subsequently decay into lepto
 
 A signature of this decay process is an isolated high-\(p_T\) lepton. The term \(p_T\) stands for transverse momentum, the component of momentum perpendicular to the beam line. Unfortunately, the main background processes also contain isolated high-\(p_T\) leptons from \(W\) or \(Z\) boson decays.
 
-![](pictures/EventDisplays/HWW2plusCaption.png)
+![](images/EventDisplays/HWW2plusCaption.png)
 
 ## \(WW\) Analysis
 
@@ -89,7 +89,7 @@ Final states with leptons and missing transverse momentum are typical for many n
 
 Understanding the Standard Model processes possessing multiple leptons and missing transverse momentum is crucial in the quest to discover or rule out these models.
 
-![](pictures/EventDisplays/WWplusCaption.png)
+![](images/EventDisplays/WWplusCaption.png)
 
 ## \(t\bar t\) Analysis
 
@@ -120,7 +120,7 @@ Three channels are possible depending on the decays of the \(W\) bosons:
 * If both \(W\) bosons decay hadronically, six jets are seen, two from each \(W\) and two from the \(b\)-quarks.
 * If the decay is semi-leptonic, one \(W\) boson decays leptonically and the other hadronically; four jets are seen, two of them are from \(b\)-quarks.
 
-![](pictures/EventDisplays/ToppairPlusCaption.png)
+![](images/EventDisplays/ToppairPlusCaption.png)
 
 ## \(Z'\) Analysis
 
