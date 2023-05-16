@@ -27,7 +27,7 @@ Modify the file `Configurations/Configuration.py` and change fraction from 1 to 
 
 ### Let's get plotting
 
-One of the standard plots produced in an analysis is jet pseudorapidity, $$\eta_{\rm{jet}}$$.  Let's use that to help us create a new plot that is not currently in the standard plots.
+One of the standard plots produced in an analysis is jet pseudorapidity, \\( \eta_{\rm{jet}} \\).  Let's use that to help us create a new plot that is not currently in the standard plots.
 
 {{< rawhtml >}}
 <CENTER>
@@ -109,7 +109,7 @@ So there will be 30 bins in the x-axis ranging from -3 to +3.  This range is rea
 
 Your histogram title "Jet phi; #phi^{jet}; Jets" 
 sets the main title as "Jet phi", 
-the x-axis label as $$\phi^{jet}$$
+the x-axis label as \\( \phi^{jet} \\)
 and the y-axis label as "Jets".
 
 
@@ -200,7 +200,7 @@ So there will be 30 bins in the x-axis ranging from -3 to +3.  This range is rea
 
 Your histogram title "Jet phi; #phi^{jet}; Jets" 
 sets the main title as "Jet phi", 
-the x-axis label as $$\phi^{jet}$$
+the x-axis label as \\( \phi^{jet} \\)
 and the y-axis label as "Jets".
 
 ![](images/Pictures/AnalysisStandardHistograms.png)

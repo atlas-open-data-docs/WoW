@@ -33,9 +33,9 @@ However, increasing luminosity increases pile-up which presents a challenge for 
 
 The **primary vertex** stems from the high transverse momentum inelastic collision of two protons. In a typical collision event, several primary vertices along the beam are produced.  It is important to correctly identify them from the many low transverse momentum proton-proton interactions, so called minimum bias events.
 
-The **event display** at the top of this page shows a candidate $$Z$$ boson decaying into two muons with 11 reconstructed vertices. This event was recorded on April 24th and is typical for the 2011 environment with high pile-up.
+The **event display** at the top of this page shows a candidate \\( Z \\) boson decaying into two muons with 11 reconstructed vertices. This event was recorded on April 24th and is typical for the 2011 environment with high pile-up.
 
-The reconstruction of primary vertices is important for many physics studies, including searches for new particles, identifying jets containing $$b$$-quarks or taus and reconstruction of exclusive $$b$$-quark decays.
+The reconstruction of primary vertices is important for many physics studies, including searches for new particles, identifying jets containing \\( b \\)-quarks or taus and reconstruction of exclusive \\( b \\)-quark decays.
 
 # Navigation
 Go to the next [section]({{< ref "/8TevDocData" >}} "Data and simulated data") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").
