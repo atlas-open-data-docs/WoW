@@ -86,9 +86,9 @@ Four-momentum is a [four-vector](https://en.wikipedia.org/wiki/Four-vector) in [
 
 In [TupleReader.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/TupleReader.py) it is defined
 
-![](pictures/CodeSnippet/tlv.png)
+![](images/CodeSnippet/tlv.png)
 
 In various analyses it is used e.g.[ HWWAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/7a2729410fcb8d5842eae1bd454096c537a3fa6e/Analysis/HWWAnalysis.py)
 
-![](pictures/CodeSnippet/mll.png)
+![](images/CodeSnippet/mll.png)
 

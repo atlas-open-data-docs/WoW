@@ -29,7 +29,7 @@ Modify the file `Configurations/Configuration.py` and change fraction from 1 to 
 
 One of the standard plots produced in an analysis is jet pseudorapidity, \(\eta_{\rm{jet}}\).  Let's use that to help us create a new plot that is not currently in the standard plots.
 
-<img src="./pictures/Output/jet_eta.jpg" width="150"  />
+<img src="images/Output/jet_eta.jpg" width="150"  />
 
 Look in the chapter Variable names.  You will see that jet\_eta is defined as a branch name in the data samples or tuples.  There is another branch name jet\_phi, which we have not yet plotted.  So let's plot that.
 
@@ -45,7 +45,7 @@ TBrowser m
 
 Select the file and then you will see the branch names.  Scroll down to find the branch called jet_phi. 
 
- ![](pictures/Pictures/root_jet_phi.png) 
+ ![](images/Pictures/root_jet_phi.png) 
  
  To quit root
  
@@ -78,12 +78,12 @@ The editors available to you to make changes to files are different in the large
  Type 'i' to enter insert mode.
  Add a line initialising the histogram jet\_phi, copying what was done for jet_eta. 
  
- ![](pictures/Pictures/VimConfigurationpy.png)
+ ![](images/Pictures/VimConfigurationpy.png)
  
  Then add a line to fill your new histogram.  
  
  
- ![](pictures/Pictures/VimConfigurationFill.png)
+ ![](images/Pictures/VimConfigurationFill.png)
  
  
 To save your changes, write and quit the Vim editor, by typing the escape key then 
@@ -115,7 +115,7 @@ vim Analysis/StandardHistograms.py
 
 Don't forget to type i to enter insert mode.
 
-![](pictures/Pictures/VimStandardHistograms.png)
+![](images/Pictures/VimStandardHistograms.png)
 
 
 
@@ -143,7 +143,7 @@ Add your histogram jet_phi to the list of histograms.
 ```
 
 
-![](pictures/Pictures/VimPlotConf_TTbarAnalysis.png)
+![](images/Pictures/VimPlotConf_TTbarAnalysis.png)
 
 Write your changes and quit the file 
 
@@ -160,28 +160,28 @@ by typing the escape key then
  
  If you are using the small VM, select File/Open File...
  
- ![](pictures/Pictures/OpenFile.png)
+ ![](images/Pictures/OpenFile.png)
  
  Select the Analysis folder and Open
  
- ![](pictures/Pictures/OpenAnalysis.png)
+ ![](images/Pictures/OpenAnalysis.png)
  
  Select TTbarAnalysis.py and Open
  
- ![](pictures/Pictures/OpenTTbarAnalysis.png)
+ ![](images/Pictures/OpenTTbarAnalysis.png)
   
 
 Add a line initialising the histogram jet\_phi, copying what was done for jet\_eta.
 
-![](pictures/Pictures/TTbarAnalysisPhi.png)
+![](images/Pictures/TTbarAnalysisPhi.png)
 
 Then add a line to fill your new histogram
 
-![](pictures/Pictures/TTbarAnalysisPhiFill.png)
+![](images/Pictures/TTbarAnalysisPhiFill.png)
 
 Save your changes
 
-![](pictures/Pictures/TTbarAnalysisSave.png)
+![](images/Pictures/TTbarAnalysisSave.png)
 
 ### 2. Analysis/StandardHistograms.py
 
@@ -199,7 +199,7 @@ sets the main title as "Jet phi",
 the x-axis label as \(\phi^{jet}\)
 and the y-axis label as "Jets".
 
-![](pictures/Pictures/AnalysisStandardHistograms.png)
+![](images/Pictures/AnalysisStandardHistograms.png)
 
 Save your changes
 
@@ -210,7 +210,7 @@ Add jet_phi to the list of Histograms to be plotted
 "jet_phi" : {};
 ```
 
-![](pictures/Pictures/ConfigurationsPlotConf_TTbarAnalysis.png)
+![](images/Pictures/ConfigurationsPlotConf_TTbarAnalysis.png)
 
 Save your changes
 
@@ -238,7 +238,7 @@ python PlotResults.py Configurations/PlotConf_TTbarAnalysis.py
 
 You will that your new plot has been created in the Output folder.
 
-![](pictures/Pictures/PlotPhiCreated.png)
+![](images/Pictures/PlotPhiCreated.png)
 
 Then take a look
 
@@ -249,7 +249,7 @@ evince Output/jet_phi.pdf
 
 
 
-![](pictures/Pictures/PlotPhi.png)
+![](images/Pictures/PlotPhi.png)
 
 
 ## Another way to create a new histogram.
@@ -269,12 +269,12 @@ python PlotResults.py Configurations/PlotConf_ZZAnalysis.py
 
 ```
 
-![](pictures/Pictures/ZZPlotPhi.png)
+![](images/Pictures/ZZPlotPhi.png)
 
 
 Here is the code to plot jet_phi in the ZZAnalysis.py
 
-![](pictures/Pictures/ZZAnalysis.png)
+![](images/Pictures/ZZAnalysis.png)
 
 You also need to modify the configurations file Configurations/PlotConf_ZZAnalysis.py 
 adding jet_phi to the list of histograms to be plotted.

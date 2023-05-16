@@ -18,7 +18,7 @@ The coordinate system of ATLAS is a right-handed coordinate system with the x-ax
 
 # Detector layout
 
-![](pictures/Pictures/ATLASImage.jpg)
+![](images/Pictures/ATLASImage.jpg)
 
 The ATLAS detector has a layout that is typical for a collider detector and consists of two types of detector components: 
 * tracking detectors measure the position of a charged particle.
@@ -36,7 +36,7 @@ The coordinate system of ATLAS is a right-handed coordinate system with the x-ax
 
 The pseudo rapidity (eta) describes the angle of a particle relative to the beam axis.  
 
-![](pictures/Pictures/figs_atlas_FigID26-mod-011107.png)
+![](images/Pictures/figs_atlas_FigID26-mod-011107.png)
 
 This diagram shows the cross-section of the inner detector layout through the beam axis.
 
@@ -58,7 +58,7 @@ Monte-Carlo generators are programs used for simulating data.
 
 Event displays are like snap-shots, tracing the paths of particles produced in a collision.
 
-![](pictures/Pictures/JiveXML_265573_4417696_fromRAW-noCone.jpg)
+![](images/Pictures/JiveXML_265573_4417696_fromRAW-noCone.jpg)
 
 This event display shows three different views of the same proton collision. The three views help convey all the information about a three-dimensional event on a two-dimensional surface.
 

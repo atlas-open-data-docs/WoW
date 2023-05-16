@@ -23,9 +23,9 @@ The standard event based selection criteria are:
 
 The standard event based selection code is 
 
-![](pictures/CodeSnippet/GoodLepton.png)
+![](images/CodeSnippet/GoodLepton.png)
 
-![](pictures/CodeSnippet/StandardEventSelection.png)
+![](images/CodeSnippet/StandardEventSelection.png)
 
 Look at the code directly here: 
 [AnalysisHelpers.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/AnalysisHelpers.py)
@@ -46,7 +46,7 @@ The analysis specific event selection criteria are:
 The analysis code is located in the Analysis folder. It is used to write out histograms for the individual input files which will be used for plotting purposes later.
 Here is a snippet from the \(W\) analysis code called  WAnalysis.py:
 
-![](pictures/CodeSnippet/WcodeSnippet.png)
+![](images/CodeSnippet/WcodeSnippet.png)
 
 Look at the code directly here: [WAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/WAnalysis.py)
 ## \(Z\) Analysis
@@ -61,7 +61,7 @@ The analysis specific event selection criteria are:
 * |reconstructed mass lepton pair - PDG mass \(Z\)< 20 GeV.
 
 Here is a snippet from the ZAnalysis code:
-![](pictures/CodeSnippet/ZcodeSnippet.png)
+![](images/CodeSnippet/ZcodeSnippet.png)
 
 Look at the code directly here: [ZAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/Z
 Analysis.py)
@@ -79,7 +79,7 @@ The analysis specific event selection criteria are:
 * Reconstructed transverse mass \(W\) > 30 GeV.
 
 Here is a snippet from the top pair Analysis code:
-![](pictures/CodeSnippet/ttbarcodeSnippet.png)
+![](images/CodeSnippet/ttbarcodeSnippet.png)
 
 Look at the code directly here: [ttbarAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/ttbar
 Analysis.py)
@@ -98,7 +98,7 @@ The analysis specific event selection criteria are:
 * Reconstructed transverse mass \(W\) > 30 GeV.
 
 Here is a snippet from the \(WZ\) Analysis code:
-![](pictures/CodeSnippet/WZcodeSnippet.png)
+![](images/CodeSnippet/WZcodeSnippet.png)
 
 Look at the code directly here: [WZAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/WZ
 Analysis.py)
@@ -116,7 +116,7 @@ The analysis specific event selection criteria are:
 
 Here is a snippet from the \(ZZ\) Analysis code:
 
-![](pictures/CodeSnippet/ZZcodeSnippet.png)
+![](images/CodeSnippet/ZZcodeSnippet.png)
 
 Look at the code directly here: [ZZAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/ZZ
 Analysis.py)
@@ -153,7 +153,7 @@ Else:
 
 Here is a snippet from the \(H\rightarrow WW\) Analysis code:
 
-![](pictures/CodeSnippet/HWWcodeSnippet.png)
+![](images/CodeSnippet/HWWcodeSnippet.png)
 
 Look at the code directly here: [HWWAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/HWW
 Analysis.py)
@@ -172,7 +172,7 @@ The analysis specific event selection criteria are:
 
 Here is a snippet from the \(Z'\)code:
 
-![](pictures/CodeSnippet/ZprimecodeSnippet.png)
+![](images/CodeSnippet/ZprimecodeSnippet.png)
 
 Look at the code directly here: [ZPrimeAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/ZPrime
 Analysis.py)
