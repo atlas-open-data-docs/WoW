@@ -19,6 +19,7 @@ jobs:
         with:
           hugo-version: '0.81.0'
           extended: true
+          keep_files: true
 
       - name: Build
         run:
