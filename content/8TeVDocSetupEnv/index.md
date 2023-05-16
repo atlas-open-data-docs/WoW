@@ -44,9 +44,11 @@ There are three steps to setup your environment:
 
 **If your session goes to sleep and requires the atlas password, it is 'atlas'.**
 
+{{< rawhtml >}}
 <CENTER>
 <img src="images/Pictures/atlasSaver.png" width="200" />
 </CENTER>
+{{< /rawhtml >}}
 
 # Step 1: Download the Small Virtual Machine (VM Version S 06-Feb-2017)
 
@@ -54,9 +56,11 @@ A small virtual machine using Lubuntu in conjunction with ROOT-5.34.14 and 10% o
 
 Select **Virtual Machines**
 
-
-[<img src="images/Pictures/VMbutton.jpg"/>](http://atlas-opendata.web.cern.ch/atlas-opendata/extendedanalysis/vm-toolbox.php)
-
+{{< rawhtml >}}
+<CENTER>
+<img src="images/Pictures/VMbutton.jpg" width="200" />
+</CENTER>
+{{< /rawhtml >}}
 
 Select **VM Version S** to download the **small** virtual machine.
 This can then download whilst you are installing VirtualBox.
@@ -67,7 +71,9 @@ Make sure you choose **Lubuntu_ATLAS_Outreach_DataAndTools_February_2017-size_S.
 
 Use the VirtualBox website to download the software
 
+{{< rawhtml >}}
 <a href="https://www.virtualbox.org/" target="_blank"> Go to the VirtualBox website</a>
+{{< /rawhtml >}}
 
 Select **Download VirtualBox**
  

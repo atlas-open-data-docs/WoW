@@ -29,7 +29,11 @@ Modify the file `Configurations/Configuration.py` and change fraction from 1 to 
 
 One of the standard plots produced in an analysis is jet pseudorapidity, \(\eta_{\rm{jet}}\).  Let's use that to help us create a new plot that is not currently in the standard plots.
 
+{{< rawhtml >}}
+<CENTER>
 <img src="images/Output/jet_eta.jpg" width="150"  />
+</CENTER>
+{{< /rawhtml >}}
 
 Look in the chapter Variable names.  You will see that jet\_eta is defined as a branch name in the data samples or tuples.  There is another branch name jet\_phi, which we have not yet plotted.  So let's plot that.
 

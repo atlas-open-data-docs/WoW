@@ -11,6 +11,10 @@ showInMenu: false
 
 An animation of the accumulation of Higgs events over time in the four-lepton channel show us that it is important to collect large data samples.  You can see the signal emerging from the background as more and more events are added.
 
+{{< rawhtml >}}
+<CENTER>
 <img alt="" src="https://twiki.cern.ch/twiki/pub/AtlasPublic/HiggsPublicResults//4l-FloatingScale-NoMuProf2.gif">
+</CENTER>
+{{< /rawhtml >}}
 
 As more data is collected (notice the date changing), the number of events analysed increases (notice the change in scale of the y-axis).  The size of the error bars on the data points decrease as the volume of data increases, allowing the signal to be seen.
