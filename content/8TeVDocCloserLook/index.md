@@ -78,7 +78,7 @@ Processes = {
 
 Whilst the analysis is running you will see the analysis name \(circled in orange below\) and the process you are running over \(circled in blue below\).
 
-![](pictures/TTbar.png)
+![](images/TTbar.png)
 
 The names chosen for the processes are important as they are the keys used in the infofile.py to determine the necessary scaling factors for correct plotting.
 
@@ -171,7 +171,7 @@ There are currently three types of depictions available:
 
 The order of the depictions is determined in line 2 of the code example above.
 
-![](pictures/Output/lepPT.png)
+![](images/Output/lepPT.png)
 
 Here we can see an agreement plot above and ratio plot below for lepton \(p_T\).
 

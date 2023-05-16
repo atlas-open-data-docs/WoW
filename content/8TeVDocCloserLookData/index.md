@@ -13,7 +13,7 @@ Watch the video ['Take a look at the data'](https://www.youtube.com/watch?v=t7xJ
 
 In your terminal window, you are in the main directory **ATLAS-DataAndTools**.  Here you can two python scripts `RunScript.py` and `PlotResults.py.` These are the two key scripts you need to run an analysis.
 
-![](pictures/Output/ls.png)
+![](images/Output/ls.png)
 
 You will see there are 6 folders:
 
@@ -35,10 +35,10 @@ If you are using the small VM you may not initially have a results folder but yo
 
 1. **Run an analysis** using **RunScript.py** to produce histograms of individual variables eg jet\_pt.  The histograms are written to your **results** folder.
 
-   ![](pictures/Output/jetPT.png)
+   ![](images/Output/jetPT.png)
 
 2. **Plot the results** using **PlotResults.py** to scale the histograms, colour them in and stack them.  Combined plots are produced, for all the simulated and real data.  These plots are written to your **Output** folder.  
-   ![](pictures/Output/jet_pt.jpg)
+   ![](images/Output/jet_pt.jpg)
 
 So let's have a go at the two steps !
 
@@ -73,7 +73,7 @@ The analysis should run, taking just a few minutes, telling you about Event Stat
 
 **Job WZ: finished successfully**.
 
-![](pictures/Output/RunScriptWWWZ.png)
+![](images/Output/RunScriptWWWZ.png)
 
 ### Running an analysis using the Large VM
 
@@ -93,7 +93,7 @@ There are two modes in vim. One is the command mode and the other is the insert 
 
 to enter insert mode so that you can modify the text.  Change fraction to 0.1
 
-![](pictures/Pictures/Configurationspy.png)
+![](images/Pictures/Configurationspy.png)
 
 To go from insert mode to** **command mode you need to type **Esc** \(the escape key\).
 
@@ -105,7 +105,7 @@ Now run the top pair analysis
 
 `python RunScript.py -a TTbarAnalysis`
 
-![](pictures/Pictures/RunScriptOutput.png)
+![](images/Pictures/RunScriptOutput.png)
 
 ## Histograms
 
@@ -122,7 +122,7 @@ TBrowser m
 Then click on **ROOT Files results/WZ.root** to see all your histograms.  
 Click on a variable name to display the histogram.
 
-![](pictures/Output/TBrowserResults.png)
+![](images/Output/TBrowserResults.png)
 
 To quit root and return to the command line prompt
 
@@ -188,7 +188,7 @@ To display a plot use evince, for example
 evince Output/lep_pt
 ```
 
-![](pictures/Output/lepPT.png)
+![](images/Output/lepPT.png)
 
 
 # Have a go at running one of the other analyses

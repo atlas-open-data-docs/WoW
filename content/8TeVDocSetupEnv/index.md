@@ -45,7 +45,7 @@ There are three steps to setup your environment:
 **If your session goes to sleep and requires the atlas password, it is 'atlas'.**
 
 <CENTER>
-<img src="./pictures/Pictures/atlasSaver.png" width="200" />
+<img src="images/Pictures/atlasSaver.png" width="200" />
 </CENTER>
 
 # Step 1: Download the Small Virtual Machine (VM Version S 06-Feb-2017)
@@ -55,7 +55,7 @@ A small virtual machine using Lubuntu in conjunction with ROOT-5.34.14 and 10% o
 Select **Virtual Machines**
 
 
-[<img src="./pictures/Pictures/VMbutton.jpg"/>](http://atlas-opendata.web.cern.ch/atlas-opendata/extendedanalysis/vm-toolbox.php)
+[<img src="images/Pictures/VMbutton.jpg"/>](http://atlas-opendata.web.cern.ch/atlas-opendata/extendedanalysis/vm-toolbox.php)
 
 
 Select **VM Version S** to download the **small** virtual machine.
@@ -71,22 +71,22 @@ Use the VirtualBox website to download the software
 
 Select **Download VirtualBox**
  
-![](pictures/Pictures/VB5.1.jpg)
+![](images/Pictures/VB5.1.jpg)
 
 Take care to select the appropriate **VirtualBox platform package**.
 
 
-![](pictures/Pictures/DownloadVB.jpg)
+![](images/Pictures/DownloadVB.jpg)
  
 Proceed with the installation of VirtualBox:
 
-![](pictures/Pictures/VBinstall1.png)
+![](images/Pictures/VBinstall1.png)
 
 
-![](pictures/Pictures/VBinstall2.png)
+![](images/Pictures/VBinstall2.png)
 
 
-![](pictures/Pictures/VBinstall3.png)
+![](images/Pictures/VBinstall3.png)
 
 
 ## Step 3: Set up your Virtual Machine
@@ -96,15 +96,15 @@ In this step the downloaded virtual machine is being imported to VirtualBox to g
 Look for the VirtualBox icon in your Applications (folder). Double click to get the main interface of VirtualBox:
 
 
-![](pictures/Pictures/VMempty.png)
+![](images/Pictures/VMempty.png)
 
 Select **File** then **Import Appliance**
 
-![](pictures/Pictures/VMimportAppliance.png)
+![](images/Pictures/VMimportAppliance.png)
 
 An empty text box will appear
 
-![](pictures/Pictures/VMimportApplianceSelect.png)
+![](images/Pictures/VMimportApplianceSelect.png)
 
 Use the yellow folder icon on the right hand-side of the empty text box to select your virtual machine (the .ova file you downloaded at the start of this chapter).  
 
@@ -113,27 +113,27 @@ Use the yellow folder icon on the right hand-side of the empty text box to selec
 Then press **Continue**.
 
 
-![](pictures/Pictures/VMselectOVA.png)
+![](images/Pictures/VMselectOVA.png)
 
 The default settings are displayed.  We recommend you use these.  Press **Import**.
 
-![](pictures/Pictures/VMapplianceSettings.png)
+![](images/Pictures/VMapplianceSettings.png)
 
 Import will take afew minutes
 
-![](pictures/Pictures/VMimporting.png)
+![](images/Pictures/VMimporting.png)
 
 Select your virtual machine **ATLASOpenDataSmall** (which is powered off)
 
 **If your VM is not called ATLASOpenDataSmall you have not downloaded the small virtual machine.**  You need to be using the small VM for these instructions.
 
-![](pictures/Pictures/VMpoweredOff.png)
+![](images/Pictures/VMpoweredOff.png)
 
 Your VM will be displayed as shown below
 
 **Check that the name of your virtual machine displayed on the right is ATLASOpenDataSmall**
 
-![](pictures/Pictures/VMATLASopenDataSmall.png)
+![](images/Pictures/VMATLASopenDataSmall.png)
 
 
 Press the green **Start** arrow.
@@ -143,7 +143,7 @@ Press the green **Start** arrow.
 When it has completed you will see 
 the terminal for using the code, with the Readme file opened using the atom editor.
 
-![](pictures/Pictures/VMrunningREADME.png)
+![](images/Pictures/VMrunningREADME.png)
 
 In the menu on the left handside, you see the contents of the root directory.
 
@@ -151,7 +151,7 @@ In the root directory there are five directories (Analysis, Configurations, Inpu
 
 At the bottom of your window, you will notice a tab labelled **atlas@atlas-vm**.
 
-![](pictures/Pictures/VM-atlas.png)
+![](images/Pictures/VM-atlas.png)
 
 Select this tab, circled in red in the screen-shot.  A terminal window will then be available. 
 
@@ -161,6 +161,6 @@ List the folders and files in your main directory by typing
     
 You will notice that these are the same names as you saw in the menu (screen-shot above).    
 
-![](pictures/Pictures/VMterminalWindow.png)
+![](images/Pictures/VMterminalWindow.png)
 
 You are now ready to start looking at the ATLAS data.
