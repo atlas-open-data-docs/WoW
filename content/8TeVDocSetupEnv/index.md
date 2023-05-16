@@ -170,3 +170,6 @@ You will notice that these are the same names as you saw in the menu (screen-sho
 ![](images/Pictures/VMterminalWindow.png)
 
 You are now ready to start looking at the ATLAS data.
+
+# Navigation
+Go to the next [section]({{< ref "/8TevDocCloserLookData" >}} "Take a closer look to the data") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

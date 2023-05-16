@@ -74,4 +74,5 @@ The error bars have increased in size compared with the \(Z\) analysis.  This an
 
 The lepton PDG ID distributions shows that we are looking at electrons and muons.  The energy and transverse momentum distributions in real data agree well with simulated data.
 
-
+# Navigation
+Go to the next [section]({{< ref "/8TevDocNewPlot" >}} "Create a new plot") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

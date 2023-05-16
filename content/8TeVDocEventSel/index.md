@@ -176,3 +176,6 @@ Here is a snippet from the \(Z'\)code:
 
 Look at the code directly here: [ZPrimeAnalysis.py](https://github.com/atlas-outreach-data-tools/atlas-outreach-data-tools-framework/blob/master/Analysis/ZPrime
 Analysis.py)
+
+# Navigation
+Go to the next [section]({{< ref "/8TevDocVarNames" >}} "Variable names") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

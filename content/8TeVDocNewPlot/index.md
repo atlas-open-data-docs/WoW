@@ -287,11 +287,5 @@ adding jet_phi to the list of histograms to be plotted.
 "jet_phi" : {}
 ```
 
-
-
-
-
-
-
-    
-
+# Navigation
+Go to the next [section]({{< ref "/8TevDocEventSel" >}} "Event selection") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

@@ -18,7 +18,7 @@ If you are a high school student, or just interested in data and software, feel 
 ![](images/openDataScreenShot.png)
 
 Use the sections below to jump directly to the page you are interested in.
-Or click here to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
+Or click [here]({{< ref "/8TevDocEvents" >}} "ATLAS events") to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
 
 - [ATLAS events]({{< ref "/8TevDocEvents" >}} "ATLAS events")
 - [Data and simulated data]({{< ref "/8TevDocData" >}} "Data and simulated data")

@@ -18,3 +18,6 @@ An animation of the accumulation of Higgs events over time in the four-lepton ch
 {{< /rawhtml >}}
 
 As more data is collected (notice the date changing), the number of events analysed increases (notice the change in scale of the y-axis).  The size of the error bars on the data points decrease as the volume of data increases, allowing the signal to be seen.
+
+# Navigation
+Go to the next [section]({{< ref "/8TevDocAnalyses" >}} "Analyses") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").
