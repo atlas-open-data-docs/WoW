@@ -44,7 +44,7 @@ The jet [pseudorapidity](https://en.wikipedia.org/wiki/Pseudorapidity) distribut
 </CENTER>
 {{< /rawhtml >}}
 
-The jet transverse momentum ($$p_T$$) distribution has a maximum between 30 and 40 GeV. The simulated data slightly over-estimates the real data jet $$p_T$$ distribution.
+The jet transverse momentum (\\( p_T \\)) distribution has a maximum between 30 and 40 GeV. The simulated data slightly over-estimates the real data jet \\( p_T \\) distribution.
 
 {{< rawhtml >}}
 <CENTER>
@@ -65,7 +65,7 @@ Looking at lepton Particle Data Group ([PDG](http://pdg.lbl.gov)) ID we see peak
 </CENTER>
 {{< /rawhtml >}}
 
-This TTbarAnalysis requires exactly one good lepton with $$p_T$$ > 25 GeV (see chapter [Event Selection](https://cheatham1.gitbooks.io/openatlasdatatools/content/event_selection.html)). The distributions of number of leptons and lepton transverse momentum show this to be the case.
+This TTbarAnalysis requires exactly one good lepton with \\( p_T \\) > 25 GeV (see chapter [Event Selection](https://cheatham1.gitbooks.io/openatlasdatatools/content/event_selection.html)). The distributions of number of leptons and lepton transverse momentum show this to be the case.
 
 {{< rawhtml >}}
 <CENTER>
@@ -86,7 +86,7 @@ The lepton pseudorapidity distribution is symmetrical, with real and simulated d
 </CENTER>
 {{< /rawhtml >}}
 
-The transverse mass of the $$W$$ candidate shows a peak in the distribution in the 75-80 GeV bin.  The average $$W$$ mass based on [published results](http://pdg.lbl.gov/2012/listings/rpp2012-list-w-boson.pdf) is 80.385 +/- 0.015 GeV.
+The transverse mass of the \\( W \\) candidate shows a peak in the distribution in the 75-80 GeV bin.  The average \\( W \\) mass based on [published results](http://pdg.lbl.gov/2012/listings/rpp2012-list-w-boson.pdf) is 80.385 +/- 0.015 GeV.
 The real and simulated data distributions are in reasonable agreement.
 
 Missing transverse momentum is defined as the event momentum

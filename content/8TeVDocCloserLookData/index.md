@@ -21,7 +21,7 @@ You will see there are 6 folders:
 
 **Configurations**:  The Configurations file for running and the PlotConf files for plotting are here.
 
-**Input**: Contains the data and simulated data $$MC$$ files.
+**Input**: Contains the data and simulated data \\(MC \\) files.
 
 **Output**: Your final plots are written here.
 
@@ -95,7 +95,7 @@ to enter insert mode so that you can modify the text.  Change fraction to 0.1
 
 ![](images/Pictures/Configurationspy.png)
 
-To go from insert mode to** **command mode you need to type **Esc** $$the escape key$$.
+To go from insert mode to** **command mode you need to type **Esc** \\(the escape key \\).
 
 Then write and quit the file by typing
 
