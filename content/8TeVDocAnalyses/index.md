@@ -11,7 +11,7 @@ showInMenu: false
 
 We have prepared seven analyses for you. Ranging from measuring Standard Model particles including a Higgs analysis and a search for a Beyond the Standard Model particle.  Let's take a look at these processes.
 
-## \(W\) Boson Analysis
+## \( W \) Boson Analysis
 
 The [\(W\)](http://home.cern/about/physics/w-boson-sunshine-and-stardust) and [\(Z\)](http://home.cern/about/physics/z-boson) bosons are together known as the weak or the intermediate vector bosons. These Standard Model elementary particles mediate the weak interaction.
 
