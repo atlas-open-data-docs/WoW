@@ -8,9 +8,8 @@ showInMenu: false
 ---
 
 # Data and simulated data
-<CENTER>
-<img src="./images/EventDisplays/2012_highPileup.png" width="275" />
-</CENTER>
+
+![](images/EventDisplays/2012_highPileup.png)
 
 ## Data 
 The ATLAS collaboration has released 1 inverse femtobarn of data.
