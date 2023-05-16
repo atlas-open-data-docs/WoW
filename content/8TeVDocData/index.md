@@ -11,7 +11,7 @@ showInMenu: false
 
 <!-- ![](images/EventDisplays/2012_highPileup.png) -->
 <CENTER>
-<img src="./8TeVDocData/images/EventDisplays/2012_highPileup.png" width="275" />
+<img src="images/EventDisplays/2012_highPileup.png" width="275" />
 </CENTER>
 
 ## Data 
