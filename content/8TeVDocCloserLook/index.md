@@ -76,7 +76,7 @@ Processes = {
 }
 ```
 
-Whilst the analysis is running you will see the analysis name \(circled in orange below\) and the process you are running over \(circled in blue below\).
+Whilst the analysis is running you will see the analysis name $$circled in orange below$$ and the process you are running over $$circled in blue below$$.
 
 ![](images/TTbar.png)
 
@@ -173,7 +173,7 @@ The order of the depictions is determined in line 2 of the code example above.
 
 ![](images/Output/lepPT.png)
 
-Here we can see an agreement plot above and ratio plot below for lepton \(p_T\).
+Here we can see an agreement plot above and ratio plot below for lepton $$p_T$$.
 
 # Navigation
 Go to the next [section]({{< ref "/8TevDocPlots" >}} "Plots explained") or jump back to the [summary page]({{< ref "/8TevDocOverview" >}} "Summary page").

@@ -104,7 +104,7 @@ The Jet Vertex Fraction can be used to select jets with a high fraction of track
 Isolation is important because it indicates where the lepton comes from. For example, an isolated electron is likely to originate from Z boson, W boson or tau.
 In contrast, a non-isolated electron is likely to originate from b-hadron or c-hadron decays.
 
-### \(p_T\)
+### $$p_T$$
 
 Transverse momentum is the component of momentum perpendicular to the beam line.
 
