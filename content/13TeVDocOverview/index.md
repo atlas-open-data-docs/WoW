@@ -21,21 +21,23 @@ THIS STILLL NEEDS TO BE ADAPTED TO THE NEW PATHS, FIX THIS WHEN THE OTHER PAGES 
 
 ### Information hosted in this web-page
 
-+ [ATLAS experiment](atlas/experiment.md): learn about ATLAS: the largest multi-purpose particle detector located at CERN.
+Use the sections below to jump directly to the page you are interested in.
+Or click [here]({{< ref "/13TeVIntroduction" >}} "Introduction") to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
 
-+ [13 TeV Open Datasets](datasets/intro.md): find detailed information about the released 13 TeV proton-proton collision data and simulation samples.
-
-+ [Physics analysis examples](physics/intro.md): illustration of the examples of physics analysis inspired by and following procedures taken in papers published by the ATLAS Collaboration.
-
-+ [Analysis frameworks](frameworks/intro.md): discussion of the available analysis frameworks and plotting codes.
-
-+ [Online Jupyter notebooks](notebooks/analysis-examples.md): description of the data analysis to be performed directly in a web-browser by integrating the ROOT framework with Jupyter notebooks, also ROOT-independent notebooks are in place.
-
-+ [Virtual machine](vm/index.md): description of the virtual machine, which contains all the information needed to carry out educational analysis of the released datasets.
-
-+ [Data visualisation](visualization/index.md): introduction to the 13 TeV Open Data visualisation using web-based online histograms.
-
-+ [Glossary](atlas/GLOSSARY.md): a glossary of a few ATLAS and high-energy physics terms.
+- [Introduction]({{< ref "/13TeVDocIntroduction" >}} "Introduction")
+- [Data and simulated data]({{< ref "/8TevDocData" >}} "Data and simulated data")
+- [Histogram animation]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation")
+- [Analyses]({{< ref "/8TevDocAnalyses" >}} "Analyses")
+- [Set up your environment]({{< ref "/8TevDocSetupEnv" >}} "Set up your environment")
+- [Take a closer look to the data]({{< ref "/8TevDocCloserLookData" >}} "Take a closer look to the data")
+- [Take a closer look]({{< ref "/8TevDocCloserLook" >}} "Take a closer look")
+- [Plots explained]({{< ref "/8TevDocPlots" >}} "Plots explained")
+- [More plots]({{< ref "/8TevDocMorePlots" >}} "More plots")
+- [Create a new plot]({{< ref "/8TevDocNewPlot" >}} "Create a new plot")
+- [Event selection]({{< ref "/8TevDocEventSel" >}} "Event selection")
+- [Variable names]({{< ref "/8TevDocVarNames" >}} "Variable names")
+- [Glossary]({{< ref "/8TevDocGlossary" >}} "Glossary")
+- [Dataset details]({{< ref "/8TevDocDataDetails" >}} "Dataset details")
 
 
 ---
