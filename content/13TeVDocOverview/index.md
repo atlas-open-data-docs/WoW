@@ -22,7 +22,7 @@ THIS STILLL NEEDS TO BE ADAPTED TO THE NEW PATHS, FIX THIS WHEN THE OTHER PAGES 
 ### Information hosted in this web-page
 
 Use the sections below to jump directly to the page you are interested in.
-Or click [here]({{< ref "/13TeVIntroduction" >}} "Introduction") to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
+Or click [here]({{< ref "/13TeVDocIntroduction" >}} "Introduction") to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
 
 - [Introduction]({{< ref "/13TeVDocIntroduction" >}} "Introduction")
 - [Data and simulated data]({{< ref "/8TevDocData" >}} "Data and simulated data")
