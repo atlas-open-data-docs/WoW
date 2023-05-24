@@ -1,0 +1,28 @@
+---
+title: "13 TeV Doc"
+date: 2023-05-23T04:51:13+01:00
+draft: false
+hideLastModified: true
+keepImageRatio: false
+showInMenu: true
+---
+
+A new set of pp collision data has been released by the ATLAS Collaboration to the public for educational purposes. The data has been collected by the ATLAS detector at the LHC at 13 TeV during the year 2016 and corresponds to an integrated luminosity of 10 fb-1. The pp collision data is accompanied by a set of MC simulated samples describing several processes which are used to model the expected distributions of different signal and background events.
+
+- The released samples are provided in a simplified data format, reducing the information content of the original data analysis format used within the ATLAS Collaboration.
+- The resulting format is a [ROOT](https://root.cern.ch/) tuple with more than 80 branches. For those not familiar with this modular scientific software toolkit, please refer to the [ROOT documentation](https://root.cern/get_started/), which provides a rich set of tutorials and code examples. 
+- Several final-state collections are provided within the 13 TeV ATLAS Open Data release. The corresponding multiplicities of final-state objects, minimum transverse momentum requirements and collection names are shown below: 
+
+{{< rawhtml >}}
+<CENTER>
+<img src="images/final-state-collections-image.png" width="900" />
+</CENTER>
+{{< /rawhtml >}}
+
+Use the sections below to jump directly to the page you are interested in. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
+
+- [Available Physics Objects 13 TeV]({{< ref "/13TeVAvailPhysObj" >}} "Available Physics Objects 13 TeV")
+
+- [Full List of Branches and Variables 13 TeV]({{< ref "/13TeVListBranches" >}} "Full List of Branches and Variables 13 TeV")
+
+- [Physics Analysis Examples 13 TeV]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Physics Analysis Examples 13 TeV")
