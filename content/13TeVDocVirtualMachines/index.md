@@ -13,13 +13,9 @@ The 13 TeV ATLAS Open Data [virtual machine](https://en.wikipedia.org/wiki/Virtu
 
 First, you will find below the instruction of how to install the Oracle VirtualBox, and after that the 13 TeV ATLAS Open Data virtual machine.
 
-{{< rawhtml >}}
-<hr>
 Follow the video tutorials in our CDS collection **[here](https://videos.cern.ch/record/2715261)**
 
 [![](images/cds-videos.png)](https://videos.cern.ch/record/2715261)
-<hr>
-{{< /rawhtml >}}
 
 # Oracle VirtualBox installation
 
@@ -138,33 +134,13 @@ Enable virtualisation:
 3.       Enable Intel VTT or Intel VT-d if needed.
 4.       Once enabled, save the changes with F10 and allow the system to reboot.
 
-
-<hr>
-
-**Download the latest ATLAS Open Data VM**
-
-[![](images/download_vm.png)](https://zenodo.org/record/3687320/files/ATLAS-Open-Data-ubuntu-2020-v4.ova)
-
-This is an **Ubuntu 18.04.3 LTS** with:
-
-* **ROOT** 6.18 (configuration all)
-
-* **Jupyter** (bash, python2, python3, ROOT C++ kernels)
-
-* **Extras** TensorFlow + demo git repos
-
-* **Cite with** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3629875.svg)](https://doi.org/10.5281/zenodo.3629875)
-
-
-<hr>
-
 # Previous VM demo on how to run the VM
 
 **Take a look to this video on how to get and run some notebooks and framework in your computer**
 
 {{< rawhtml >}}
 <CENTRE>
-<iframe width="100%" height="405" src="https://www.youtube.com/embed/Lj73Vjd6Nys?start=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" height="505" src="https://www.youtube.com/embed/Lj73Vjd6Nys?start=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </CENTRE>
 <hr>
 {{< /rawhtml >}}
