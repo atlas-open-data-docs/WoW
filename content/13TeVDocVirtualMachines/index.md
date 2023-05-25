@@ -27,7 +27,7 @@ The Oracle VirtualBox is the chosen software that supports Microsoft Windows, Li
 **Check our ~3 min video tutorial to don't miss any detail**
 
 {{< rawhtml >}}
-<iframe scrolling="no"  src="https://videos.cern.ch/video/OPEN-VIDEO-2020-018-001" width="100%" height="420" frameborder="0" allowfullscreen></iframe>
+<iframe scrolling="no"  src="https://videos.cern.ch/video/OPEN-VIDEO-2020-018-001" width="50%" height="1600" frameborder="0" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 ## Detailed instructions
@@ -89,7 +89,7 @@ This is an **Ubuntu 18.04.3 LTS** with:
 **Check our ~9 min video tutorial to don't miss any detail**
 
 {{< rawhtml >}}
-<iframe scrolling="no"  src="https://videos.cern.ch/video/OPEN-VIDEO-2020-018-002" width="50%" height="800" frameborder="0" allowfullscreen></iframe>
+<iframe scrolling="no"  src="https://videos.cern.ch/video/OPEN-VIDEO-2020-018-002" width="50%" height="1600" frameborder="0" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
 ## Detailed instructions
@@ -135,7 +135,7 @@ Enable virtualisation:
 
 {{< rawhtml >}}
 <CENTRE>
-<iframe width="50%" height="800" src="https://www.youtube.com/embed/Lj73Vjd6Nys?start=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" height="1600" src="https://www.youtube.com/embed/Lj73Vjd6Nys?start=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </CENTRE>
 <hr>
 {{< /rawhtml >}}
