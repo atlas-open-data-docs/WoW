@@ -53,7 +53,7 @@ In the released data, the bunches crossed every 25 ns. The event reconstruction 
 An event is the data resulting from a particular bunch-crossing. The 13 TeV ATLAS Open Data events belong to **61 runs** from the first four periods of the 2016 pp data-taking and contain approximately **270 million** of collision events.
 
 [Luminosity](http://home.cern/topics/high-luminosity-lhc) is one of the most important parameters of the LHC. The higher the luminosity, the more data the experiments can gather to allow them to observe rare processes. The released 13 TeV ATLAS Open Data collision events, after applying quality criteria for the beam, data and detector, correspond to an **integrated luminosity of 10.06 ± 00
-.37 fb<sup>-1</sup> **.
+.37 fb{{< rawhtml >}}<sup>-1</sup>{{< /rawhtml >}}**.
 
 
 In a typical collision event, several vertices along the beam are produced and the primary vertex is defined as the vertex with the largest sum of the squares of the transverse momenta of associated tracks. The reconstruction of vertices is important for many physics studies, which include: searches for new particles, identifying jets containing b-quarks or tau-leptons.

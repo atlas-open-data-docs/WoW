@@ -13,8 +13,8 @@ The release of the 13 TeV ATLAS Open Data is accompanied by a set of Jupyter not
 
 Several notebooks with analysis examples and an interface to launch the framework mentioned above, are available using [SWAN](https://swan.web.cern.ch/) (Service for Web based ANalysis) and [Binder](https://mybinder.org) executable platforms.
 
+{{< rawhtml >}}
 <CENTER>
-
 <hr>
 ## Visit the gallery and interact with the notebooks & plots
 
@@ -30,6 +30,7 @@ Several notebooks with analysis examples and an interface to launch the framewor
 </br>
 <hr>
 </CENTER>
+{{< /rawhtml >}}
 
 # Navigation
 Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
@@ -46,11 +47,11 @@ A simple analysis example of a **search for the Higgs boson in the Higgs into tw
 The analysis example implements a simplified selection criteria for single Higgs boson events decaying to a couple of photons:
 
 + Diphoton trigger is satisfied;
-+ Exactly two photons with transverse energy E<sub>T</sub> > 35 and 25 GeV, respectively;
-+ Leading and subleading photon candidates are respectively required to have E<sub>T</sub> / m<sub>yy</sub> > 0.35 and 0.25;
-+ Diphoton invariant mass m<sub>yy</sub> between 105 GeV and 160 GeV.
++ Exactly two photons with transverse energy E{{< rawhtml >}}<sub>T</sub> >{{< /rawhtml >}} 35 and 25 GeV, respectively;
++ Leading and subleading photon candidates are respectively required to have E{{< rawhtml >}}<sub>T</sub>{{< /rawhtml >}} / m{{< rawhtml >}}<sub>yy</sub>{{< /rawhtml >}} > 0.35 and 0.25;
++ Diphoton invariant mass m{{< rawhtml >}}<sub>yy</sub>{{< /rawhtml >}} between 105 GeV and 160 GeV.
 
-The background is estimated from data, without the use of MC simulation, by fitting the diphoton invariant-mass distribution in a range (105 GeV <  m<sub>yy</sub> < 160 GeV) with a [third-order polynomial](https://en.wikipedia.org/wiki/Cubic_function) function with free shape and normalisation parameters. Signal MC simulations of the five main Higgs-boson production mechanisms (ggF, VBF, WH, ZH, tttH) are used to model the shape of the invariant mass of the signal, modelled as a [Gaussian](https://en.wikipedia.org/wiki/Normal_distribution) function.
+The background is estimated from data, without the use of MC simulation, by fitting the diphoton invariant-mass distribution in a range (105 GeV <  m{{< rawhtml >}}<sub>yy</sub>{{< /rawhtml >}} < 160 GeV) with a [third-order polynomial](https://en.wikipedia.org/wiki/Cubic_function) function with free shape and normalisation parameters. Signal MC simulations of the five main Higgs-boson production mechanisms (ggF, VBF, WH, ZH, tttH) are used to model the shape of the invariant mass of the signal, modelled as a [Gaussian](https://en.wikipedia.org/wiki/Normal_distribution) function.
 
 The final diphoton invariant-mass spectrum in the selected diphoton events is shown below. The solid red curve shows the fitted signal-plus-background model when the Higgs boson mass is constrained to be 125 GeV. The background component of the fit is shown with the dotted blue curve. The signal component of the fit is shown with a solid black curve.
 

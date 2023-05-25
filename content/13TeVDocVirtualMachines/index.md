@@ -13,11 +13,13 @@ The 13 TeV ATLAS Open Data [virtual machine](https://en.wikipedia.org/wiki/Virtu
 
 First, you will find below the instruction of how to install the Oracle VirtualBox, and after that the 13 TeV ATLAS Open Data virtual machine.
 
+{{< rawhtml >}}
 <hr>
 Follow the video tutorials in our CDS collection **[here](https://videos.cern.ch/record/2715261)**
 
 [![](images/cds-videos.png)](https://videos.cern.ch/record/2715261)
 <hr>
+{{< /rawhtml >}}
 
 # Oracle VirtualBox installation
 
@@ -89,14 +91,15 @@ This is an **Ubuntu 18.04.3 LTS** with:
 * **Cite with** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3629875.svg)](https://doi.org/10.5281/zenodo.3629875)
 
 * The password of the VM is **root** (also to be `sudo`)
+
+{{< rawhtml >}}
 <hr>
 
 **Check our ~9 min video tutorial to don't miss any detail**
 
 <iframe scrolling="no"  src="https://videos.cern.ch/video/OPEN-VIDEO-2020-018-002" width="100%" height="420" frameborder="0" allowfullscreen></iframe>
-
-
 <hr>
+{{< /rawhtml >}}
 
 ## Detailed instructions
 
@@ -159,11 +162,12 @@ This is an **Ubuntu 18.04.3 LTS** with:
 
 **Take a look to this video on how to get and run some notebooks and framework in your computer**
 
+{{< rawhtml >}}
 <CENTRE>
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/Lj73Vjd6Nys?start=52" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </CENTRE>
-
 <hr>
+{{< /rawhtml >}}
 
 _ _ _
 **Information:** If you want to install your operating system (in this case Ubuntu) from scratch, then see how to do it in [**this section**]({{< ref "/13TeVDocInstallUbuntu" >}} "Introduction").
