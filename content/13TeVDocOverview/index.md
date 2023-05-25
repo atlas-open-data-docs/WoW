@@ -26,7 +26,7 @@ Or click [here]({{< ref "/13TeVDocIntroduction" >}} "Introduction") to go on a f
 
 - [Introduction]({{< ref "/13TeVDocIntroduction" >}} "Introduction")
 - [Jupyter Notebooks]({{< ref "/13TeVDocJupyterNotebooks" >}} "Jupyter Notebooks")
-- [Virtual Machines]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual Machines)
+- [Virtual Machines]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual Machines")
 - 
 - [Histogram animation]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation")
 - [Analyses]({{< ref "/8TevDocAnalyses" >}} "Analyses")
