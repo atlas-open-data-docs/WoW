@@ -29,9 +29,6 @@ Several notebooks with analysis examples and an interface to launch the framewor
 <hr>
 </CENTER>
 
-# Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
-
 # Notebooks with analysis examples
 
 A simple analysis example of a **search for the Higgs boson in the Higgs into two photons decay channel** is prepared. The analysis example is written in *both C++ and Python* languages with Jupyter notebook and a ROOT kernel and PyROOT extension, and these notebooks are available under this [Github link](https://github.com/atlas-outreach-data-tools/notebooks-collection-opendata).
