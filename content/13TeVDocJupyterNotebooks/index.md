@@ -13,10 +13,8 @@ The release of the 13 TeV ATLAS Open Data is accompanied by a set of Jupyter not
 
 Several notebooks with analysis examples and an interface to launch the framework mentioned above, are available using [SWAN](https://swan.web.cern.ch/) (Service for Web based ANalysis) and [Binder](https://mybinder.org) executable platforms.
 
-{{< rawhtml >}}
 <CENTER>
 <hr>
-## Visit the gallery and interact with the notebooks & plots
 
 | <h2><b>Visualisation</b></h2> | <h2><b>Code and Run</b></h2> |
 | :---:        |          :---: |
@@ -30,7 +28,6 @@ Several notebooks with analysis examples and an interface to launch the framewor
 </br>
 <hr>
 </CENTER>
-{{< /rawhtml >}}
 
 # Navigation
 Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
