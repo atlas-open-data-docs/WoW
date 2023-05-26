@@ -7,8 +7,6 @@ keepImageRatio: false
 showInMenu: true
 ---
 
-# 13 TeV ATLAS Open Data physics analysis examples
-
 The general aim of the 13 TeV ATLAS Open Data and tools released is to provide a straightforward interface to replicate the procedures used by high-energy-physics researchers and enable users to experience the analysis of particle physics data in educational environments. Therefore, it is of significant interest to check the correct modelling of several SM process by the 13 TeV ATLAS Open Data MC simulation.
 
 Hence, **twelve examples of physics analysis** (as reported in official release document [ATL-OREACH-PUB-2020-001](https://cds.cern.ch/record/2707171)) using the 13 TeV ATLAS Open Data inspired by and following as closely as possible the procedures and selections taken in already published ATLAS Collaboration physics results are introduced:
@@ -86,3 +84,5 @@ The following table displays the branching ratios and the relative uncertainty f
 {{< /rawhtml >}}
 
 The decay mode with the highest branching ratio BR is the decay to [hadrons](https://en.wikipedia.org/wiki/Hadron), with around 70\%, which is not easy to detect due to [multijet QCD](https://cds.cern.ch/record/1951336) backgrounds. A large fraction of the [leptonic](https://en.wikipedia.org/wiki/Lepton) decays are to a pair of [neutrinos](https://en.wikipedia.org/wiki/Neutrino), with around 20\%, which are difficult to detect since the neutrinos hardly interact with matter. The decay to pairs of electrons, muons and tau-leptons have a BR of about 10\% of the total. In fact, the tau [life time](https://en.wikipedia.org/wiki/Particle_decay) is very short, 3x10-13s, so it can be reconstructed only from its decay products. The efficiency of reconstructing tau-leptons is much lower than that of electrons and muons. 
+
+- [Example of physics analysis: the case of SM W-boson production in the single-lepton final state]({{< ref "/13TeVWProdFinalSingleLep" >}} "Example of physics analysis: the case of SM W-boson production in the single-lepton final state")
