@@ -24,3 +24,6 @@ At the end, one is able to compare data and MC prediction for the distribution o
 <img src="images/SL1_plot.png" width="600" />
 </CENTER>
 {{< /rawhtml >}}
+
+# Navigation
+Go to the next [section]({{< ref "/13TeVSingletqProdFinalSingleLep" >}} "Single top quark production 13 TeV") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").

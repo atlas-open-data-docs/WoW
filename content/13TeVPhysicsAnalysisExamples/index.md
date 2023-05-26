@@ -88,3 +88,5 @@ The decay mode with the highest branching ratio BR is the decay to [hadrons](htt
 - [Example of physics analysis: the case of SM W-boson production in the single-lepton final state]({{< ref "/13TeVWProdFinalSingleLep" >}} "Example of physics analysis: the case of SM W-boson production in the single-lepton final state")
 
 - [Example of physics analysis: the case of t-channel single-top-quark production in the single-lepton final state]({{< ref "/13TeVSingletqProdFinalSingleLep" >}} "Example of physics analysis: the case of t-channel single-top-quark production in the single-lepton final state")
+
+- [Example of physics analysis: the case of the top-quark pair production in the single-lepton final state]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Example of physics analysis: the case of the top-quark pair production in the single-lepton final state")
