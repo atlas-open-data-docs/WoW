@@ -24,5 +24,3 @@ Use the sections below to jump directly to the page you are interested in. You c
 - [Available Physics Objects 13 TeV]({{< ref "/13TeVAvailPhysObj" >}} "Available Physics Objects 13 TeV")
 
 - [Full List of Branches and Variables 13 TeV]({{< ref "/13TeVListBranches" >}} "Full List of Branches and Variables 13 TeV")
-
-- [Physics Analysis Examples 13 TeV]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Physics Analysis Examples 13 TeV")
