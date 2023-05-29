@@ -24,3 +24,6 @@ At the end, one is able to compare data and MC prediction for the distribution o
 <img src="images/SL3_plot.png" width="600" />
 </CENTER>
 {{< /rawhtml >}}
+
+# Navigation
+Go to the next [section]({{< ref "/13TeVZProdTwoFinalLep" >}} "Z boson production with two leptons in the final state") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").
