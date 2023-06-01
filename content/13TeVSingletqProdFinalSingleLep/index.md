@@ -11,7 +11,7 @@ At hadron colliders, top quarks are predominantly produced in pairs via the flav
 
 In pp collisions, the t-channel exchange is the dominant production process of single top quarks: an exchange of a space-like W boson due to the interaction of a light quark with a b-quark produces a top quark and a forward light-quark (called the spectator quark) in the final state.
 
-In order to identify these events, one needs to apply the standard object-selection criteria (defined in "Reconstructed physics objects"), with a stricter lepton $p_T$ (> 35 GeV) and lepton calorimeter and tracking isolation (< 0.1) requirements and tight lepton identification criteria, and an event-selection criteria defined as:
+In order to identify these events, one needs to apply the standard object-selection criteria (defined in "Reconstructed physics objects"), with a stricter lepton pT (> 35 GeV) and lepton calorimeter and tracking isolation (< 0.1) requirements and tight lepton identification criteria, and an event-selection criteria defined as:
 
 {{< rawhtml >}}
 <CENTER>
@@ -28,4 +28,4 @@ At the end, one is able to compare data and MC prediction for the distribution o
 {{< /rawhtml >}}
 
 # Navigation
-Go to the next [section]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Top Quark Pair Production 13 TeV") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").
+Go to the [previous example]({{< ref "/13TeVWProdFinalSingleLep" >}} "SM W Boson Production Single Lepton Final State 13 TeV"), the [next example]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Top Quark Pair Production 13 TeV") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").

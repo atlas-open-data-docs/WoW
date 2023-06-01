@@ -26,4 +26,4 @@ At the end, one is able to compare data and MC prediction for the distribution o
 {{< /rawhtml >}}
 
 # Navigation
-Go to the next [section]({{< ref "/13TeVHtoWWbosons" >}} "Higgs decaying into WW bosons with two leptons in the final state") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").
+Go to the [previous example]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Top Quark Pair Production 13 TeV"), the [next example]({{< ref "/13TeVHtoWWbosons" >}} "Higgs decaying into WW bosons with two leptons in the final state") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").
