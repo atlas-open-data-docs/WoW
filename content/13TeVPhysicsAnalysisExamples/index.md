@@ -104,3 +104,5 @@ The decay mode with the highest branching ratio BR is the decay to [hadrons](htt
 - [Example of physics analysis: the case of SM Higgs boson production in the H → ZZ decay channel in the four-lepton final state]({{< ref "/13TeVHtoZZFinal4LepChannel" >}} "Example of physics analysis: the case of SM Higgs boson production in the H → ZZ decay channel in the four-lepton final state")
 
 - [Example of physics analysis: the case of SM Z-boson production in the two-tau-lepton final state]({{< ref "/13TeVZtotautauLep" >}} "Example of physics analysis: the case of SM Z-boson production in the two-tau-lepton final state")
+
+- [Example of physics analysis: the case of a search for BSM Z' → tt in the single-lepton boosted final state]({{< ref "/13TeVBSMZptottbar" >}} "Example of physics analysis: the case of a search for BSM Z' → tt in the single-lepton boosted final state")
