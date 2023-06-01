@@ -19,7 +19,7 @@ Hence, **twelve examples of physics analysis** (as reported in official release 
 
 - **three low statistics** analyses with a selection of single top-quarks produced in the single-lepton t-channel, diboson WZ events produced in the tri-lepton final state and diboson ZZ events produced in the fully-leptonic final states. These analyses illustrate the statistical limitations of the released dataset given the low production cross-section of the rare processes, where the variations between data and MC prediction are attributed to sizeable statistical fluctuations.
 
-- **three SM Higgs boson** analyses with a selection of events in the $H \rightarrow WW$, $H \rightarrow ZZ$ and $H \rightarrow \gamma \gamma$ decay channels, which serve as examples to implement simplified analyses in different final-state scenarios and "re-discover" the production of the SM Higgs boson.
+- **three SM Higgs boson** analyses with a selection of events in the H → WW, H → ZZ and H → yy decay channels, which serve as examples to implement simplified analyses in different final-state scenarios and "re-discover" the production of the SM Higgs boson.
 
 - **two BSM physics** analyses searching for new hypothetical particles: one implementing the selection criteria of a search for direct production of superpartners of SM leptons, and the second one implementing the selection criteria of a search for new heavy particles that decay into top-quark pairs, provided to implement a simplified analysis for searching for new physics using different physics objects.
 
@@ -59,7 +59,7 @@ The figure below shows the Standard Model Higgs boson production cross sections 
 
 Quantum chromodynamics *QCD* and Electroweak *EW* models are used to predict the production cross sections. Next-to-leading order *NLO* and next-to-next-to leading order *NNLO* calculations are carried. High order corrections are required to achieve the desired precision for these predictions.
 
-Currently, the SM Higgs boson mass has been measured to be $125.09 \pm 0.24$ [GeV](https://en.wikipedia.org/wiki/Electronvolt) by combining ATLAS and CMS [measurements](https://arxiv.org/abs/1503.07589).
+Currently, the SM Higgs boson mass has been measured to be 125.09 ± 0.24 [GeV](https://en.wikipedia.org/wiki/Electronvolt) by combining ATLAS and CMS [measurements](https://arxiv.org/abs/1503.07589).
 
 ## Higgs boson decay
 
@@ -85,26 +85,30 @@ The following table displays the branching ratios and the relative uncertainty f
 
 The decay mode with the highest branching ratio BR is the decay to [hadrons](https://en.wikipedia.org/wiki/Hadron), with around 70\%, which is not easy to detect due to [multijet QCD](https://cds.cern.ch/record/1951336) backgrounds. A large fraction of the [leptonic](https://en.wikipedia.org/wiki/Lepton) decays are to a pair of [neutrinos](https://en.wikipedia.org/wiki/Neutrino), with around 20\%, which are difficult to detect since the neutrinos hardly interact with matter. The decay to pairs of electrons, muons and tau-leptons have a BR of about 10\% of the total. In fact, the tau [life time](https://en.wikipedia.org/wiki/Particle_decay) is very short, 3x10-13s, so it can be reconstructed only from its decay products. The efficiency of reconstructing tau-leptons is much lower than that of electrons and muons. 
 
-- [Example of physics analysis: the case of SM W-boson production in the single-lepton final state]({{< ref "/13TeVWProdFinalSingleLep" >}} "Example of physics analysis: the case of SM W-boson production in the single-lepton final state")
+## Available Examples
 
-- [Example of physics analysis: the case of t-channel single-top-quark production in the single-lepton final state]({{< ref "/13TeVSingletqProdFinalSingleLep" >}} "Example of physics analysis: the case of t-channel single-top-quark production in the single-lepton final state")
+Below, you will find a list of twelve analysis examples which are implemented using the 13 TeV data set, as well as a brief description of each one of them. Just click on the link for the analysis you want to see and jump to different examples using the navigation section which is at the bottom of each of them!
 
-- [Example of physics analysis: the case of the top-quark pair production in the single-lepton final state]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Example of physics analysis: the case of the top-quark pair production in the single-lepton final state")
+1. [Example of physics analysis: the case of SM W-boson production in the single-lepton final state]({{< ref "/13TeVWProdFinalSingleLep" >}} "Example of physics analysis: the case of SM W-boson production in the single-lepton final state")
 
-- [Example of physics analysis: the case of the SM Z-boson production in the two-lepton final state]({{< ref "/13TeVZProdTwoFinalLep" >}} "Example of physics analysis: the case of the SM Z-boson production in the two-lepton final state")
+1. [Example of physics analysis: the case of t-channel single-top-quark production in the single-lepton final state]({{< ref "/13TeVSingletqProdFinalSingleLep" >}} "Example of physics analysis: the case of t-channel single-top-quark production in the single-lepton final state")
 
-- [Example of physics analysis: the case of the SM Higgs boson production in the H →  WW decay channel in the two-lepton final state]({{< ref "/13TeVHtoWWbosons" >}} "Example of physics analysis: the case of the SM Higgs boson production in the H →  WW decay channel in the two-lepton final state")
+1. [Example of physics analysis: the case of the top-quark pair production in the single-lepton final state]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Example of physics analysis: the case of the top-quark pair production in the single-lepton final state")
 
-- [Example of physics analysis: the case of a search for supersymmetric particles in the two-lepton final state]({{< ref "/13TeVSUSYTwoLepFinalState" >}} "Example of physics analysis: the case of a search for supersymmetric particles in the two-lepton final state")
+1. [Example of physics analysis: the case of the SM Z-boson production in the two-lepton final state]({{< ref "/13TeVZProdTwoFinalLep" >}} "Example of physics analysis: the case of the SM Z-boson production in the two-lepton final state")
 
-- [Example of physics analysis: the case of SM WZ diboson production in the three-lepton final state]({{< ref "/13TeVWZDibosonProd" >}} "Example of physics analysis: the case of SM WZ diboson production in the three-lepton final state")
+1. [Example of physics analysis: the case of the SM Higgs boson production in the H →  WW decay channel in the two-lepton final state]({{< ref "/13TeVHtoWWbosons" >}} "Example of physics analysis: the case of the SM Higgs boson production in the H →  WW decay channel in the two-lepton final state")
 
-- [Example of physics analysis: the case of SM ZZ diboson production in the four-lepton final state]({{< ref "/13TeVZZProdFinal4Lep" >}} "Example of physics analysis: the case of SM ZZ diboson production in the four-lepton final state")
+1. [Example of physics analysis: the case of a search for supersymmetric particles in the two-lepton final state]({{< ref "/13TeVSUSYTwoLepFinalState" >}} "Example of physics analysis: the case of a search for supersymmetric particles in the two-lepton final state")
 
-- [Example of physics analysis: the case of SM Higgs boson production in the H → ZZ decay channel in the four-lepton final state]({{< ref "/13TeVHtoZZFinal4LepChannel" >}} "Example of physics analysis: the case of SM Higgs boson production in the H → ZZ decay channel in the four-lepton final state")
+1. [Example of physics analysis: the case of SM WZ diboson production in the three-lepton final state]({{< ref "/13TeVWZDibosonProd" >}} "Example of physics analysis: the case of SM WZ diboson production in the three-lepton final state")
 
-- [Example of physics analysis: the case of SM Z-boson production in the two-tau-lepton final state]({{< ref "/13TeVZtotautauLep" >}} "Example of physics analysis: the case of SM Z-boson production in the two-tau-lepton final state")
+1. [Example of physics analysis: the case of SM ZZ diboson production in the four-lepton final state]({{< ref "/13TeVZZProdFinal4Lep" >}} "Example of physics analysis: the case of SM ZZ diboson production in the four-lepton final state")
 
-- [Example of physics analysis: the case of a search for BSM Z' → tt in the single-lepton boosted final state]({{< ref "/13TeVBSMZptottbar" >}} "Example of physics analysis: the case of a search for BSM Z' → tt in the single-lepton boosted final state")
+1. [Example of physics analysis: the case of SM Higgs boson production in the H → ZZ decay channel in the four-lepton final state]({{< ref "/13TeVHtoZZFinal4LepChannel" >}} "Example of physics analysis: the case of SM Higgs boson production in the H → ZZ decay channel in the four-lepton final state")
 
-- [Example of physics analysis: the case of SM Higgs boson production in the H → yy decay channel in the two-photon final state]({{< ref "/13TeVHtoGammaGammaChannel" >}} "Example of physics analysis: the case of SM Higgs boson production in the H → yy decay channel in the two-photon final state")
+1. [Example of physics analysis: the case of SM Z-boson production in the two-tau-lepton final state]({{< ref "/13TeVZtotautauLep" >}} "Example of physics analysis: the case of SM Z-boson production in the two-tau-lepton final state")
+
+1. [Example of physics analysis: the case of a search for BSM Z' → tt in the single-lepton boosted final state]({{< ref "/13TeVBSMZptottbar" >}} "Example of physics analysis: the case of a search for BSM Z' → tt in the single-lepton boosted final state")
+
+1. [Example of physics analysis: the case of SM Higgs boson production in the H → yy decay channel in the two-photon final state]({{< ref "/13TeVHtoGammaGammaChannel" >}} "Example of physics analysis: the case of SM Higgs boson production in the H → yy decay channel in the two-photon final state")
