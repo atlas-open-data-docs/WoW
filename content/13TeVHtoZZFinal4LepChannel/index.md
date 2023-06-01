@@ -26,4 +26,4 @@ At the end, one is able to compare data and MC prediction for the distribution o
 {{< /rawhtml >}}
 
 # Navigation
-Go to the next [section]({{< ref "/13TeVTopQuarkPairProdFinalSingleLep" >}} "Top Quark Pair Production 13 TeV") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").
+Go to the next [section]({{< ref "/13TeVZtotautauLep" >}} "Z boson decaying into two tau leptons 13 TeV") or jump back to the [summary page]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page").
