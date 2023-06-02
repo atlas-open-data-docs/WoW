@@ -28,4 +28,4 @@ At the end, one is able to compare data and MC prediction for the distribution o
 {{< /rawhtml >}}
 
 # Navigation
-Go to the [previous example]({{< ref "/13TeVZtotautauLep" >}} "Z boson decaying into two tau leptons 13 TeV"), the [next example]({{< ref "/13TeVHtoGammaGammaChannel" >}} "Higgs to gamma gamma channel") or jump back to the [summary page for the analysis examples]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page") or the [general summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous example]({{< ref "/13TeVDocZtotautauLep" >}} "Z boson decaying into two tau leptons 13 TeV"), the [next example]({{< ref "/13TeVDocHtoGammaGammaChannel" >}} "Higgs to gamma gamma channel") or jump back to the [summary page for the analysis examples]({{< ref "/13TeVDocPhysicsAnalysisExamples" >}} "Summary page") or the [general summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").

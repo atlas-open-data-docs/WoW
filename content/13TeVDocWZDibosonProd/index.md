@@ -26,4 +26,4 @@ At the end, one is able to compare data and MC prediction for the distribution o
 {{< /rawhtml >}}
 
 # Navigation
-Go to the [previous example]({{< ref "/13TeVSUSYTwoLepFinalState" >}} "Supersymmetric particles with two leptons in the final state 13 TeV"), the [next example]({{< ref "/13TeVZZProdFinal4Lep" >}} "ZZ Diboson Production 13 TeV") or jump back to the [summary page for the analysis examples]({{< ref "/13TeVPhysicsAnalysisExamples" >}} "Summary page") or the [general summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous example]({{< ref "/13TeVDocSUSYTwoLepFinalState" >}} "Supersymmetric particles with two leptons in the final state 13 TeV"), the [next example]({{< ref "/13TeVDocZZProdFinal4Lep" >}} "ZZ Diboson Production 13 TeV") or jump back to the [summary page for the analysis examples]({{< ref "/13TeVDocPhysicsAnalysisExamples" >}} "Summary page") or the [general summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
