@@ -27,6 +27,3 @@ At the end, one is able to compare data and MC prediction for the distribution o
 
 # Navigation
 Go to the [previous example]({{< ref "/13TeVDocBSMZptottbar" >}} "BSM Z' to ttbar 13 TeV") or jump back to the [summary page for the analysis examples]({{< ref "/13TeVDocAnalysisExamples" >}} "Summary page") or the [general summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
-
-
-
