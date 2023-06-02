@@ -103,4 +103,4 @@ Below, you will find a list of twelve analysis examples which are implemented us
 - [Example of physics analysis: the case of SM Higgs boson production in the H → yy decay channel in the two-photon final state]({{< ref "/13TeVDocHtoGammaGammaChannel" >}} "Example of physics analysis: the case of SM Higgs boson production in the H → yy decay channel in the two-photon final state")
 
 # Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocDocOverview" >}} "Summary page").
+Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
