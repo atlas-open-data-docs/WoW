@@ -25,21 +25,9 @@ Use the sections below to jump directly to the page you are interested in.
 Or click [here]({{< ref "/13TeVDocIntroduction" >}} "Introduction") to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
 
 - [Introduction]({{< ref "/13TeVDocIntroduction" >}} "Introduction")
+- [Physics analysis examples]({{< ref "/13TeVDocAnalysisExamples" >}} "Physics analysis examples")
 - [Jupyter Notebooks]({{< ref "/13TeVDocJupyterNotebooks" >}} "Jupyter Notebooks")
 - [Virtual Machines]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual Machines")
-- 
-- [Histogram animation]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation")
-- [Analyses]({{< ref "/8TevDocAnalyses" >}} "Analyses")
-- [Set up your environment]({{< ref "/8TevDocSetupEnv" >}} "Set up your environment")
-- [Take a closer look to the data]({{< ref "/8TevDocCloserLookData" >}} "Take a closer look to the data")
-- [Take a closer look]({{< ref "/8TevDocCloserLook" >}} "Take a closer look")
-- [Plots explained]({{< ref "/8TevDocPlots" >}} "Plots explained")
-- [More plots]({{< ref "/8TevDocMorePlots" >}} "More plots")
-- [Create a new plot]({{< ref "/8TevDocNewPlot" >}} "Create a new plot")
-- [Event selection]({{< ref "/8TevDocEventSel" >}} "Event selection")
-- [Variable names]({{< ref "/8TevDocVarNames" >}} "Variable names")
-- [Glossary]({{< ref "/8TevDocGlossary" >}} "Glossary")
-- [Dataset details]({{< ref "/8TevDocDataDetails" >}} "Dataset details")
 
 
 ---
