@@ -4,7 +4,7 @@ date: 2023-05-23T04:51:13+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: false
-showInMenu: true
+showInMenu: false
 ---
 
 The general aim of the 13 TeV ATLAS Open Data and tools released is to provide a straightforward interface to replicate the procedures used by high-energy-physics researchers and enable users to experience the analysis of particle physics data in educational environments. Therefore, it is of significant interest to check the correct modelling of several SM process by the 13 TeV ATLAS Open Data MC simulation.
