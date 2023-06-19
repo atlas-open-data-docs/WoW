@@ -24,4 +24,4 @@ The **full list** of ROOT branches and variables contained within the 13 TeV ATL
 {{< /rawhtml >}}
 
 # Navigation
-Go to the next [section]({{< ref "/13TeVOverview" >}} "13 TeV List of Branches") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
+Go to the next [section]({{< ref "/13TeVMCSimSamples" >}} "MC Simulation Samples") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").

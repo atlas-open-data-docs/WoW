@@ -24,3 +24,5 @@ Use the sections below to jump directly to the page you are interested in. You c
 - [Available Physics Objects 13 TeV]({{< ref "/13TeVAvailPhysObj" >}} "Available Physics Objects 13 TeV")
 
 - [Full List of Branches and Variables 13 TeV]({{< ref "/13TeVListBranches" >}} "Full List of Branches and Variables 13 TeV")
+
+- [Overview of the MC samples released in the 13 TeV ATLAS Open Data]({{< ref "/13TeVMCSimSamples" >}} "Overview of the MC samples released in the 13 TeV ATLAS Open Data")

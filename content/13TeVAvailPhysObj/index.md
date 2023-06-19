@@ -1,13 +1,11 @@
 ---
-title: "Available Physics Objects 13 TeV"
+title: "Reconstructed physics objects within the 13 TeV ATLAS Open Data"
 date: 2023-05-23T04:51:13+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: false
 showInMenu: false
 ---
-
-# Reconstructed physics objects within the 13 TeV ATLAS Open Data
 
 Several reconstructed physics objects (**electrons, muons, photons, hadronically decaying tau-leptons, small-R jets, large-R jets**) are contained within the 13 TeV ATLAS Open Data, and their preselection requirements are detailed below: 
 
