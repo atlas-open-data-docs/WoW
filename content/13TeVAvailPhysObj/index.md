@@ -26,4 +26,4 @@ The 13 TeV ATLAS Open Data events are selected by applying several event-quality
 In addition, several data quality criteria ensure that the detector was functioning properly and events are rejected if they contain reconstructed jets associated with energy deposits that can arise from hardware problems, beam-halo events or cosmic-ray showers. Furthermore, events are required to have at least one reconstructed vertex with two or more associated tracks.
 
 # Navigation
-Go to the next [section]({{< ref "/13TeVListBranches" >}} "13 TeV List of Branches") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
+Go to the [next section]({{< ref "/13TeVListBranches" >}} "13 TeV List of Branches") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").

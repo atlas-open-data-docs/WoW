@@ -29,5 +29,7 @@ A set of simulated SM processes includes **top-quark-pair production, single-top
 </CENTER>
 {{< /rawhtml >}}
 
+
 # Navigation
-Go to the next [section]({{< ref "/13TeVMCSimSamples" >}} "MC Simulation Samples") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
+
+Go to the [previous section]({{< ref "/13TeVListBranches" >}} "13 TeV List of Branches and Variables"), the [next section]({{< ref "/13TeVDocDataROOTFormat" >}} "Datasets in ROOT format") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").

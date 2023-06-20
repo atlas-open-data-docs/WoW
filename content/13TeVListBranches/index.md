@@ -23,5 +23,6 @@ The **full list** of ROOT branches and variables contained within the 13 TeV ATL
 </CENTER>
 {{< /rawhtml >}}
 
+
 # Navigation
-Go to the next [section]({{< ref "/13TeVMCSimSamples" >}} "MC Simulation Samples") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVAvailPhysObj" >}} "Reconstructed physics objects within the 13 TeV ATLAS Open Data"), the [next section]({{< ref "/13TeVMCSimSamples" >}} "Overview of the MC samples released in the 13 TeV ATLAS Open Data") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
