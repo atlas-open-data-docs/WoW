@@ -29,8 +29,8 @@ A particle and its antiparticle have the same mass as one another, but opposite 
 
 ATLAS uses a right-handed coordinate system with its origin at the nominal interaction point (IP) in the centre of the detector.
 The positive x-axis is defined by the direction from the IP to the centre of the LHC ring, with the positive y-axis pointing
-upwards, while the beam direction defines the z-axis. Cylindrical coordinates (r, \(\phi\)) are used in the transverse plane, \(\phi\) being the
-azimuthal angle around the z-axis. The ATLAS detector design is symmetrical in \(\phi\).
+upwards, while the beam direction defines the z-axis. Cylindrical coordinates (r, \\(phi\\)) are used in the transverse plane, \\(phi\\) being the
+azimuthal angle around the z-axis. The ATLAS detector design is symmetrical in \\(phi\\).
 
 ### **Beam**
 
@@ -95,7 +95,7 @@ Monte-Carlo [event generators](https://en.wikipedia.org/wiki/Event_generator) is
 
 ### **Opening angle (&Delta;R)**
 
-The opening angle (also called angular separation) between physics objects e.g. a lepton and a jet, can be important in understanding or identifying different physics processes. It is calculated as a function of &eta; and &phi;, and defined as: \(\Delta R = \sqrt{ (\Delta \eta)^2 + (\Delta \phi)^2)}\).
+The opening angle (also called angular separation) between physics objects e.g. a lepton and a jet, can be important in understanding or identifying different physics processes. It is calculated as a function of &eta; and &phi;, and defined as: \\(Delta R = \sqrt{ (\Delta \eta)^2 + (\Delta \phi)^2)}\\).
 
 
 ### **Parton Distribution Functions**
