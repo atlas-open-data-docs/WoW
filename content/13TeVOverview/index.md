@@ -26,3 +26,8 @@ Use the sections below to jump directly to the page you are interested in. You c
 - [Full List of Branches and Variables 13 TeV]({{< ref "/13TeVListBranches" >}} "Full List of Branches and Variables 13 TeV")
 
 - [Overview of the MC samples released in the 13 TeV ATLAS Open Data]({{< ref "/13TeVMCSimSamples" >}} "Overview of the MC samples released in the 13 TeV ATLAS Open Data")
+
+- [ROOT files & collections]({{< ref "/13TeVDocDataROOTFormat" >}} "Datasets in ROOT format")
+
+
+- [General capabilities of the released 13 TeV dataset]({{< ref "/13TeVGenerCapab" >}} "General capabilities of the released 13 TeV Open Datasets")

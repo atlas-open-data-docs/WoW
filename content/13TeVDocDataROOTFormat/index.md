@@ -4,7 +4,7 @@ date: 2023-06-20T04:51:13+01:00
 draft: false
 hideLastModified: true
 keepImageRatio: false
-showInMenu: true
+showInMenu: false
 ---
 
 This section shows a simplified filter where to download the samples. You can filter by the collection, if recorded data (derived) or MonteCarlo (simulated), and some physics categories.
@@ -30,5 +30,5 @@ For a RAW view of the repository of the files 13 TeV dataset per collection, go 
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVMCSimSamples" >}} "Overview of the MC samples released in the 13 TeV ATLAS Open Data"), the [next section]({{< ref "/13TeVDocDataROOTFormat" >}} "Datasets in ROOT format") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVMCSimSamples" >}} "Overview of the MC samples released in the 13 TeV ATLAS Open Data"), the [next section]({{< ref "/13TeVGenerCapab" >}} "General capabilities of the released 13 TeV Open Datasets") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
 
