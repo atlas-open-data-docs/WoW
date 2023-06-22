@@ -35,4 +35,4 @@ A non-exhaustive list of **possible tasks** with the proposed datasets include:
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocDataROOTFormat" >}} "Datasets in ROOT format"), the [next section]({{< ref "/13TeVGenerCapab" >}} "General capabilities of the released 13 TeV Open Datasets") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocDataROOTFormat" >}} "Datasets in ROOT format"), the [next section]({{< ref "/13TeVLimitationsDataset" >}} "Limitations of the released 13 TeV Open Datasets") or jump back to the [summary page]({{< ref "/13TeVOverview" >}} "Summary page").

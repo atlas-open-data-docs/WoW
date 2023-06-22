@@ -29,5 +29,9 @@ Use the sections below to jump directly to the page you are interested in. You c
 
 - [ROOT files & collections]({{< ref "/13TeVDocDataROOTFormat" >}} "Datasets in ROOT format")
 
-
 - [General capabilities of the released 13 TeV dataset]({{< ref "/13TeVGenerCapab" >}} "General capabilities of the released 13 TeV Open Datasets")
+
+- [Limitations of the released 13 TeV Open Datasets]({{< ref "/13TeVLimitationsDataset" >}} "Limitations of the released 13 TeV Open Datasets")
+
+- [Evolution of the ATLAS Open Data from the 8 TeV release (2016) to the 13 TeV release (2020)]({{< ref "/13TeVEvolOfData" >}} "Evolution of the ATLAS Open Data from the 8 TeV release (2016) to the 13 TeV release (2020)")
+
