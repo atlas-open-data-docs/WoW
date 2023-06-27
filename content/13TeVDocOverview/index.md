@@ -25,6 +25,7 @@ Use the sections below to jump directly to the page you are interested in.
 Or click [here]({{< ref "/13TeVDocIntroduction" >}} "Introduction") to go on a full tour through the documentation. You can always jump back to the summary page with a link at the bottom of the page or go to the next section.
 
 - [Introduction]({{< ref "/13TeVDocIntroduction" >}} "Introduction")
+- [13TeV Open Datasets]({{< ref "/13TeVDocDatasetOverview" >}} "13TeV Open Datasets")
 - [Physics analysis examples]({{< ref "/13TeVDocAnalysisExamples" >}} "Physics analysis examples")
 - [Analysis framework]({{< ref "/13TeVDocAnalysisFrameworkIntro" >}} "Analysis frameworks")
 - [Jupyter Notebooks]({{< ref "/13TeVDocJupyterNotebooks" >}} "Jupyter Notebooks")
