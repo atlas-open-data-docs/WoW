@@ -17,7 +17,9 @@ The histograms can take about 30 seconds to load. Whilst loading you'll only see
 
 We think it really helps to be able to see all nine histograms on your screen at the same time. So if this isn't the case to start with, we suggest decreasing the zoom in your web browser until you can see all nine (e.g 67%).
 
+{{< rawhtml >}}
 <iframe width="100%" height="950" src="interactive/13TeV_hwwanalyser.html" frameborder="0" allowfullscreen></iframe>
+{{< /rawhtml >}}
 
 Here we will just be looking at the electron-muon channel. Before, we had 124 Higgs candidates (see **Events per Channel** histogram below), now we are looking at just 66 Higgs candidates (see **Expected Number of Events** histogram above). However, the \(Z\) background is much reduced, so that makes it a good choice.
 

@@ -71,9 +71,12 @@ Select:
 
 
 * Opening Angle between Leptons &lt; 80 : We know that the opening angle between leptons for \(H\rightarrow WW\) tends to be small whereas for Z events the opening angle tends to be large. So cutting the large lepton angles removes some Z. This is due to the spin (an angular momentum of elementary particles *definition could be included in a hover-over box*) on the Higgs Boson and its decay particles. A Higgs Boson has 0 spin and a W Boson has a spin of 1. The directions of W Boson spins should be opposite in order to cancel out to produce a spin of 0 for the Higgs. The decay particles for these W Bosons will be electrons/muons and neutrinos, which all have a spin of ½ and will all be travelling practically parallel to each other, as matter prefers to have spin in the same direction as the direction of travel, and antimatter in the opposite direction. This means there will be a small opening angle.
+
+{{< rawhtml >}}
 <CENTER>
 <img src="images/HWW_spin.png" width="275" />
 </CENTER>
+{{< /rawhtml >}}
 
 The dominant background after all these cuts in the  
 Higgs boson + 0 jet channel comes from \(WW\) and \(Z\)+jets.
