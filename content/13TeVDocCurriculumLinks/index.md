@@ -25,9 +25,13 @@ Transverse waves made up of electric and magnetic fields oscillating at right an
 ## Particle acceleration
 
 When talking about particles accelerating towards each other it’s useful to demonstrate the physics of it using a more manageable scale experiments, for example the electron gun.
+
+{{< rawhtml >}}
 <CENTER>
 <img src="images/electrode.png" width="275" />
 </CENTER>
+{{< /rawhtml >}}
+
 In most cases a small metal filament is heated by an electric current. The electrons in this piece of wire gain Kinetic energy.
 If the heated filament is placed in a vacuum and a high p.d applied between the filament and an anode, the filament acts as a cathode, and the freed electrons accelerate towards the anode, gaining kinetic energy. If the anode has a small hole in it, the electrons in line with this holre cn pass through it, creating a [beam](http://opendata.atlas.cern/release/2020/documentation/atlas/GLOSSARY.html) with a specific kinetic energy.
  
@@ -49,9 +53,12 @@ A moderate electric field produced by a 1.5V cell can accelerate electrons to sp
 Imagine what can be done with greater accelerating voltages!- A linear particle accelerator uses electric fields to accelerate protons to speeds close to the speed of light with KE’s up to 400 MeV.
 
 We can see this being displayed in this diagram
+
+{{< rawhtml >}}
 <CENTER>
 <img src="images/capacitor.png" width="275" />
 </CENTER>
+{{< /rawhtml >}}
 
  The electron here is accelerated by the electric field as it travels towards the positive plate.
 

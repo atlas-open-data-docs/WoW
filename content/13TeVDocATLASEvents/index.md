@@ -9,9 +9,11 @@ showInMenu: false
 
 # ATLAS events
 
+{{< rawhtml >}}
 <CENTER>
 <img src="images/zpileup_alltracks.png" width="275" />
 </CENTER>
+{{< /rawhtml >}}
 
 ## Curriculum Learning Objective: Understand decay of particles in terms of the quark model
 
@@ -22,9 +24,12 @@ Beams of [protons](https://en.wikipedia.org/wiki/Proton) are accelerated around 
 ## Curriculum Learning Objective: Understand energy transfer (in context of particle acceleration)
 
 Accelerating particles links to the high-school physics concept that when particles are accelerated the work done on them is converted to and therefore equal to their kinetic energy (this is covered e.g. in A-levels). Work is done on the protons by accelerating them through an electric field.
+
+{{< rawhtml >}}
 <CENTER>
 <img src="images/electrode.png" width="275" />
 </CENTER>
+{{< /rawhtml >}}
 
 The protons within the two beams are grouped in ‘bunches’ which are squeezed down in size to increase the chances of a collision. Squeezing the protons into a smaller space increases the amount of them passing through a given volume per unit time, giving them a better chance of colliding. In the released data, the bunches crossed every 50 ns and there were about 30 collisions on average per **bunch-crossing**. This means, on average, there were about 20 million bunch crossings and 600 million collisions per second! Lots of very clever algorithms are used to pick out the interesting collisions to be analysed. This is because it would take far too long to process and gather all the data so it is better to pick the best ones and store them only.
  

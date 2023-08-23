@@ -36,7 +36,9 @@ The histograms can take about 30 seconds to load. Whilst loading you'll only see
 
 We think it really helps to be able to see all nine histograms on your screen at the same time. So if this isn't the case to start with, we suggest decreasing the zoom in your web browser until you can see all nine (e.g 67%).
 
+{{< rawhtml >}}
 <iframe width="100%" height="950" src="interactive/13TeV_ttZanalyser.html" frameborder="0" allowfullscreen></iframe>
+{{< /rawhtml >}}
 
 You can select just the \(t\bar t Z\) events by clicking on the \(t\bar t Z\) in the 'Expected Number of Events' histogram.
 
