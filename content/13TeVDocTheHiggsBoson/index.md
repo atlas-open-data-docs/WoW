@@ -34,7 +34,7 @@ Smaller contributions are expected from production in association with
 * \(b\)-quarks : \(b\bar bH\)
 * a single top quark : \(tH\)
 
-![](pictures/7-14.xsec.jpg)
+![](images/7-14.xsec.jpg)
 The figure above shows the Standard Model Higgs boson production cross sections as a function of the center of mass energy, \(\sqrt{s}\), ￼for pp collisions. Effectively, how likely each type of Higgs production is, for different LHC energies.  The theoretical uncertainties are indicated as a band [PDG](http://pdg.lbl.gov/2013/reviews/rpp2013-rev-higgs-boson.pdf).
 
 
@@ -47,7 +47,7 @@ According to the Standard Model, the Higgs boson can decay into pairs of fermion
 
 The Higgs boson mass is not predicted by the Standard Model, but once measured the production cross sections and branching ratios can be precisely calculated.
 
-![](pictures/Higgs_BR_LM.jpg)
+![](images/Higgs_BR_LM.jpg)
 
 The Standard Model Higgs boson decay branching ratios and total width are shown in the figure above [[PDG](http://pdg.lbl.gov/2013/reviews/rpp2013-rev-higgs-boson.pdf)]. You can see that the decay modes change in prominance depending on the mass of the Higgs, \(M_{H}\).  
 
@@ -68,11 +68,11 @@ followed by
 
 The following table displays the branching ratios and the relative uncertainty for a Standard Model Higgs boson with mass \(M_{H}\) = 125 GeV [PDG](http://pdg.lbl.gov/2013/reviews/rpp2013-rev-higgs-boson.pdf).
 
-![](pictures/BRtablePDG.jpg)
+![](images/BRtablePDG.jpg)
 
 The Sankey diagram below gives an overview of the different pathways to detect possible Higgs candidates from their decay modes. The upcoming Histogram Analyser App focuses on the \( H \rightarrow WW\), taking the pathway coloured in yellow. Therefore, let’s look deeper into each decay of the \(W\) boson and the reason behind our choices.
 
-![](pictures/2DC_Revised_Higgs_Decay_Sankey.png)
+![](images/2DC_Revised_Higgs_Decay_Sankey.png)
 
 The \(W\) boson decay mode with the highest branching ratio \(BR\) is the decay to [hadrons](https://en.wikipedia.org/wiki/Hadron), \(BR\) \(\sim\) 70%, which is not easy to detect due to [QCD](https://en.wikipedia.org/wiki/Quantum_chromodynamics) background.
 
