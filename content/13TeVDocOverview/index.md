@@ -30,6 +30,7 @@ Or click [here]({{< ref "/13TeVDocIntroduction" >}} "Introduction") to go on a f
 - [Analysis framework]({{< ref "/13TeVDocAnalysisFrameworkIntro" >}} "Analysis frameworks")
 - [Jupyter Notebooks]({{< ref "/13TeVDocJupyterNotebooks" >}} "Jupyter Notebooks")
 - [Virtual Machines]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual Machines")
+- [Data Visualisation]({{< ref "/13TeVDocDataVisualisation" >}} "Data Visualisation")
 - [Glossary]({{< ref "/13TeVDocGlossary" >}} "Glossary")
 
 
