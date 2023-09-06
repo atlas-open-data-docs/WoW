@@ -248,10 +248,6 @@ We think it really helps to be able to see all nine histograms on your screen at
 </html>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<iframe width="100%" height="3000" src="interactive/13TeV_crossfilter.html" frameborder="0" allowfullscreen></iframe>
-{{< /rawhtml >}}
-
 **Would you like to make more detailed cuts, increase the number of bins, or include a larger set of data?** Try [coding your data analysis](https://github.com/atlas-outreach-data-tools/notebooks-collection-opendata)!
 
 ## Expected Number of Events for 10/fb
