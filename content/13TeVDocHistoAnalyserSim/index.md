@@ -39,6 +39,32 @@ The histograms can take about 30 seconds to load. Whilst loading you'll only see
 We think it really helps to be able to see all nine histograms on your screen at the same time. So if this isn't the case to start with, we suggest decreasing the zoom in your web browser until you can see all nine (e.g 67%).
 
 {{< rawhtml >}}
+<script type="application/javascript">
+
+function resizeIFrameToFitContent( iFrame ) {
+
+    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
+    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
+}
+
+window.addEventListener('DOMContentLoaded', function(e) {
+
+    var iFrame = document.getElementById( 'iFrame1' );
+    resizeIFrameToFitContent( iFrame );
+
+    // or, to resize all iframes:
+    var iframes = document.querySelectorAll("iframe");
+    for( var i = 0; i < iframes.length; i++) {
+        resizeIFrameToFitContent( iframes[i] );
+    }
+} );
+
+</script>
+
+<iframe src="interactive/13TeV_crossfilter.html" id="iFrame1"></iframe>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <iframe width="100%" height="3000" src="interactive/13TeV_crossfilter.html" frameborder="0" allowfullscreen></iframe>
 {{< /rawhtml >}}
 
