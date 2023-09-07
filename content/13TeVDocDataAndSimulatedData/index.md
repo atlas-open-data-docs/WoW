@@ -11,7 +11,7 @@ showInMenu: false
 
 ## Data
 
-The ATLAS collaboration has released 10 inverse femtobarns of data. (An inverse femtobarn is a measure of the number of particle collision [events](http://opendata.atlas.cern/release/2020/documentation/atlas/GLOSSARY.html) per femtobarn. A barn is defined as \(10^{-28}\) \(m^2\). A Femto is a prefix in the metric system denoting a factor of \(10^{−15}\)).
+The ATLAS collaboration has released 10 inverse femtobarns of data. (An inverse femtobarn is a measure of the number of particle collision [events](http://opendata.atlas.cern/release/2020/documentation/atlas/GLOSSARY.html) per femtobarn. A barn is defined as \\(10^{-28}\\) \\(m^2\\). A Femto is a prefix in the metric system denoting a factor of \\(10^{−15}\\)).
 Ten inverse femtobarns correspond to approximately 1000 trillion proton-proton collisions.
 
 The ATLAS datasets are available on this website and on the [CERN open data portal](http://opendata.cern.ch/education/ATLAS).
