@@ -19,7 +19,7 @@ We have created two Histogram Analysers, to help visualise the data:
 The first Histogram Analyser displays just simulated (MC) events.  
 The second Histogram Analyser displays both real data and simulated events.  
 
-Both histogram analysers display four physics processes.  These are: \(H\rightarrow W^+W^-\), \(WW\), \(t\bar t\) and \(Z\).  Each process is represented by a different colour in Histogram Analyser. A more in depth discussion of them can be found in the next chapter. 
+Both histogram analysers display four physics processes.  These are: \\(H\rightarrow W^+W^-\\), \\(WW\\), \\(t\bar t\\) and \\(Z\\).  Each process is represented by a different colour in Histogram Analyser. A more in depth discussion of them can be found in the next chapter. 
 
 ## Make cuts using your cursor.
 
@@ -260,16 +260,16 @@ Some events will not be reconstructed due to the way the detector is constructed
 
 ![](images/NumbersNoSelection_13TeV.png)
 
-With no cuts, we have 124 \(H\rightarrow W^+W^-\) events, with a total background of 7342087 events.  The majority of the background is \(Z\) boson production.
+With no cuts, we have 124 \\(H\rightarrow W^+W^-\\) events, with a total background of 7342087 events.  The majority of the background is \\(Z\\) boson production.
 
-The **significance** of the  \(H\rightarrow W^+W^-\) events quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by \((\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}\)\).  
+The **significance** of the  \\(H\rightarrow W^+W^-\\) events quantifies how "significant" the Higgs sample is with respect to the background.  It is calculated by \\((\text{Number of } H\rightarrow W^+W^- \text{events}) / \sqrt{\text{Number of background events}}\\).  
 **The larger the significance value is, the better job you have done extracting the Higgs signal**.
 
 ## Channel
 
 ![](images/channel_13TeV.png)
 
-The leptonic decay channels are shown here: dielectron \(ee\), dimuon \(mm\) and electron-muon \(em\).  
+The leptonic decay channels are shown here: dielectron \\(ee\\), dimuon \\(mm\\) and electron-muon \\(em\\).  
 Decays to taus or hadrons are not considered in Histogram Analyser.
 
 Histogram Analyser showing just simulated data, displays three leptonic channels.  Histogram Analyser showing simulated and real data, displays just the electron-muon channel, so this histogram is not displayed.
@@ -280,14 +280,14 @@ This histogram displays the mass reconstructed from the two leptons in the final
 
 ![](images/DiLeptonMassNoCuts_13TeV.png)
 
-With no cuts, this peaks at 90 GeV, due the huge [\(Z\) boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
+With no cuts, this peaks at 90 GeV, due the huge [\\(Z\\) boson](http://pdg.lbl.gov/2012/listings/rpp2012-list-z-boson.pdf) contribution.
 
 ![](images/MassCutLess75_13TeV.png)  
 ![](images/NumbersMassCutLess75_13TeV.png)
 
-We can remove a large number of \(Z\) boson events by selecting **Reconstructed Dilepton Mass** to be less than 75 GeV, whilst hardly touching our Higgs signal.  
-The \(H\rightarrow W^+W^-\) sample significance increases from 0.046 to 0.250 with this cut.  
-It is thus a useful quantity to use to reduce the huge \(Z\) boson background.
+We can remove a large number of \\(Z\\) boson events by selecting **Reconstructed Dilepton Mass** to be less than 75 GeV, whilst hardly touching our Higgs signal.  
+The \\(H\rightarrow W^+W^-\\) sample significance increases from 0.046 to 0.250 with this cut.  
+It is thus a useful quantity to use to reduce the huge \\(Z\\) boson background.
 
 ## Number of Jets
 
@@ -297,23 +297,23 @@ Number of jets found in the event.
 
 ![](images/Nevents2plusJets_13TeV.png)
 
-When selecting two or more jets we see that the \(Z\) boson contribution decreases (from 7281608 to 1527242) and the \(t\bar{t}\) contribution becomes more important.
+When selecting two or more jets we see that the \\(Z\\) boson contribution decreases (from 7281608 to 1527242) and the \\(t\bar{t}\\) contribution becomes more important.
 
-Selecting two or more jets, the ratio of ttbar to \(Z\) events increases from 49730/7281608 = 0.0007 to 36958/1527242 = 0.02 and the green ttbar contribution is now noticeable in the histograms.
+Selecting two or more jets, the ratio of ttbar to \\(Z\\) events increases from 49730/7281608 = 0.0007 to 36958/1527242 = 0.02 and the green ttbar contribution is now noticeable in the histograms.
 
-Top-quark pair production leads to \(WW\)+jets final states.
+Top-quark pair production leads to \\(WW\\)+jets final states.
 
 ## Are Jets b-tagged?
 
-Jets originating from \(b\)-quarks are identified and labelled, or **tagged**, using so-called b-tagging algorithms.
+Jets originating from \\(b\\)-quarks are identified and labelled, or **tagged**, using so-called b-tagging algorithms.
 
 ![](images/Btag_13TeV.png)   
 ![](images/BtaggedYes_13TeV.png)  
 ![](images/nEventsBtagged_13TeV.png)
 
-\(b\)-tagged jets are expected in top quark decays, but not in leptonic \(W\) or \(Z\) boson decays.
+\\(b\\)-tagged jets are expected in top quark decays, but not in leptonic \\(W\\) or \\(Z\\) boson decays.
 
-Selecting 'Are Jets b-tagged' as yes, the ratio of ttbar to \(Z\) events increases from 49730/7281608 = 0.0007 to 44532/169454 = 0.26 and the green ttbar contribution is now noticeable in the histograms.
+Selecting 'Are Jets b-tagged' as yes, the ratio of ttbar to \\(Z\\) events increases from 49730/7281608 = 0.0007 to 44532/169454 = 0.26 and the green ttbar contribution is now noticeable in the histograms.
 
 ## Missing Transverse Momentum (MET) [GeV]
 
@@ -330,10 +330,10 @@ The standard abbreviation for missing transverse momentum is MET, for historical
 ![](images/MET100_13TeV.png)  
 ![](images/NeventsMET100_13TeV.png)
 
-\(Z\) boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.  
-That is why requiring missing transverse momentum removes \(Z\) boson events.
+\\(Z\\) boson decays to charged leptons do not have any neutrinos in the final state while the other processes do.  
+That is why requiring missing transverse momentum removes \\(Z\\) boson events.
 
-Select missing transverse momentum and watch how the ratio of \(WW\) and ttbar to \(Z\) events changes.
+Select missing transverse momentum and watch how the ratio of \\(WW\\) and ttbar to \\(Z\\) events changes.
 
 ## Total Lepton Transverse Momentum [GeV]
 
@@ -341,7 +341,7 @@ This is the [vectorial sum](https://en.wikipedia.org/wiki/Euclidean_vector#Addit
 
 ![](images/PTZ_13TeV.png)
 
-For \(Z\) boson events, total lepton transverse momentum peaks at zero since the transverse momenta of both leptons cancel each other.
+For \\(Z\\) boson events, total lepton transverse momentum peaks at zero since the transverse momenta of both leptons cancel each other.
 
 ![](images/PTttbar_13TeV.png)
 
@@ -351,12 +351,12 @@ For \(Z\) boson events, total lepton transverse momentum peaks at zero since the
 For the other processes this cancellation is not as pronounced.  
 Their distributions peak at between 30 and 80 GeV.
 
-## Opening Angle Between Leptons \([\phi]\)
+## Opening Angle Between Leptons \\([\phi]\\)
 
 ![](images/OpeningAngleLeptons.jpg)
 
-This is the opening angle, measured in phi \(𝜙\), between the two leptons.  
-The azimuthal angle \(\phi\) is measured from the \(x\)-axis, around the beam.
+This is the opening angle, measured in phi \\(𝜙\\), between the two leptons.  
+The azimuthal angle \\(\phi\\) is measured from the \\(x\\)-axis, around the beam.
 
 In the event display above, two lepton tracks are displayed in red and the opening angle between the two leptons is marked in blue.
 
@@ -365,17 +365,17 @@ In the event display above, two lepton tracks are displayed in red and the openi
 ![](images/OpeningAngleLeptonsHWW_13TeV.png)
 
 If the leptons are emitted back-to-back, this is displayed on the histogram as 180 degrees.  
-\(H\rightarrow W^+W^-\) events show a peak at low values in contrast to all other processes.
+\\(H\rightarrow W^+W^-\\) events show a peak at low values in contrast to all other processes.
 
-## Opening Angle Between MET and Leptons \([\phi]\)
+## Opening Angle Between MET and Leptons \\([\phi]\\)
 
-This is the opening angle, measured in phi \(𝜙\), between the missing transverse momentum \(MET\) and the two leptons.
+This is the opening angle, measured in phi \\(𝜙\\), between the missing transverse momentum \\(MET\\) and the two leptons.
 
 ![](images/OpeningAngleMETleptoms.jpg)
 
 In the event display above, missing transverse energy is displayed by the dotted yellow line.  The midline between the two lepton tracks (the direction of the vectorial sum of their transverse momenta) is represented by the dotted red line. The opening angle between the MET and leptons is shown in yellow.
 
-Events with \(t\bar t\) and \(Z\) show a relatively flat distribution in this variable whereas \(H\rightarrow W^+W^-\) and \(WW\) peak at large values.
+Events with \\(t\bar t\\) and \\(Z\\) show a relatively flat distribution in this variable whereas \\(H\rightarrow W^+W^-\\) and \\(WW\\) peak at large values.
 
 This is a useful discriminant to remove background events.
 

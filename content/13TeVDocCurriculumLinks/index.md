@@ -47,7 +47,7 @@ Although the particles in the LHC or ATLAS accelerator are not accelerated using
 
 Charged particles, such as electrons, can be accelerated by electric fields. 
 
-A moderate electric field produced by a 1.5V cell can accelerate electrons to speeds of about 700km^-1.
+A moderate electric field produced by a 1.5V cell can accelerate electrons to speeds of about \\(700 km^{-1}\\).
 
 Imagine what can be done with greater accelerating voltages!- A linear particle accelerator uses electric fields to accelerate protons to speeds close to the speed of light with KE’s up to 400 MeV.
 
