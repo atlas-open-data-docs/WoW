@@ -19,8 +19,7 @@ Conservation of momentum is the law of physics that says the total momentum of a
 
 ## Electromagnetic waves
 
-Transverse waves made up of electric and magnetic fields oscillating at right angles are known as electromagnetic waves. The two oscillations of non-conducting materials are in phase (they both go to zero at the same time). In the air, the speed is very close to that of vacuum \((3 \times 10^8\) ms\(^{-1})\).
-
+Transverse waves made up of electric and magnetic fields oscillating at right angles are known as electromagnetic waves. The two oscillations of non-conducting materials are in phase (they both go to zero at the same time). In the air, the speed is very close to that of vacuum (\\(3 \times 10^{8} ms^{-1}\\)).
 
 ## Particle acceleration
 
