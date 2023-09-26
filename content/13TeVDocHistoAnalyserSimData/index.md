@@ -388,4 +388,4 @@ Below is an event display, where a Higgs candidate has been identified decaying 
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSim" >}} "Histogram Analyser (simulation only)"), the [next section]({{< ref "/13TeVDocSeperateSignals" >}} "Seperate signals") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSim" >}} "Histogram Analyser simulation only"), the [next section]({{< ref "/13TeVDocSeperateSignals" >}} "Seperate signals") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

@@ -77,4 +77,4 @@ Or try something completely different...
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSeperateSignals" >}} "Histogram Analyser (seperate signals)") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSeperateSignals" >}} "Histogram Analyser seperate signals") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

@@ -385,4 +385,4 @@ Maximized.
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocDataAndSimulatedData" >}} "Histogram Analyser (simulation only)"), the [next section]({{< ref "/13TeVDocHistoAnalyserSimData" >}} "Histogram Analyser (simulation + data)") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocDataAndSimulatedData" >}} "Histogram Analyser simulation only"), the [next section]({{< ref "/13TeVDocHistoAnalyserSimData" >}} "Histogram Analyser simulation + data") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

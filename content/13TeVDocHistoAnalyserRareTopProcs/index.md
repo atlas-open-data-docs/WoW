@@ -472,4 +472,4 @@ Below is an event display, where a \\(t\bar t Z\\) candidate has been identified
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocRareTopAnalyses" >}} "Rare top-quark analyses"), the [next section]({{< ref "/13TeVDocHistoAnalyserSeperateSignals >}} "Histogram Analyser (seperate signals)") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocRareTopAnalyses" >}} "Rare top-quark analyses"), the [next section]({{< ref "/13TeVDocHistoAnalyserSeperateSignals >}} "Histogram Analyser seperate signals") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
