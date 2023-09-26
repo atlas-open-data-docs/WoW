@@ -76,5 +76,4 @@ Perhaps try the \\(t \bar t Z\\) with 6 jets, but separate it into leptonic chan
 Or try something completely different...
 
 # Navigation
-
 Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSeperateSignals" >}} "Histogram Analyser seperate signals") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
