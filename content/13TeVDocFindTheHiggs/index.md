@@ -125,3 +125,6 @@ Lepton, anti-lepton, neutrino, anti-neutrino.
 * Opening Angle Between Leptons (DeltaPhi(l,l)): this is the angle, measured in phi (φ), between the two leptons. The azimuthal angle φ is measured from the x-axis, around the beam.
 * Number of Expected Events: the number of events expected to be detected, reconstructed and recorded by ATLAS for 10 inverse femtobarn of data.  Numbers taken from simulation. The significance of the H → WW events quantifies how 'significant' the Higgs sample is with respect to the background. (Number of H → WW events)/Number of background events. The larger the significance value is, the better job you have done extracting the Higgs signal.
 
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocSeperateSignals" >}} "Seperate Signals"), the [next section]({{< ref "/13TeVDocRareTopProcs" >}} "Rare top-quark processes") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

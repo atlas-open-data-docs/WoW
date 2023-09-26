@@ -52,3 +52,6 @@ These can be used to compare theory with real data.
 
 Real data and simulated data do not always agree. This can be due to various reasons.  If the data and simulated data do not agree, it is important that physicists understand why.
 
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocAnalyses" >}} "Analyses"), the [next section]({{< ref "/13TeVDocHistoAnalyserSim" >}} "Histogram Analyser (simulation only)") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
