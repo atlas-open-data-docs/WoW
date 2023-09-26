@@ -89,3 +89,7 @@ In fact, the tau [life time](https://en.wikipedia.org/wiki/Particle_decay) is ve
 ## Recap: What is the importance of the Higgs Boson?
 
 Carrier of Higgs Field which gives particles mass
+
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocCurriculumLinks" >}} "Curriculum links"), the [next section]({{< ref "/13TeVDocATLASEvents" >}} "ATLAS events") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

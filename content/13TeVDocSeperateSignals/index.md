@@ -115,3 +115,7 @@ Looking at the individual histograms:
 * The opening angle of the leptons tends to be large (back-to-back) 
 
 The \\(Z\\) boson has a mass of 91 GeV, which is reconstructed from the mass of the two leptons.  Requiring Reconstructed Dilepton Mass to be less than 75 GeV removes over 90 % of the Z events. This is an important cut to remove this background from our Higgs boson signal.
+
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSimData" >}} "Histogram Analyser (simulation + data)"), the [next section]({{< ref "/13TeVDocFindTheHiggs" >}} "Find the Higgs") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

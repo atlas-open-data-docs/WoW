@@ -48,3 +48,7 @@ The reconstruction of vertices is important for many physics studies. This inclu
 ## Recap: What is an event?
 
 Data from when a bunch of (around 30) protons collide
+
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocTheHigssBoson" >}} "The Higgs Boson"), the [next section]({{< ref "/13TeVDocAnalyses" >}} "Analyses") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

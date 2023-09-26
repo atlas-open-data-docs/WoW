@@ -82,3 +82,6 @@ In Histogram Analyser the lepton-antilepton pair production can be studied in th
 
 ![](images/ZmumuPlusCaption.png)
 
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocRareTopProcs" >}} "Rare top-quark processes"), the [next section]({{< ref "/13TeVDocHistoAnalyserRareTopProcs" >}} "Histogram Analyser (rare tops)") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

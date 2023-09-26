@@ -105,3 +105,6 @@ In Histogram Analyser the lepton-antilepton pair production can be studied in th
 
 ![](images/ZmumuPlusCaption.png)
 
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocATLASEvents" >}} "ATLAS events"), the [next section]({{< ref "/13TeVDocDataAndSimulatedData" >}} "Data and Simulated Data") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

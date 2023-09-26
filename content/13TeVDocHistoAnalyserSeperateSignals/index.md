@@ -80,3 +80,7 @@ Looking at the individual histograms:
 * The opening angle of the leptons tends to be large (back-to-back) 
 
 \\(t \bar t Z\\) decays often contain 6 jets, whereas \\(Z\\) boson decays tend to contain fewer jets. Requiring at least 6 jets is an important cut to remove \\(Z\\) boson background from our \\(t \bar t Z\\) signal.
+
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserRareTopProcs" >}} "Histogram Analyser (rare top-quark processes)"), the [next section]({{< ref "/13TeVDocFindTheRareTopProc" >}} "Find the rare top") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

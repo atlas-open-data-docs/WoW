@@ -70,3 +70,6 @@ This suggests the electron here will experience a constant electrostatic force d
 
 the ability to accelerate particles to the point where they annihilate each other means when releasing energy and mass  from the collision you could then observe with a series of special monitors.
 
+# Navigation
+
+Go to the [next section]({{< ref "/13TeVDocTheHiggsBoson" >}} "The Higgs Boson") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

@@ -111,3 +111,7 @@ In fact, the tau [life time](https://en.wikipedia.org/wiki/Particle_decay) is ve
 ## Recap: What are the three main top quark decays in decreasing order of \\(BR\\)?
 
 Alljets > lepton + jets > dilepton
+
+# Navigation
+
+Go to the [previous section]({{< ref "/13TeVDocFindTheHiggs" >}} "Find the Higgs"), the [next section]({{< ref "/13TeVDocRareTopAnalyses" >}} "Rare top-quark analyses") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
