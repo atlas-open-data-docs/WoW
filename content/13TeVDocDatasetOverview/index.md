@@ -36,4 +36,4 @@ Use the sections below to jump directly to the page you are interested in. You c
 - [Evolution of the ATLAS Open Data from the 8 TeV release (2016) to the 13 TeV release (2020)]({{< ref "/13TeVDocEvolOfData" >}} "Evolution of the ATLAS Open Data from the 8 TeV release (2016) to the 13 TeV release (2020)")
 
 # Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocIntroduction" >}} "Introduction"), the [next section]({{< ref "/13TeVDocAnalysisExamples" >}} "Analysis examples") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").

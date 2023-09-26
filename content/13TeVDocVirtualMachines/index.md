@@ -145,4 +145,4 @@ _ _ _
 _ _ _
 
 # Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocJupyterNotebooks" >}} "Jupyter notebooks"), the [next section]({{< ref "/13TeVDocDataVisualisation" >}} "Data visualisation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").

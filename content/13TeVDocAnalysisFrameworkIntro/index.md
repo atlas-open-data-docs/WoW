@@ -24,4 +24,4 @@ Use the sections below to jump directly to the page you are interested in.
 - [RDataFrame-based framework]({{< ref "/13TeVDocAnalysisFrameworkRData" >}} "RDataFrame-based framework")
 
 # Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocAnalysisExamples" >}} "Analysis examples"), the [next section]({{< ref "/13TeVDocJupyterNotebooks" >}} "Jupyter notebooks") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").

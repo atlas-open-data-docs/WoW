@@ -17,8 +17,6 @@ The following documentation provides **introductory material and detailed inform
 
 ---
 
-THIS STILLL NEEDS TO BE ADAPTED TO THE NEW PATHS, FIX THIS WHEN THE OTHER PAGES ARE WORKING!
-
 ### Information hosted in this web-page
 
 Use the sections below to jump directly to the page you are interested in.
