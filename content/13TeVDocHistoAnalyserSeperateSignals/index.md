@@ -83,4 +83,4 @@ Looking at the individual histograms:
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserRareTopProcs" >}} "Histogram Analyser (rare top-quark processes)"), the [next section]({{< ref "/13TeVDocFindTheRareTopProc" >}} "Find the rare top") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserRareTopProcs" >}} "Histogram Analyser rare top-quark processes"), the [next section]({{< ref "/13TeVDocFindTheRareTopProc" >}} "Find the rare top") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").

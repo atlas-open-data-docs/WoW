@@ -118,4 +118,4 @@ The \\(Z\\) boson has a mass of 91 GeV, which is reconstructed from the mass of 
 
 # Navigation
 
-Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSimData" >}} "Histogram Analyser (simulation + data)"), the [next section]({{< ref "/13TeVDocFindTheHiggs" >}} "Find the Higgs") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocHistoAnalyserSimData" >}} "Histogram Analyser simulation + data"), the [next section]({{< ref "/13TeVDocFindTheHiggs" >}} "Find the Higgs") or jump back to the [summary page]({{< ref "/13TeVDocDataVisualisation" >}} "Summary page").
