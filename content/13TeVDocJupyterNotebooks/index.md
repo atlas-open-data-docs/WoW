@@ -62,4 +62,4 @@ An interface to the [C++ analysis framework](../frameworks/cpp.md), written in *
 From these two interfaces, the C++ based analysis framework for the 13 TeV ATLAS Open Data analysis can be executed online using the cloud computing services such as [SWAN](https://swan.web.cern.ch/) and [Binder](https://swan.web.cern.ch/) executable platforms.
 
 # Navigation
-Go to the [previous section]({{< ref "/13TeVDocAnalysisFrameworks" >}} "Analysis frameworks"), the [next section]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual machines") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocAnalysisFrameworkIntro" >}} "Analysis frameworks"), the [next section]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual machines") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
