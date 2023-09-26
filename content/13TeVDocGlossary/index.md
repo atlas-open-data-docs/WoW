@@ -128,4 +128,4 @@ The term p<sub>T</sub> stands for transverse momentum, the component of momentum
 A vectorial sum is the result of adding two or more vectors together via vector addition.
 
 # Navigation
-Jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocDataVisualisation" >}} "Data visualisation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").

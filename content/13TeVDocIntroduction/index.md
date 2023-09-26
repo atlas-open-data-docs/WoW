@@ -63,4 +63,4 @@ The event display below shows a Z-boson decaying to two muons candidate event fr
 ![](images/zpileup_alltracks.png)
 
 # Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the next [section]({{< ref "/13TeVDocDatasetOverview" >}} "Dataset overview") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").

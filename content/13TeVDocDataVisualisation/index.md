@@ -63,4 +63,4 @@ Use the sections below to jump directly to the page you are interested in. You c
 - [Find the rare top processes]({{< ref "/13TeVDocFindTheRareTopProc" >}} "Find the rare top processes")
 
 # Navigation
-Go to the next [section]({{< ref "/8TevDocHistoAnimation" >}} "Histogram animation") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
+Go to the [previous section]({{< ref "/13TeVDocVirtualMachines" >}} "Virtual machines"), the [next section]({{< ref "/13TeVDocGlossary" >}} "Glossary") or jump back to the [summary page]({{< ref "/13TeVDocOverview" >}} "Summary page").
